@@ -19,19 +19,19 @@
 		"raffles" => "Tombola",
 		"profile" => "Profil",
 		"support" => "Support",
-		"admin" => "Admin",
+		"admin" => "Administration",
 		"sign_out" => "Se Déconnecter",
 		"sign_in" => "Se Connecter",
 
 		// Header errors and messages
 		"not_setup" => "Vous n'avez pas configuré votre panneau correctement! <a href='admin.php?a=gen&settings'>Cliquez ici</a> [Admin -> General Settings -> Settings]",
-		"header_sandbox" => "PayPal Sandbox est activée. N'utilisez les sandbox que pour les tests! Vous pouvez le désactiver <a href='admin.php?a=gen&settings'>ici</a>",
-		"missing_action" => " Il manque une action dans un ou plusieurs paquet(s)",
-		"unfinished_action" => "Vous avez une action non-fini sur la page 'Profil',<a href='profile.php'>ici</a>",
+		"header_sandbox" => "PayPal Sandbox est activé. N'utilisez les sandbox que pour les tests! Vous pouvez le désactiver <a href='admin.php?a=gen&settings'>ici</a>",
+		"missing_action" => " Il manque une action dans un ou plusieurs pack(s)",
+		"unfinished_action" => "Vous avez une action inachevée sur la page 'Profil',<a href='profile.php'>ici</a>",
 
 		// Frontpage
 		"welcome" => "Bienvenue - Inscrivez-vous",
-		"welcome_text" => "Connectez-vous à travers steam pour utiliser notre portail.",
+		"welcome_text" => "Connectez-vous à travers Steam pour utiliser notre portail.",
 
 		// News
 		"news" => "News",
@@ -46,13 +46,13 @@
 
 		// Store
 		"credits" => "Crédits",
-		"featured_pkg" => "Paquet vedette",
+		"featured_pkg" => "Pack vedette",
 		"permanent" => "Permanent",
-		"non_permanent" => "Non Permanent",
+		"non_permanent" => "Temporaire",
 
-		"select_credit" => "Selectionner paquet Crédit",
-		"select_raffle" => "Selectionner paquet Enchère",
-		"global_packages" => "Paquet global",
+		"select_credit" => "Selectionner pack Crédit",
+		"select_raffle" => "Selectionner pack Enchère",
+		"global_packages" => "pack global",
 
 		// Raffles
 		"raffle_ticket" => "Acheter un ticket",
@@ -77,10 +77,10 @@
 		"purchase_credits" => "Achat avec des Crédits",
 		"purchase" => "Achat",
 		"buy_sign_in" => "Vous devez être connecté avant d'acheter!",
-		"buy_already_own" => "Vous possédez déjà ce paquet!",
-		"buy_not_compatible" => "Ce paquet n'est pas compatible avec celui que vous possédez!",
-		"buy_they_already_own" => "Cette personne possède déjà ce paquet!",
-		"buy_they_not_compatible" => "Ce paquet n'est pas compatible avec celui qu'il possède!",
+		"buy_already_own" => "Vous possédez déjà ce pack!",
+		"buy_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez!",
+		"buy_they_already_own" => "Cette personne possède déjà ce pack!",
+		"buy_they_not_compatible" => "Ce pack n'est pas compatible avec celui qu'il possède!",
 
 		// Packages
 		"buying_someone_else" => "Voulez-vous acheter pour quelqu'un d'autre?",
@@ -102,7 +102,7 @@
 		"pkg_history" => "Historique de paquet",
 		"acc_credits" => "Crédits",
 		"transfer_credits" => "transfert de crédits",
-		"package" => "Paquet",
+		"package" => "Pack",
 
 		// Tables
 		"id" => "ID",
@@ -111,27 +111,27 @@
 		"timestamp" => "Horodatage",
 		"action" => "Action",
 		"replies" => "Réponses",
-		"view" => "Vue",
+		"view" => "Vues",
 
 		// Select boxes
-		"select_server" => "Sélectionnez votre serveur:",
-		"select_currency" => "Sélectionnez votre devise:",
-		"select_category" => "Sélectionnez votre categorie:",
+		"select_server" => "Sélectionnez vôtre serveur:",
+		"select_currency" => "Sélectionnez vôtre devise:",
+		"select_category" => "Sélectionnez vôtre categorie:",
 		"none" => "Aucun",
 
 		// Modals
 		"yes" => "Oui",
 		"no" => "Non",
 		"sure" => "Êtes-vous sûr?",
-		"sure_cur" => "Êtes-vous sûr de vouloir supprimer cette devise?",
-		"sure_srv" => "Êtes-vous sûr de vouloir supprimer ce serveur?",
-		"sure_cat" => "Êtes-vous sûr de vouloir supprimer cette categorie?",
+		"sure_cur" => "Êtes-vous sûr de vouloir supprimer cette devise ?",
+		"sure_srv" => "Êtes-vous sûr de vouloir supprimer ce serveur ?",
+		"sure_cat" => "Êtes-vous sûr de vouloir supprimer cette catégorie ?",
 
 		// Dangerous settings
 		"dangerous" => "Paramètres Dangereux",
 		"danger_cur" => "Ou bien, vous pouvez supprimer cette devise.",
-		"danger_srv" => "Ne supprimez ce serveur que si aucun paquet ne lui est attribué!",
-		"danger_cat" => "Ne supprimez cette catégorie que si aucun paquet ne lui est attribué!",
+		"danger_srv" => "Ne supprimez ce serveur que si aucun pack ne lui est attribué!",
+		"danger_cat" => "Ne supprimez cette catégorie que si aucun pack ne lui est attribué!",
 		"delete" => "Effacer",
 
 		// Admin nav
@@ -141,10 +141,10 @@
 		"servers" => "Serveurs",
 		"currencies" => "Devises",
 		"categories" => "Catégories",
-		"packages_and_actions" => "Paquets & actions",
-		"credit_packages" => "Paquets de crédits",
+		"packages_and_actions" => "Packs & actions",
+		"credit_packages" => "Pack de crédits",
 		"raffles" => "Tombola",
-		"theme_editor" => "Éditeur de thème",
+		"theme_editor" => "Éditeur de thèmes",
 		"documentation" => "Documentation",
 
 		// General Settings
@@ -157,7 +157,7 @@
 		"add_srv" => "Ajouter un serveur",
 		"edit_srv" => "Editer un serveur",
 		"server_name" => "Nom du serveur",
-		"featured_pkg_short" => "Pkg vedette",
+		"featured_pkg_short" => "Pack vedette",
 
 		// Currency page
 		"add_cur" => "Ajouter une devise",
@@ -180,32 +180,32 @@
 
 		// Admin dashboard
 		"total" => "Total",
-		"full_total" => "Total Complet",
-		"dashboard_text" => "Bienvenue sur le tableau de bord administrateur, c'est ici que vous serez en mesure de voir les stats de don de vos serveurs.",
+		"full_total" => "Total TTC",
+		"dashboard_text" => "Bienvenue sur le tableau de bord administrateur, c'est ici que vous serez en mesure de voir les stats des dons de vos serveurs.",
 
 		/** 
 		 * New in 1.4.7.2
 		 */
-		"welcome_main" => "Welcome",
-		"need_credits" => "Need more credits? <a href='store.php?credits'>Click here!</a>",
-		"no_history" => "No history",
-		"amount" => "Amount",
-		"you_have_none" => "You have none!",
+		"welcome_main" => "Bienvenue",
+		"need_credits" => "Plus de crédits? <a href='store.php?credits'>Cliquez ici!</a>",
+		"no_history" => "Pas d'historique",
+		"amount" => "Montant",
+		"you_have_none" => "Vous n'en avez aucun!",
 
-		"add_cre" => "Add credit package",
-		"edit_cre" => "Edit credit package",
-		"pack_title" => "Pack title",
-		"price" => "Price",
-		"currency" => "Currency",
-		"sure_cre" => "Are you sure you want to delete this credit package?",
-		"danger_cre" => "Or alternatively, you can delete this credit package.",
-		"select_package" => "Select package:",
-		"choose_cre" => "Choose credit package",
-		"brief_desc" => "Brief description",
-		"amt_of_cre" => "Amount of credits",
-		"price_of_pkg" => "Price of package",
-		"no_support" => "You have no support tickets",
-		"no_other_available" => "No other packages available",
+		"add_cre" => "Ajouter un pack de crédits",
+		"edit_cre" => "Éditer un pack de crédits",
+		"pack_title" => "Titre du pack",
+		"price" => "Prix",
+		"currency" => "Devise",
+		"sure_cre" => "Êtes-vous sûr de vouloir supprimer ce pack de crédits ?",
+		"danger_cre" => "Ou bien, vous pouvez supprimer ce pack de crédits.",
+		"select_package" => "Sélectionner le pack:",
+		"choose_cre" => "Choisir le pack de crédits",
+		"brief_desc" => "Brève description",
+		"amt_of_cre" => "Montant de crédits",
+		"price_of_pkg" => "Prix du pack",
+		"no_support" => "Vous n'avez pas de ticket de support",
+		"no_other_available" => "Pas d'autres packs disponibles",
 	);
 
 ?>
