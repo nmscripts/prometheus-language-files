@@ -62,8 +62,8 @@
         "raffle_reached_max" => "Du har nået det maksimale beløb for lotteri billeter. Adgang til lotteriet nægtet.",
 
         // Support
-        "create_ticket" => "Lav support ticket",
-        "ticket_closed" => "Denne ticket er lukket.",
+        "create_ticket" => "Lav en support sag",
+        "ticket_closed" => "Denne sag er lukket.",
         "reply" => "Svar",
         "create" => "Opret",
 
@@ -136,7 +136,7 @@
         // Admin nav
         "dashboard" => "instrumentbræt",
         "general_settings" => "Generelle indstillinger",
-        "support_tickets" => "Support tickets",
+        "support_tickets" => "Support sager",
         "servers" => "Servers",
         "currencies" => "Valuta",
         "categories" => "Kategorier",
@@ -180,31 +180,31 @@
         // Admin dashboard
         "total" => "Total",
         "full_total" => "Full total",
-        "dashboard_text" => "Velkommen til administratoren instrumentbrættet, det er her du vil være i stand til at se fancy statistik om dine servere donation aktivitet.",
+        "dashboard_text" => "Velkommen til administratorens instrumentbræt, det er her du vil være i stand til at se fancy statistik af donationerne.",
 
          /** 
          * New in 1.4.7.2
          */
         "welcome_main" => "Velkommen!",
-        "need_credits" => "Need more credits? <a href='store.php?credits'>Click here!</a>",
-        "no_history" => "No history",
-        "amount" => "Amount",
-        "you_have_none" => "You have none!",
+        "need_credits" => "Mangler flere credits? <a href='store.php?credits'>Klik her!</a>",
+        "no_history" => "Ingen historie",
+        "amount" => "Antal",
+        "you_have_none" => "Du har ingen!",
 
-        "add_cre" => "Add credit package",
-        "edit_cre" => "Edit credit package",
-        "pack_title" => "Pack title",
-        "price" => "Price",
-        "currency" => "Currency",
-        "sure_cre" => "Are you sure you want to delete this credit package?",
-        "danger_cre" => "Or alternatively, you can delete this credit package.",
-        "select_package" => "Select package:",
-        "choose_cre" => "Choose credit package",
-        "brief_desc" => "Brief description",
-        "amt_of_cre" => "Amount of credits",
-        "price_of_pkg" => "Price of package",
-        "no_support" => "You have no support tickets",
-        "no_other_available" => "No other packages available",
+        "add_cre" => "Tilføj credit pakke",
+        "edit_cre" => "Ændre credit pakke",
+        "pack_title" => "Pakke Titel",
+        "price" => "Pris",
+        "currency" => "Valuta",
+        "sure_cre" => "Er du sikker på du vil slette denne credit pakke?",
+        "danger_cre" => "Eller alternativt, kan du slette denne pakke.",
+        "select_package" => "Vælg pakke:",
+        "choose_cre" => "Vælg credit pakke",
+        "brief_desc" => "Beskrivelse",
+        "amt_of_cre" => "Antal af credits",
+        "price_of_pkg" => "Prisen på pakken",
+        "no_support" => "Du har ingen support sager",
+        "no_other_available" => "Ingen andre pakker tilgængelige",
     );
 
 ?>
