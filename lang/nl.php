@@ -188,26 +188,26 @@
 		/** 
 		 * New in 1.4.7.2
 		 */
-		"welcome_main" => "Welcome",
-		"need_credits" => "Need more credits? <a href='store.php?credits'>Click here!</a>",
-		"no_history" => "No history",
-		"amount" => "Amount",
-		"you_have_none" => "You have none!",
+		"welcome_main" => "Welkom",
+		"need_credits" => "Heb je meer credits nodig?? <a href='store.php?credits'>Klik hier!</a>",
+		"no_history" => "Geen Geschidenis",
+		"amount" => "Amount", // Not sure for what this is :( if its for money its Bedrag otherwise Hoeveelheid)
+		"you_have_none" => "Jij heb er geen!",
 
-		"add_cre" => "Add credit package",
-		"edit_cre" => "Edit credit package",
-		"pack_title" => "Pack title",
-		"price" => "Price",
-		"currency" => "Currency",
-		"sure_cre" => "Are you sure you want to delete this credit package?",
-		"danger_cre" => "Or alternatively, you can delete this credit package.",
-		"select_package" => "Select package:",
-		"choose_cre" => "Choose credit package",
-		"brief_desc" => "Brief description",
-		"amt_of_cre" => "Amount of credits",
-		"price_of_pkg" => "Price of package",
-		"no_support" => "You have no support tickets",
-		"no_other_available" => "No other packages available",
+		"add_cre" => "Voeg credit pakket toe",
+		"edit_cre" => "Edit credit pakket",
+		"pack_title" => "Pakket Titel",
+		"price" => "Prijs",
+		"currency" => "Valuta",
+		"sure_cre" => "Weet u zeker dat u deze credit pakket verwijderen?",
+		"danger_cre" => "Of als alternatief, kunt u dit credit pakket te verwijderen.",
+		"select_package" => "Selecteer pakket:",
+		"choose_cre" => "Kies credit pakket",
+		"brief_desc" => "Korte beschrijving",
+		"amt_of_cre" => "Aantal credits",
+		"price_of_pkg" => "Prijs van het pakket",
+		"no_support" => "Je hebt geen support tickets",
+		"no_other_available" => "Geen andere pakketten beschikbaar",
 	);
 
 ?>
