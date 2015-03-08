@@ -35,14 +35,14 @@
 
 		// News
 		"news" => "Nieuws",
-		"by" => "By",
+		"by" => "Door",
 		"no_news" => "Geen nieuws",
 		"no_news_text" => "Op het moment is er geen nieuws.",
 		"no_news_articles" => "Geen nieuws artiekelen.",
 
 		// Footer
 		"tos" => "Terms of Service",
-		"powered_by" => "Powered by Steam",
+		"powered_by" => "Mogelijk gemaakt door Steam",
 
 		// Store
 		"credits" => "Credits",
@@ -94,7 +94,7 @@
 		"credit_not_available" => "Geen credit pakketten beschikbaar op dit moment.",
 
 		// Buttons
-		"submit" => "Stuur",
+		"submit" => "Verstuur",
 
 		// Profile
 		"non_perm_pkg" => "Non-Permanent Pakket",
@@ -151,7 +151,7 @@
 
 		// General Settings
 		"settings" => "Instellingen",
-		"main_page" => "Home page",
+		"main_page" => "Start pagina",
 		"integration_settings" => "Intergratie Instellingen",
 		"ingame_notifications" => "In spe; Notificaties",
 
@@ -172,13 +172,13 @@
 		"cat_name" => "Categorie naam",
 
 		// Dashboard nav
-		"main_dashboard" => "Main dashboard",
-		"sale" => "verkoop",
-		"transactions" => "transacties",
+		"main_dashboard" => "Hoofd dashboard",
+		"sale" => "Verkoop",
+		"transactions" => "Transacties",
 		"users" => "Gebruikers",
 		"logs" => "Logs",
 		"update_sql" => "Update SQL",
-		"other_features" => "Other features",
+		"other_features" => "Andere opties",
 
 		// Admin dashboard
 		"total" => "Totaal",
