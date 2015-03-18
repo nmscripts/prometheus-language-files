@@ -210,13 +210,13 @@
 		/** 
 		 * New in 1.4.8
 		 */
-		"purchase_free" => "Get this package for free!",
-		"dashboard_revenuegraph" => "Revenue Graph",
-		"dashboard_revenuecurrency" => "Shown in your main currency",
-		"dashboard_packagesgraph" => "Package Sales",
-		"dashboard_serversgraph" => "Servers Sales",
-		"between" => "Between",
-		"and" => "And",
+		"purchase_free" => "Obtenez ce pack gratuitement !",
+		"dashboard_revenuegraph" => "Graphique des Revenues",
+		"dashboard_revenuecurrency" => "Affiché dans votre devise principale",
+		"dashboard_packagesgraph" => "Packs Vendus",
+		"dashboard_serversgraph" => "Packs Serveurs Vendus",
+		"between" => "Entre",
+		"and" => "Et",
 	);
 
 ?>
