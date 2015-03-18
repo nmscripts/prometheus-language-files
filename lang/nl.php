@@ -212,13 +212,13 @@
 		/** 
 		 * New in 1.4.8
 		 */
-		"purchase_free" => "Get this package for free!",
-		"dashboard_revenuegraph" => "Revenue Graph",
-		"dashboard_revenuecurrency" => "Shown in your main currency",
-		"dashboard_packagesgraph" => "Package Sales",
-		"dashboard_serversgraph" => "Servers Sales",
-		"between" => "Between",
-		"and" => "And",
+		"purchase_free" => "Verkrijg dit pakket gratis",
+		"dashboard_revenuegraph" => "inkomsten grafiek",
+		"dashboard_revenuecurrency" => "Weergegeven in uw standaard valuta",
+		"dashboard_packagesgraph" => "Pakket verkoopcijfers",
+		"dashboard_serversgraph" => "Servers verkoopcijfers",
+		"between" => "Tussen",
+		"and" => "En",
 	);
 
 ?>
