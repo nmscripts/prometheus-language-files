@@ -206,6 +206,17 @@
 		"price_of_pkg" => "Pris av pakke",
 		"no_support" => "Du har ingen support tickets!",
 		"no_other_available" => "Ingen andre pakker er tilgjengelig",
+
+		/** 
+		 * New in 1.4.8
+		 */
+		"purchase_free" => "Få denne pakken gratis!",
+		"dashboard_revenuegraph" => "Fortjenelse tabell",
+		"dashboard_revenuecurrency" => "Vist i hovedvalutaen din",
+		"dashboard_packagesgraph" => "Pakke salg",
+		"dashboard_serversgraph" => "Server salg",
+		"between" => "Mellom",
+		"and" => "Og",
 	);
 
 ?>

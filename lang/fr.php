@@ -24,21 +24,21 @@
 		"sign_in" => "Se Connecter",
 
 		// Header errors and messages
-		"not_setup" => "Vous n'avez pas configuré votre panneau correctement! <a href='admin.php?a=gen&settings'>Cliquez ici</a> [Admin -> General Settings -> Settings]",
-		"header_sandbox" => "PayPal Sandbox est activé. N'utilisez les sandbox que pour les tests! Vous pouvez le désactiver <a href='admin.php?a=gen&settings'>ici</a>",
+		"not_setup" => "Vous n'avez pas configuré votre panneau correctement ! <a href='admin.php?a=gen&settings'>Cliquez ici</a> [Administration ->  Paramètres généraux -> Paramètres]",
+		"header_sandbox" => "PayPal Sandbox est activé. N'utilisez le sandbox que pour les tests ! Vous pouvez le désactiver <a href='admin.php?a=gen&settings'>ici</a>",
 		"missing_action" => " Il manque une action dans un ou plusieurs pack(s)",
-		"unfinished_action" => "Vous avez une action inachevée sur la page 'Profil',<a href='profile.php'>ici</a>",
+		"unfinished_action" => "Vous avez une action inachevée sur la page 'Profil', <a href='profile.php'>ici</a>",
 
 		// Frontpage
 		"welcome" => "Bienvenue - Inscrivez-vous",
-		"welcome_text" => "Connectez-vous à travers Steam pour utiliser notre portail.",
+		"welcome_text" => "Connectez-vous par le biais de Steam pour utiliser notre portail de dons simplifié.",
 
 		// News
 		"news" => "News",
 		"by" => "Par",
-		"no_news" => "Pas de nouvelles",
-		"no_news_text" => "Il n'y a pas de nouvelles.",
-		"no_news_articles" => "Aucun article de presse.",
+		"no_news" => "Pas de news",
+		"no_news_text" => "Il n'y a pas de news.",
+		"no_news_articles" => "Pas de nouveaux articles.",
 
 		// Footer
 		"tos" => "Conditions générales d'utilisation",
@@ -50,15 +50,15 @@
 		"permanent" => "Permanent",
 		"non_permanent" => "Temporaire",
 
-		"select_credit" => "Selectionner pack Crédit",
-		"select_raffle" => "Selectionner pack Enchère",
-		"global_packages" => "pack global",
+		"select_credit" => "Selectionner Pack de Crédit",
+		"select_raffle" => "Selectionner Pack de Tombola",
+		"global_packages" => "Pack Globaux",
 
 		// Raffles
 		"raffle_ticket" => "Acheter un ticket",
 		"raffle_ended" => "La tombola a pris fin, le gagnant est: ",
-		"raffle_not_compatible" => "Ce forfait n'est pas compatible avec celui que vous possédez. L'entrée à la tombola vous est donc refusée.",
-		"raffle_already_own" => "Vous possédez déjà ce paquet. L'entrée à la tombola vous est donc refusée.",
+		"raffle_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez. L'entrée à la tombola vous est donc refusée.",
+		"raffle_already_own" => "Vous possédez déjà ce pack. L'entrée à la tombola vous est donc refusée.",
 		"raffle_reached_max" => "Vous avez atteint le montant maximum d'entrées de tombola. L'entrée à la tombola vous est donc refusée.",
 
 		// Support
@@ -68,40 +68,40 @@
 		"create" => "Créer",
 
 		// Terms of Service
-		"tos_edited" => "Les conditions ont été édité. Veuillez accepter les <a href='tos.php'>conditions générales d'utilisation</a> avant d'acheter un paquet!",
-		"tos_must_accept" => "Vous devez accepter les CGU avant d'acheter!",
+		"tos_edited" => "Les CGU ont été édité. Veuillez accepter les <a href='tos.php'>conditions générales d'utilisation</a> avant d'acheter un paquet !",
+		"tos_must_accept" => "Vous devez accepter les CGU avant d'acheter !",
 		"tos_accept" => "Accepter",
 
 		// Purchase buttons
-		"purchase_paypal" => "Achat avec Paypal",
-		"purchase_credits" => "Achat avec des Crédits",
-		"purchase" => "Achat",
-		"buy_sign_in" => "Vous devez être connecté avant d'acheter!",
-		"buy_already_own" => "Vous possédez déjà ce pack!",
-		"buy_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez!",
-		"buy_they_already_own" => "Cette personne possède déjà ce pack!",
-		"buy_they_not_compatible" => "Ce pack n'est pas compatible avec celui qu'il possède!",
+		"purchase_paypal" => "Acheter avec Paypal",
+		"purchase_credits" => "Acheter avec des Crédits",
+		"purchase" => "Acheter",
+		"buy_sign_in" => "Vous devez être connecté avant d'acheter !",
+		"buy_already_own" => "Vous possédez déjà ce pack !",
+		"buy_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez !",
+		"buy_they_already_own" => "Cette personne possède déjà ce pack !",
+		"buy_they_not_compatible" => "Ce pack n'est pas compatible avec celui qu'il possède !",
 
 		// Packages
-		"buying_someone_else" => "Voulez-vous acheter pour quelqu'un d'autre?",
+		"buying_someone_else" => "Vous faites des achats pour quelqu'un d'autre ?",
 		"buying_yourself" => "Vous êtes en train d'acheter pour vous-même",
 		"buying_for" => "Vous êtes en train d'acheter pour",
 		"packages_custom_amount" => "Montant personnalisé",
 
-		"packages_not_available" => "Aucun paquet n'est disponible pour ce serveur.",
-		"raffle_not_available" => "Aucun paquet de tombola disponible pour le moment.",
-		"credit_not_available" => "Aucun paquet de crédit disponible pour le moment.",
+		"packages_not_available" => "Aucun pack n'est disponible pour ce serveur.",
+		"raffle_not_available" => "Aucun pack de tombola n'est disponible pour le moment.",
+		"credit_not_available" => "Aucun pack de crédit n'est disponible pour le moment.",
 
 		// Buttons
-		"submit" => "Soumettre",
+		"submit" => "Envoyer",
 
 		// Profile
-		"non_perm_pkg" => "Paquet non permanent",
-		"perm_pkg" => "Paquet(s) permanent",
-		"acc_info" => "Informations du compte",
-		"pkg_history" => "Historique de paquet",
+		"non_perm_pkg" => "Pack Temporaire",
+		"perm_pkg" => "Pack(s) Permanent",
+		"acc_info" => "Informations du Compte",
+		"pkg_history" => "Historique de Pack",
 		"acc_credits" => "Crédits",
-		"transfer_credits" => "transfert de crédits",
+		"transfer_credits" => "transfert de Crédits",
 		"package" => "Pack",
 
 		// Tables
@@ -111,12 +111,12 @@
 		"timestamp" => "Horodatage",
 		"action" => "Action",
 		"replies" => "Réponses",
-		"view" => "Vues",
+		"view" => "Consulter",
 
 		// Select boxes
-		"select_server" => "Sélectionnez vôtre serveur:",
-		"select_currency" => "Sélectionnez vôtre devise:",
-		"select_category" => "Sélectionnez vôtre categorie:",
+		"select_server" => "Sélectionnez votre serveur:",
+		"select_currency" => "Sélectionnez votre devise:",
+		"select_category" => "Sélectionnez votre categorie:",
 		"none" => "Aucun",
 
 		// Modals
@@ -151,7 +151,7 @@
 		"settings" => "Paramètres",
 		"main_page" => "Page d'accueil",
 		"integration_settings" => "Paramètres d'intégration",
-		"ingame_notifications" => "Notifications Ingame",
+		"ingame_notifications" => "Notifications en jeu",
 
 		// Servers page
 		"add_srv" => "Ajouter un serveur",
@@ -170,27 +170,27 @@
 		"cat_name" => "Nom de la Catégorie",
 
 		// Dashboard nav
-		"main_dashboard" => "Tableau de bord",
+		"main_dashboard" => "Tableau de bord principal",
 		"sale" => "Vente",
 		"transactions" => "Transactions",
 		"users" => "Utilisateurs",
 		"logs" => "Logs",
 		"update_sql" => "Mise à jour SQL",
-		"other_features" => "Autres caractéristiques",
+		"other_features" => "Autres fonctionnalités",
 
 		// Admin dashboard
 		"total" => "Total",
-		"full_total" => "Total TTC",
-		"dashboard_text" => "Bienvenue sur le tableau de bord administrateur, c'est ici que vous serez en mesure de voir les stats des dons de vos serveurs.",
+		"full_total" => "Total Global",
+		"dashboard_text" => "Bienvenue sur le tableau de bord administrateur, c'est ici que vous serez en mesure de voir les statistiques des dons de vos serveurs.",
 
 		/** 
 		 * New in 1.4.7.2
 		 */
 		"welcome_main" => "Bienvenue",
-		"need_credits" => "Plus de crédits? <a href='store.php?credits'>Cliquez ici!</a>",
+		"need_credits" => "Besoin de plus de crédits ? <a href='store.php?credits'>Cliquez ici !</a>",
 		"no_history" => "Pas d'historique",
 		"amount" => "Montant",
-		"you_have_none" => "Vous n'en avez aucun!",
+		"you_have_none" => "Vous n'en avez aucun !",
 
 		"add_cre" => "Ajouter un pack de crédits",
 		"edit_cre" => "Éditer un pack de crédits",
@@ -202,10 +202,21 @@
 		"select_package" => "Sélectionner le pack:",
 		"choose_cre" => "Choisir le pack de crédits",
 		"brief_desc" => "Brève description",
-		"amt_of_cre" => "Montant de crédits",
+		"amt_of_cre" => "Nombre de crédits",
 		"price_of_pkg" => "Prix du pack",
 		"no_support" => "Vous n'avez pas de ticket de support",
 		"no_other_available" => "Pas d'autres packs disponibles",
+
+		/** 
+		 * New in 1.4.8
+		 */
+		"purchase_free" => "Get this package for free!",
+		"dashboard_revenuegraph" => "Revenue Graph",
+		"dashboard_revenuecurrency" => "Shown in your main currency",
+		"dashboard_packagesgraph" => "Package Sales",
+		"dashboard_serversgraph" => "Servers Sales",
+		"between" => "Between",
+		"and" => "And",
 	);
 
 ?>

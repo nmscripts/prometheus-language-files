@@ -208,6 +208,17 @@
 		"price_of_pkg" => "Prijs van het pakket",
 		"no_support" => "Je hebt geen support tickets",
 		"no_other_available" => "Geen andere pakketten beschikbaar",
+
+		/** 
+		 * New in 1.4.8
+		 */
+		"purchase_free" => "Get this package for free!",
+		"dashboard_revenuegraph" => "Revenue Graph",
+		"dashboard_revenuecurrency" => "Shown in your main currency",
+		"dashboard_packagesgraph" => "Package Sales",
+		"dashboard_serversgraph" => "Servers Sales",
+		"between" => "Between",
+		"and" => "And",
 	);
 
 ?>

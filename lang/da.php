@@ -205,6 +205,17 @@
         "price_of_pkg" => "Prisen på pakken",
         "no_support" => "Du har ingen support sager",
         "no_other_available" => "Ingen andre pakker tilgængelige",
+
+        /** 
+         * New in 1.4.8
+         */
+        "purchase_free" => "Get this package for free!",
+        "dashboard_revenuegraph" => "Revenue Graph",
+        "dashboard_revenuecurrency" => "Shown in your main currency",
+        "dashboard_packagesgraph" => "Package Sales",
+        "dashboard_serversgraph" => "Servers Sales",
+        "between" => "Between",
+        "and" => "And",
     );
 
 ?>
