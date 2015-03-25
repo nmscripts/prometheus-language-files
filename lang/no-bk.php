@@ -217,6 +217,12 @@
 		"dashboard_serversgraph" => "Server salg",
 		"between" => "Mellom",
 		"and" => "Og",
+
+		/** 
+		 * New in 1.4.9
+		 */
+		"free" => "Gratis",
+		"buy_own_free" => "Du eier allerede denne pakken. Du kan ikke få den to ganger!",
 	);
 
 ?>

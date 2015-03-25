@@ -219,6 +219,12 @@
 		"dashboard_serversgraph" => "Servers verkoopcijfers",
 		"between" => "Tussen",
 		"and" => "En",
+
+		/** 
+		 * New in 1.4.9
+		 */
+		"free" => "Free",
+		"buy_own_free" => "You already own this free package. You can't claim it twice!",
 	);
 
 ?>
