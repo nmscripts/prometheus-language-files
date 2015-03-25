@@ -221,8 +221,8 @@
 		/** 
 		 * New in 1.4.9
 		 */
-		"free" => "Free",
-		"buy_own_free" => "You already own this free package. You can't claim it twice!",
+		"free" => "Gratuit",
+		"buy_own_free" => "Vous possédez déjà ce pack gratuit. Vous ne pouvez pas le demander deux fois !",
 	);
 
 ?>
