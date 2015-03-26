@@ -223,8 +223,8 @@
 		/** 
 		 * New in 1.4.9
 		 */
-		"free" => "Free",
-		"buy_own_free" => "You already own this free package. You can't claim it twice!",
+		"free" => "Gratis",
+		"buy_own_free" => "Je heb dit pakket al geclaimed! je kunt het niet nog 1 keer claimen",
 	);
 
 ?>
