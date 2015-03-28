@@ -154,6 +154,7 @@
 		"total" => "Total",
 		"full_total" => "Total geral",
 		"dashboard_text" => "Bem vindo ao painel de controle do administrador, este é o lugar onde você vai ser capaz de ver as estatísticas sobre a atividades de doações de seus servidores."
+		 /*
 		 * New in 1.4.7.2
 		 */
 		"welcome_main" => "Bem Vindo",
