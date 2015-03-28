@@ -85,7 +85,7 @@
 		"pkg_history" => "Histórico de Pacote(s)",
 		"acc_credits" => "Créditos",
 		"transfer_credits" => "Transferir Créditos",
-		"package" => "Pacote",
+		"package" => "Pacote(s)",
 		// Tables
 		"id" => "ID",
 		"user" => "Usuário",
