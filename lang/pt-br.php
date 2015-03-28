@@ -26,7 +26,7 @@
 		"unfinished_action" => "Você tem uma ação não terminada na página 'Perfil', <a href='profile.php'>aqui</a>",
 		// Frontpage
 		"welcome" => "Bem Vindo - Faça login",
-		"welcome_text" => "Faça login pelo Steam para usar o nosso portal de doações fáceis.",
+		"welcome_text" => "Faça login pelo Steam para usar o nosso portal de doações.",
 		// News
 		"news" => "Notícias",
 		"by" => "Por",
