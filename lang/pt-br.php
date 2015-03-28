@@ -42,7 +42,7 @@
 		"permanent" => "Permanente",
 		"non_permanent" => "Não Permanente",
 		"select_credit" => "Selecione um pacote de crédito(s)",
-		"select_raffle" => "Selecione um pacote de sorteio",
+		"select_raffle" => "Selecione um tíquete de sorteio",
 		"global_packages" => "Pacotes Globais",
 		// Raffles
 		"raffle_ticket" => "Comprar bilhete",
