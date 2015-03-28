@@ -16,7 +16,7 @@
 		"raffles" => "Sorteios",
 		"profile" => "Perfil",
 		"support" => "Suporte",
-		"admin" => "Admin",
+		"admin" => "Administração",
 		"sign_out" => "Sair",
 		"sign_in" => "Fazer login",
 		// Header errors and messages
