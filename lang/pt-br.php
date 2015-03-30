@@ -191,5 +191,14 @@
 		 */
 		"free" => "Grátis",
 		"buy_own_free" => "Você já possui este pacote. Você não pode pegá-lo duas vezes!",
+         /**
+         * New in 1.4.9.2
+         */
+        "updates" => "Updates",
+       	/**
+		 * New in 1.4.9.3
+		 */
+		"header_sqlupdate" => "You have an unapplied MySQL update <a href='admin.php?update'>here!</a>",
+		"monthly_goal" => "Monthly goal",
 	);
 ?>

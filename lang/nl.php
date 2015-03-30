@@ -225,6 +225,17 @@
 		 */
 		"free" => "Gratis",
 		"buy_own_free" => "Je heb dit pakket al geclaimed! je kunt het niet nog 1 keer claimen",
+
+         /**
+         * New in 1.4.9.2
+         */
+        "updates" => "Updates",
+
+       	/**
+		 * New in 1.4.9.3
+		 */
+		"header_sqlupdate" => "You have an unapplied MySQL update <a href='admin.php?update'>here!</a>",
+		"monthly_goal" => "Monthly goal",
 	);
 
 ?>

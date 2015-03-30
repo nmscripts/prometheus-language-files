@@ -223,6 +223,17 @@
 		 */
 		"free" => "Gratis",
 		"buy_own_free" => "Du eier allerede denne pakken. Du kan ikke få den to ganger!",
+
+         /**
+         * New in 1.4.9.2
+         */
+        "updates" => "Oppdateringer",
+
+       	/**
+		 * New in 1.4.9.3
+		 */
+		"header_sqlupdate" => "Du har en ny MySQL oppdatering <a href='admin.php?update'>her!</a>",
+		"monthly_goal" => "Månedtlig mål",
 	);
 
 ?>

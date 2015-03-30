@@ -221,6 +221,17 @@
 		 */
 		"free" => "Free",
 		"buy_own_free" => "You already own this free package. You can't claim it twice!",
+		
+		/**
+		 * New in 1.4.9.2
+		 */
+		"updates" => "Updates",
+
+		/**
+		 * New in 1.4.9.3
+		 */
+		"header_sqlupdate" => "You have an unapplied MySQL update <a href='admin.php?update'>here!</a>",
+		"monthly_goal" => "Monthly goal",
 	);
 
 ?>
