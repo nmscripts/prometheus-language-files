@@ -232,8 +232,8 @@
       	/**
 		 * New in 1.4.9.3
 		 */
-		"header_sqlupdate" => "You have an unapplied MySQL update <a href='admin.php?update'>here!</a>",
-		"monthly_goal" => "Monthly goal",
+		"header_sqlupdate" => "Vous avez une mise à jour MySQL non appliquée <a href='admin.php?update'>ici !</a>",
+		"monthly_goal" => "Objectif mensuel",
 	);
 
 ?>
