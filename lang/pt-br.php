@@ -194,11 +194,11 @@
          /**
          * New in 1.4.9.2
          */
-        "updates" => "Updates",
+        	"updates" => "Atualizações",
        	/**
 		 * New in 1.4.9.3
 		 */
-		"header_sqlupdate" => "You have an unapplied MySQL update <a href='admin.php?update'>here!</a>",
-		"monthly_goal" => "Monthly goal",
+		"header_sqlupdate" => "Você possui uma atualização MySQL não aplicada, atualize <a href='admin.php?update'>aqui!</a>",
+		"monthly_goal" => "Meta mensal",
 	);
 ?>
