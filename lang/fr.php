@@ -10,6 +10,16 @@
 	 *
 	 * French translation courtesy of Hikage and Yellow.
 	 */
+	
+    /**
+     * Text direction
+     * @var string
+     *
+     * LTR = Left to right
+     * RTL = Right to left
+     */
+    $dir = 'ltr';
+	
 	$lang = array(
 
 		// Navigation bar
@@ -234,6 +244,15 @@
 		 */
 		"header_sqlupdate" => "Vous avez une mise à jour MySQL non appliquée <a href='admin.php?update'>ici !</a>",
 		"monthly_goal" => "Objectif mensuel",
+
+		/**
+		 * New in 1.4.9.6
+		 */
+		"payment_success" => "Payment successful!",
+		"profile_updated" => "Your profile has been updated.",
+		"payment_failed" => "Payment failed!",
+		"check_credits" => "Please check that you have enough credits to buy this package!",
+		"not_authorised" => "You are not authorized to view this area. Sign in first!",
 	);
 
 ?>

@@ -8,6 +8,16 @@
 	 * When I push a Prometheus update there will be a new section at the bottom of the en-gb language file each time there's an update.
 	 * If the new values are not set it will fallback to the default ones.
 	 */
+	
+	/**
+	 * Text direction
+	 * @var string
+	 *
+	 * LTR = Left to right
+	 * RTL = Right to left
+	 */
+	$dir = 'ltr';
+
 	$lang = array(
 
 		// Navigation bar
@@ -232,6 +242,16 @@
 		 */
 		"header_sqlupdate" => "You have an unapplied MySQL update <a href='admin.php?update'>here!</a>",
 		"monthly_goal" => "Monthly goal",
+
+		/**
+		 * New in 1.4.9.6
+		 */
+		"payment_success" => "Payment successful!",
+		"profile_updated" => "Your profile has been updated.",
+		"payment_failed" => "Payment failed!",
+		"check_credits" => "Please check that you have enough credits to buy this package!",
+		"not_authorised" => "You are not authorized to view this area. Sign in first!",
+
 	);
 
 ?>

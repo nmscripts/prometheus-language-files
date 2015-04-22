@@ -10,6 +10,16 @@
 	 *
 	 * Norwegian bokmål translation courtesy of myself.
 	 */
+
+    /**
+     * Text direction
+     * @var string
+     *
+     * LTR = Left to right
+     * RTL = Right to left
+     */
+    $dir = 'ltr';
+
 	$lang = array(
 
 		// Navigation bar
@@ -234,6 +244,15 @@
 		 */
 		"header_sqlupdate" => "Du har en ny MySQL oppdatering <a href='admin.php?update'>her!</a>",
 		"monthly_goal" => "Månedtlig mål",
+
+		/**
+		 * New in 1.4.9.6
+		 */
+		"payment_success" => "Betaling fullført!",
+		"profile_updated" => "Profilen din har blitt oppdatert.",
+		"payment_failed" => "Betalingsfeil!",
+		"check_credits" => "Vennligst sjekk at du har nok credits!",
+		"not_authorised" => "Du har ikke dagang til å se denne siden. Logg inn først!",
 	);
 
 ?>

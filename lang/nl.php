@@ -10,6 +10,16 @@
 	 *
 	 * Dutch translation courtesy of Henk.
 	 */
+	
+    /**
+     * Text direction
+     * @var string
+     *
+     * LTR = Left to right
+     * RTL = Right to left
+     */
+    $dir = 'ltr';
+	
 	$lang = array(
 
 		// Navigation bar
@@ -236,6 +246,15 @@
 		 */
 		"header_sqlupdate" => "Er staat nog een MYSQL Update open <a href='admin.php?update'>Klik hier!</a>",
 		"monthly_goal" => "Maandelijkse doel",
+
+		/**
+		 * New in 1.4.9.6
+		 */
+		"payment_success" => "Payment successful!",
+		"profile_updated" => "Your profile has been updated.",
+		"payment_failed" => "Payment failed!",
+		"check_credits" => "Please check that you have enough credits to buy this package!",
+		"not_authorised" => "You are not authorized to view this area. Sign in first!",
 	);
 
 ?>
