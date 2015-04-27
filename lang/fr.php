@@ -248,11 +248,11 @@
 		/**
 		 * New in 1.4.9.6
 		 */
-		"payment_success" => "Payment successful!",
-		"profile_updated" => "Your profile has been updated.",
-		"payment_failed" => "Payment failed!",
-		"check_credits" => "Please check that you have enough credits to buy this package!",
-		"not_authorised" => "You are not authorized to view this area. Sign in first!",
+		"payment_success" => "Paiement réussie !",
+		"profile_updated" => "Votre profil a été mis a jour.",
+		"payment_failed" => "Le paiement a échoué !",
+		"check_credits" => "Veuillez s'il vous plaît vérifier que vous avez suffisamment de crédits pour acheter ce paquet !",
+		"not_authorised" => "Vous n'êtes pas autorisé à afficher cette zone. Connectez-vous pour cela !",
 	);
 
 ?>
