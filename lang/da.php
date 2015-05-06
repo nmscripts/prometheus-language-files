@@ -219,39 +219,39 @@
         /** 
          * New in 1.4.8
          */
-        "purchase_free" => "Get this package for free!",
-        "dashboard_revenuegraph" => "Revenue Graph",
-        "dashboard_revenuecurrency" => "Shown in your main currency",
-        "dashboard_packagesgraph" => "Package Sales",
-        "dashboard_serversgraph" => "Servers Sales",
-        "between" => "Between",
-        "and" => "And",
+        "purchase_free" => "Få denne pakke gratis!",
+        "dashboard_revenuegraph" => "Indtægt Graf",
+        "dashboard_revenuecurrency" => "Vist i din valgte valuta",
+        "dashboard_packagesgraph" => "Pakke Salg",
+        "dashboard_serversgraph" => "Server Salg",
+        "between" => "Mellem",
+        "and" => "Og",
 
          /** 
          * New in 1.4.9
          */
-        "free" => "Free",
-        "buy_own_free" => "You already own this free package. You can't claim it twice!",
+        "free" => "Gratis",
+        "buy_own_free" => "Du har allerede fået denne gratis pakke. Du kan kun få den en gang!",
 
          /**
          * New in 1.4.9.2
          */
-        "updates" => "Updates",
+        "updates" => "Opdateringer",
 
          /**
          * New in 1.4.9.3
          */
-        "header_sqlupdate" => "You have an unapplied MySQL update <a href='admin.php?update'>here!</a>",
-        "monthly_goal" => "Monthly goal",
+        "header_sqlupdate" => "Du har ikke anvendt den nye MySQL opsætning. Opdater <a href='admin.php?update'>her!</a>",
+        "monthly_goal" => "Mål for denne måned",
 
         /**
          * New in 1.4.9.6
          */
-        "payment_success" => "Payment successful!",
-        "profile_updated" => "Your profile has been updated.",
-        "payment_failed" => "Payment failed!",
-        "check_credits" => "Please check that you have enough credits to buy this package!",
-        "not_authorised" => "You are not authorized to view this area. Sign in first!",
+        "payment_success" => "Betaling fuldført!",
+        "profile_updated" => "Din profil er blevet opdateret.",
+        "payment_failed" => "Betaling fejlede!",
+        "check_credits" => "Tjek venligst om du har nok credits til at købe denne pakke!",
+        "not_authorised" => "Du har ikke adgang til denne side. Log ind først!",
     );
 
 ?>
