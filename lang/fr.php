@@ -253,6 +253,42 @@
 		"payment_failed" => "Le paiement a échoué !",
 		"check_credits" => "Veuillez s'il vous plaît vérifier que vous avez suffisamment de crédits pour acheter ce paquet !",
 		"not_authorised" => "Vous n'êtes pas autorisé à afficher cette zone. Connectez-vous pour cela !",
+
+		/**
+		 * New in 1.5
+		 */
+		"wiki" => "Wiki",
+		"no_graph_info" => "No graph info",
+		"no_graph_info_text" => "Not showing graph info due to there not having been any transactions!",
+		"paymentwall_purchase" => "Purchase with Paymentwall",
+		"stripe_purchase" => "Purchase with Stripe",
+		"payment_gateways" => "Payment Gateways",
+		"advanced" => "Advanced",
+		"no_servers" => "No servers available at the moment.",
+		"entries" => "entries",
+		"you_can_enter" => "You can enter",
+		"times_more" => "time(s) more",
+		"dashboard_creditsrevenue" => "This graph also compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+		"pkg_discounted" => "This package is discounted because you own",
+
+		"compatible_text" => "If you own this package, you can't get the packages selected below",
+		"not_compatible" => "Not compatible with",
+
+		"packages" => "Packages",
+		"upgradeable_text" => "If you own the package selected, you get this one at a discounted price of the selected packages' price",
+		"upgradeable" => "Upgradeable with",
+
+		"assign_actions" => "Assign actions",
+		"actions_text" => "Assign what actions you want this package to perform after it has been purchased by a player.",
+		"actions" => "Actions",
+		"servers" => "Servers",
+		"label_amount" => "Label amount",
+		"add_package" => "Add package",
+		"edit_package" => "Edit package",
+		"labels" => "Labels",
+		"title" => "Title",
+		"category" => "Category",
+		"no_packages" => "You currently have no packages on the system",
 	);
 
 ?>

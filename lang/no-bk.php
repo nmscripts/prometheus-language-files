@@ -253,6 +253,42 @@
 		"payment_failed" => "Betalingsfeil!",
 		"check_credits" => "Vennligst sjekk at du har nok credits!",
 		"not_authorised" => "Du har ikke dagang til å se denne siden. Logg inn først!",
+
+		/**
+		 * New in 1.5
+		 */
+		"wiki" => "Wiki",
+		"no_graph_info" => "Ingen grafisk info",
+		"no_graph_info_text" => "Viser ingen grafer fordi du ikke har noen transaksjoner ennå",
+		"paymentwall_purchase" => "Kjøp via Paymentwall",
+		"stripe_purchase" => "Kjøp via Stripe",
+		"payment_gateways" => "Betalingsportaler",
+		"advanced" => "Avansert",
+		"no_servers" => "Ingen servere tilgjengelig.",
+		"entries" => "entries",
+		"you_can_enter" => "Du kan kjøpe",
+		"times_more" => "fler(e) lodd",
+		"dashboard_creditsrevenue" => "Denne grafen sammenlikner credits og penger, selvom credits kan bare kjøpes med penger. (Credits = <font color='#9c9c9c'><b>Grå</b></font>, Penger = <font color='#c10000'><b>Rød</b></font>)",
+		"pkg_discounted" => "Du har rabbat på denne pakken siden du eier",
+
+		"compatible_text" => "Hvis du eier denne pakken, kan du ikke få pakkene valgt nedenfor",
+		"not_compatible" => "Ikke kompatibel med",
+
+		"packages" => "Pakker",
+		"upgradeable_text" => "Hvis du eier den valgte pakken så får du denne pakken minus prisen av pakken du eier",
+		"upgradeable" => "Oppgraderbar med",
+
+		"assign_actions" => "Velg aksjoner",
+		"actions_text" => "Velg hvilken aksjoner denne pakken skal utføre når den har blitt kjøpt av en spiller.",
+		"actions" => "Aksjoner",
+		"servers" => "Servere",
+		"label_amount" => "Etikkete antall",
+		"add_package" => "Legg til pakke",
+		"edit_package" => "Rediger pakke",
+		"labels" => "Etikketer",
+		"title" => "Tittel",
+		"category" => "Kategorier",
+		"no_packages" => "Det finnes ingen pakker i systemet ennå",
 	);
 
 ?>
