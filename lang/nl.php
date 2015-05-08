@@ -30,7 +30,7 @@
 		"unfinished_action" => "Je heb een onafgemaakte actie op het 'Profiel' pagina, <a href='profile.php'>klik Hier</a>",
 
 		// Frontpage
-		"welcome" => "Welkome - Login",
+		"welcome" => "Welkom - Login", // fixed a little fail i made :(
 		"welcome_text" => "Login via Steam om het donatie systeem te gebruiken",
 
 		// News
@@ -55,7 +55,6 @@
 		"global_packages" => "Global Packages",
 
 		// Raffles
-		// You have reached the max amount of raffle entries. Entry to raffle denied
 		"raffle_ticket" => "Koop een ticket",
 		"raffle_ended" => "De loterij is ge-eindigt en de winnaar is: ",
 		"raffle_not_compatible" => "Deze package is niet compactable met een die je nu heb!.",
@@ -98,7 +97,7 @@
 
 		// Profile
 		"non_perm_pkg" => "Non-Permanent Pakket",
-		"perm_pkg" => "Permanent pakket(en)",
+		"perm_pkg" => "Permanent(e) pakket(en)",
 		"acc_info" => "Account informatie",
 		"pkg_history" => "Package geschiedenis",
 		"acc_credits" => "Credits",
@@ -129,7 +128,6 @@
 		"sure_cat" => "Weet je zeker dat de deze categorie wil verwijderen?",
 
 		// Dangerous settings
-		// Don't delete this category unless no packages are assigned to it
 		"dangerous" => "Gevaarlijke instellingen",
 		"danger_cur" => "Of je kan deze eenheid verwijderen.",
 		"danger_srv" => "Verwijder deze server NIET tenzij er geen pakketen toegewezen zijn!",
@@ -138,7 +136,7 @@
 
 		// Admin nav
 		"dashboard" => "Dashboard",
-		"general_settings" => "Generale instellinge",
+		"general_settings" => "Generale instellingen",
 		"support_tickets" => "Support tickets",
 		"servers" => "Servers",
 		"currencies" => "Eenheden",
@@ -153,7 +151,7 @@
 		"settings" => "Instellingen",
 		"main_page" => "Home page",
 		"integration_settings" => "Intergratie Instellingen",
-		"ingame_notifications" => "In spe; Notificaties",
+		"ingame_notifications" => "In spel Notificaties",
 
 		// Servers page
 		"add_srv" => "Server toevoegen",
@@ -182,32 +180,33 @@
 
 		// Admin dashboard
 		"total" => "Totaal",
-		"full_total" => "volledige totaal",
+		"full_total" => "Totaal",
 		"dashboard_text" => "Welkom bij de beheerder dashboard, dit is waar je moet wezen om mooie statistieken te bekijken over donatie activiteit van uw servers.",
 
 		/** 
 		 * New in 1.4.7.2
 		 */
 		"welcome_main" => "Welcome",
-		"need_credits" => "Need more credits? <a href='store.php?credits'>Click here!</a>",
-		"no_history" => "No history",
-		"amount" => "Amount",
-		"you_have_none" => "You have none!",
+		"need_credits" => "Meer credits nodig? <a href='store.php?credits'>Klik hier!</a>",
+		"no_history" => "Geen geschiedenis",
+		"amount" => "Hoeveelheid",
+		"you_have_none" => "U heeft er geen!",
 
-		"add_cre" => "Add credit package",
-		"edit_cre" => "Edit credit package",
-		"pack_title" => "Pack title",
-		"price" => "Price",
-		"currency" => "Currency",
-		"sure_cre" => "Are you sure you want to delete this credit package?",
-		"danger_cre" => "Or alternatively, you can delete this credit package.",
-		"select_package" => "Select package:",
-		"choose_cre" => "Choose credit package",
-		"brief_desc" => "Brief description",
-		"amt_of_cre" => "Amount of credits",
-		"price_of_pkg" => "Price of package",
-		"no_support" => "You have no support tickets",
-		"no_other_available" => "No other packages available",
+		"add_cre" => "Credit pakket toevoegen",
+		"edit_cre" => "Credit pakket weizigen",
+		"pack_title" => "Pakket titel",
+		"price" => "Prijs",
+		"currency" => "Valuta",
+		// Or alternatively, you can delete this credit package
+		"sure_cre" => "Weet je het zeker dat je dit pakket wilt verwijderen?",
+		"danger_cre" => "Alternatief kan je dit credit pakket verwijderen.",
+		"select_package" => "Selecteer pakket:",
+		"choose_cre" => "Kies een credit pakker",
+		"brief_desc" => "korte beschrijving",
+		"amt_of_cre" => "Hoeveelheid credits",
+		"price_of_pkg" => "Prijs van pakket",
+		"no_support" => "Je hebt geen support tickets",
+		"no_other_available" => "Geen andere pakketten beschikbaar",
 	);
 
 ?>
