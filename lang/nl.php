@@ -186,7 +186,7 @@
 		/** 
 		 * New in 1.4.7.2
 		 */
-		"welcome_main" => "Welcome",
+		"welcome_main" => "Welkom",
 		"need_credits" => "Meer credits nodig? <a href='store.php?credits'>Klik hier!</a>",
 		"no_history" => "Geen geschiedenis",
 		"amount" => "Hoeveelheid",
