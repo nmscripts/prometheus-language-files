@@ -251,6 +251,12 @@
 		"title" => "Title",
 		"category" => "Category",
 		"no_packages" => "You currently have no packages on the system",
+
+		/**
+		 * New in 1.5.0.2
+		 */
+		"hide" => "Hide this package",
+		"hide_text" => "If you dont own one of the packages selected below, hide this package from the store",
 	);
 
 ?>

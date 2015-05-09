@@ -289,6 +289,12 @@
 		"title" => "Tittel",
 		"category" => "Kategorier",
 		"no_packages" => "Det finnes ingen pakker i systemet ennå",
+
+		/**
+		 * New in 1.5.0.2
+		 */
+		"hide" => "Hide this package",
+		"hide_text" => "If you dont own one of the packages selected below, hide this package from the store",
 	);
 
 ?>
