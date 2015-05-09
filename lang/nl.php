@@ -148,7 +148,7 @@
 
 		// Admin nav
 		"dashboard" => "Dashboard",
-		"general_settings" => "Generale instellinge",
+		"general_settings" => "Generale instellingen",
 		"support_tickets" => "Support tickets",
 		"servers" => "Servers",
 		"currencies" => "Eenheden",
@@ -163,7 +163,7 @@
 		"settings" => "Instellingen",
 		"main_page" => "Start pagina",
 		"integration_settings" => "Intergratie Instellingen",
-		"ingame_notifications" => "In spe; Notificaties",
+		"ingame_notifications" => "In spel Notificaties",
 
 		// Servers page
 		"add_srv" => "Server toevoegen",
@@ -201,7 +201,7 @@
 		"welcome_main" => "Welkom",
 		"need_credits" => "Heb je meer credits nodig?? <a href='store.php?credits'>Klik hier!</a>",
 		"no_history" => "Geen Geschidenis",
-		"amount" => "Amount", // Not sure for what this is :( if its for money its Bedrag otherwise Hoeveelheid)
+		"amount" => "Hoeveelheid",
 		"you_have_none" => "Jij heb er geen!",
 
 		"add_cre" => "Voeg credit pakket toe",
@@ -250,47 +250,47 @@
 		/**
 		 * New in 1.4.9.6
 		 */
-		"payment_success" => "Payment successful!",
-		"profile_updated" => "Your profile has been updated.",
-		"payment_failed" => "Payment failed!",
-		"check_credits" => "Please check that you have enough credits to buy this package!",
-		"not_authorised" => "You are not authorized to view this area. Sign in first!",
+		"payment_success" => "betaling succesvol!",
+		"profile_updated" => "Uw profiel is bijgewerkt.",
+		"payment_failed" => "betaling is mislukt!",
+		"check_credits" => "Controleer of u genoeg credits om dit pakket te kopen!",
+		"not_authorised" => "U bent niet bevoegd om dit gebied te bekijken.!",
 
 		/**
 		 * New in 1.5
 		 */
 		"wiki" => "Wiki",
-		"no_graph_info" => "No graph info",
-		"no_graph_info_text" => "Not showing graph info due to there not having been any transactions!",
-		"paymentwall_purchase" => "Purchase with Paymentwall",
-		"stripe_purchase" => "Purchase with Stripe",
+		"no_graph_info" => "Geen grafiek info",
+		"no_graph_info_text" => "Er wordt geen grafiek laten zien in verband met geen transacties!",
+		"paymentwall_purchase" => "Koop met Paymentwall",
+		"stripe_purchase" => "Koop met Stripe",
 		"payment_gateways" => "Payment Gateways",
-		"advanced" => "Advanced",
-		"no_servers" => "No servers available at the moment.",
-		"entries" => "entries",
-		"you_can_enter" => "You can enter",
-		"times_more" => "time(s) more",
-		"dashboard_creditsrevenue" => "This graph also compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
-		"pkg_discounted" => "This package is discounted because you own",
+		"advanced" => "Geavanceerd",
+		"no_servers" => "Geen servers beschikbaar op dit moment.",
+		"entries" => "inzendingen",
+		"you_can_enter" => "U kunt invoeren",
+		"times_more" => "Keer meer",
+		"dashboard_creditsrevenue" => "Deze grafiek vergelijkt ook credits besteed om geld besteed. Hoewel credits worden overgenomen met geld. (Credits = <font color='#9c9c9c'><b>Grijs</b></font>, Geld = <font color='#c10000'><b>Rood</b></font>)",
+		"pkg_discounted" => "Dit pakket heeft korting omdat u het volgende al heeft",
 
-		"compatible_text" => "If you own this package, you can't get the packages selected below",
-		"not_compatible" => "Not compatible with",
+		"compatible_text" => "Als u eigenaar van dit pakket, dan kunt u de onderstaande geselecteerde pakketten niet kopen",
+		"not_compatible" => "Niet compatibel met",
 
-		"packages" => "Packages",
-		"upgradeable_text" => "If you own the package selected, you get this one at a discounted price of the selected packages' price",
+		"packages" => "Pakketen",
+		"upgradeable_text" => "Als u het geselecteerde pakket al al heb krijg je korting op de geselecteerde pakketen",
 		"upgradeable" => "Upgradeable with",
 
-		"assign_actions" => "Assign actions",
-		"actions_text" => "Assign what actions you want this package to perform after it has been purchased by a player.",
-		"actions" => "Actions",
+		"assign_actions" => "acties toewijzen",
+		"actions_text" => "Wijs welke acties u wilt dit pakket uit te voeren nadat het is gekocht door een speler.",
+		"actions" => "Acties",
 		"servers" => "Servers",
-		"label_amount" => "Label amount",
-		"add_package" => "Add package",
-		"edit_package" => "Edit package",
+		"label_amount" => "label hoeveelheid",
+		"add_package" => "Pakket toevoegen",
+		"edit_package" => "Pakket bewerken",
 		"labels" => "Labels",
-		"title" => "Title",
-		"category" => "Category",
-		"no_packages" => "You currently have no packages on the system",
+		"title" => "Titel",
+		"category" => "Categorie",
+		"no_packages" => "U heeft momenteel geen pakketten op het systeem",
 	);
 
 ?>
