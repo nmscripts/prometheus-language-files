@@ -229,66 +229,66 @@
 		"free" => "Grátis",
 		"buy_own_free" => "Você já possui este pacote. Você não pode pegá-lo duas vezes!",
 
-         /**
-         * New in 1.4.9.2
-         */
-        "updates" => "Updates",
+        	 /**
+        	 * New in 1.4.9.2
+        	 */
+        	"updates" => "Atualizações",
 
-       	/**
+       		/**
 		 * New in 1.4.9.3
 		 */
-		"header_sqlupdate" => "You have an unapplied MySQL update <a href='admin.php?update'>here!</a>",
-		"monthly_goal" => "Monthly goal",
+		"header_sqlupdate" => "Você tem uma atualização MySQL não aplicada <a href='admin.php?update'>aqui!</a>",
+		"monthly_goal" => "Meta mensal",
 
 		/**
 		 * New in 1.4.9.6
 		 */
-		"payment_success" => "Payment successful!",
-		"profile_updated" => "Your profile has been updated.",
-		"payment_failed" => "Payment failed!",
-		"check_credits" => "Please check that you have enough credits to buy this package!",
-		"not_authorised" => "You are not authorized to view this area. Sign in first!",
+		"payment_success" => "Pagamento efetuado com sucesso!",
+		"profile_updated" => "Seu perfil foi atualizado.",
+		"payment_failed" => "O pagamento falhou!",
+		"check_credits" => "Por favor, cheque que você tem créditos o suficiente para comprar este pacote!",
+		"not_authorised" => "Você não está autorizado a acessar esta área. Faça login primeiro!",
 
 		/**
 		 * New in 1.5
 		 */
 		"wiki" => "Wiki",
-		"no_graph_info" => "No graph info",
-		"no_graph_info_text" => "Not showing graph info due to there not having been any transactions!",
-		"paymentwall_purchase" => "Purchase with Paymentwall",
-		"stripe_purchase" => "Purchase with Stripe",
-		"payment_gateways" => "Payment Gateways",
-		"advanced" => "Advanced",
-		"no_servers" => "No servers available at the moment.",
-		"entries" => "entries",
-		"you_can_enter" => "You can enter",
-		"times_more" => "time(s) more",
-		"dashboard_creditsrevenue" => "This graph also compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
-		"pkg_discounted" => "This package is discounted because you own",
+		"no_graph_info" => "Nenhum gráfico",
+		"no_graph_info_text" => "Não mostrando gráficos visto que não há nenhuma transação!",
+		"paymentwall_purchase" => "Comprar com Paymentwall",
+		"stripe_purchase" => "Comprar com Stripe",
+		"payment_gateways" => "Métodos de Pagamento",
+		"advanced" => "Avançado",
+		"no_servers" => "Nenhum servidor disponível no momento.",
+		"entries" => "entradas",
+		"you_can_enter" => "Você pode entrar",
+		"times_more" => "vezes mais",
+		"dashboard_creditsrevenue" => "Esse gráfico também compara créditos gastos com dinheiro gasto. Embora créditos são adiquiridos com dinheiro. (Créditos = <font color='#9c9c9c'><b>Cinza</b></font>, Dinheiro = <font color='#c10000'><b>Vermelho</b></font>)",
+		"pkg_discounted" => "Esse pacote ganhou um disconto visto que você possui",
 
-		"compatible_text" => "If you own this package, you can't get the packages selected below",
-		"not_compatible" => "Not compatible with",
+		"compatible_text" => "Se você possui este pacote, você não pode pegar os pacotes selecionados abaixo",
+		"not_compatible" => "Não compatível com",
 
-		"packages" => "Packages",
-		"upgradeable_text" => "If you own the package selected, you get this one at a discounted price of the selected packages' price",
-		"upgradeable" => "Upgradeable with",
+		"packages" => "Pacotes",
+		"upgradeable_text" => "Se você possui o pacote selecionado, você ganha este aqui a um preço com disconto do preço do pacote selecionado",
+		"upgradeable" => "Atualizável com",
 
-		"assign_actions" => "Assign actions",
-		"actions_text" => "Assign what actions you want this package to perform after it has been purchased by a player.",
-		"actions" => "Actions",
-		"servers" => "Servers",
-		"label_amount" => "Label amount",
-		"add_package" => "Add package",
-		"edit_package" => "Edit package",
-		"labels" => "Labels",
-		"title" => "Title",
-		"category" => "Category",
-		"no_packages" => "You currently have no packages on the system",
+		"assign_actions" => "Atribuir ações",
+		"actions_text" => "Atribua que ações você quer que este pacote performe depois que foi comprado por um jogador.",
+		"actions" => "Ações",
+		"servers" => "Servidores",
+		"label_amount" => "Quantidade descrita no rótulo",
+		"add_package" => "Adicionar pacote",
+		"edit_package" => "Editar pacote",
+		"labels" => "Rótulos",
+		"title" => "Título",
+		"category" => "Categoria",
+		"no_packages" => "Você atualmente não tem nenhum pacote no sistema",
 
 		/**
 		 * New in 1.5.0.2
 		 */
-		"hide" => "Hide this package",
-		"hide_text" => "If you dont own one of the packages selected below, hide this package from the store",
+		"hide" => "Esconder esse pacote",
+		"hide_text" => "Se você não tem um dos pacotes selecionados abaixo, esconda esse pacote da loja",
 	);
 ?>
