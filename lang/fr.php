@@ -145,7 +145,7 @@
 		"delete" => "Effacer",
 
 		// Admin nav
-		"dashboard" => "tableau de bord",
+		"dashboard" => "Tableau de bord",
 		"general_settings" => "Paramètres généraux",
 		"support_tickets" => "Tickets de support",
 		"servers" => "Serveurs",
