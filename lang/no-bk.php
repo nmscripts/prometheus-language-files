@@ -293,8 +293,23 @@
 		/**
 		 * New in 1.5.0.2
 		 */
-		"hide" => "Hide this package",
-		"hide_text" => "If you dont own one of the packages selected below, hide this package from the store",
+		"hide" => "Gjem denne pakken",
+		"hide_text" => "Hvis du ikke eier noen av pakkene valgt nedenfor, så gjemmer du denne pakken fra butikken",
+		
+		/**
+		 * New in 1.5.0.6
+		 */
+		"signin" => "Logg inn",
+		"welcome_signin" => "Du må logge inn før du kan kjøpe pakker",
+		"blacklist_notext" => "Du må skrive inn en gyldig Steam64 eller SteamID!",
+		"blacklist_success" => "Du har lagt til denne personen i svartelisten!",
+		"blacklisted_you" => "You are blacklisted from purchasing any package on this community",
+		"blacklisted_them" => "This person is blacklisted from this community, you can not purchase for them",
+
+		"recent_donators" => "Nye donators",
+		"name" => "Navn",
+		"recent_none" => "Det har ikke vært noen nye donators",
+		"raffle_free" => "Bli med gratis!",
 	);
 
 ?>
