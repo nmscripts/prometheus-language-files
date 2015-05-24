@@ -310,6 +310,12 @@
 		"name" => "Name",
 		"recent_none" => "There has not been any recent donators",
 		"raffle_free" => "Enter for free!",
+
+		/**
+		 * New in 1.5.0.8
+		 */
+		"top_donators" => "Top 3 donators",
+		"top_none" => "There are no top donators",
 	);
 
 ?>

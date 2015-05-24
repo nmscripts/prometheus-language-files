@@ -310,6 +310,12 @@
 		"name" => "Navn",
 		"recent_none" => "Det har ikke vært noen nye donators",
 		"raffle_free" => "Bli med gratis!",
+
+		/**
+		 * New in 1.5.0.8
+		 */
+		"top_donators" => "Topp 3 donators",
+		"top_none" => "Det er ingen topp donators",
 	);
 
 ?>
