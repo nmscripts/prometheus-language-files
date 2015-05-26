@@ -8,7 +8,7 @@
 	 * When I push a Prometheus update there will be a new section at the bottom of the en-gb language file each time there's an update.
 	 * If the new values are not set it will fallback to the default ones.
 	 *
-	 * French translation courtesy of Hikage and Yellow.
+	 * French translation courtesy of Hikage, Scozor and Yellow.
 	 */
 	
     /**
@@ -293,29 +293,29 @@
 		/**
 		 * New in 1.5.0.2
 		 */
-		"hide" => "Hide this package",
+		"hide" => "Cacher ce pack",
 		"hide_text" => "If you dont own one of the packages selected below, hide this package from the store",
 		
 		/**
 		 * New in 1.5.0.6
 		 */
-		"signin" => "Sign in",
-		"welcome_signin" => "You need to sign in first in order to buy any packages",
-		"blacklist_notext" => "You need to enter a valid Steam64 or SteamID to blacklist!",
-		"blacklist_success" => "You have successfully blacklisted this person",
-		"blacklisted_you" => "You are blacklisted from purchasing any package on this community",
-		"blacklisted_them" => "This person is blacklisted from this community, you can not purchase for them",
+		"signin" => "Se connecter",
+		"welcome_signin" => "Vous devez vous connecter afin d'acheter des packs",
+		"blacklist_notext" => "Vous devez entrer un SteamID ou Steam64 valide pour l'ajouter à la blacklist.",
+		"blacklist_success" => "Vous avez ajouté cette personne à la blacklist avec succès.",
+		"blacklisted_you" => "Vous êtes sur la blacklist, vous ne pouvez pas acheter ceci.",
+		"blacklisted_them" => "Cette personne est sur la blacklist, vous ne pouvez lui acheter ceci.",
 
-		"recent_donators" => "Recent donators",
-		"name" => "Name",
-		"recent_none" => "There has not been any recent donators",
-		"raffle_free" => "Enter for free!",
+		"recent_donators" => "Donateurs récents",
+		"name" => "Nom",
+		"recent_none" => "Il n'y a aucun donateur",
+		"raffle_free" => "Obtenir un ticket gratuitement",
 
 		/**
 		 * New in 1.5.0.8
 		 */
-		"top_donators" => "Top 3 donators",
-		"top_none" => "There are no top donators",
+		"top_donators" => "Top 3 des donateurs",
+		"top_none" => "Il n'y a aucun donateur",
 	);
 
 ?>
