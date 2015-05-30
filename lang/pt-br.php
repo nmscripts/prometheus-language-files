@@ -294,22 +294,22 @@
 		/**
 		 * New in 1.5.0.6
 		 */
-		"signin" => "Sign in",
-		"welcome_signin" => "You need to sign in first in order to buy any packages",
-		"blacklist_notext" => "You need to enter a valid Steam64 or SteamID to blacklist!",
-		"blacklist_success" => "You have successfully blacklisted this person",
-		"blacklisted_you" => "You are blacklisted from purchasing any package on this community",
-		"blacklisted_them" => "This person is blacklisted from this community, you can not purchase for them",
+		"signin" => "Fazer login",
+		"welcome_signin" => "Você precisa fazer login antes de comprar quaisquer pacotes",
+		"blacklist_notext" => "Você precisa inserir um Steam64 ou SteamID válido para bloquear esta pessoa!",
+		"blacklist_success" => "Você bloqueou essa pessoa com sucesso.",
+		"blacklisted_you" => "Você está bloqueado, e não pode comprar quaisquer pacotes nessa comunidade",
+		"blacklisted_them" => "Esta pessoa está bloqueada dessa comunidade, você não pode comprar por ele(a)",
 
-		"recent_donators" => "Recent donators",
-		"name" => "Name",
-		"recent_none" => "There has not been any recent donators",
-		"raffle_free" => "Enter for free!",
+		"recent_donators" => "Doadores recentes",
+		"name" => "Nome",
+		"recent_none" => "Não houve nenhum doador recente",
+		"raffle_free" => "Entrar de graça!",
 
 		/**
 		 * New in 1.5.0.8
 		 */
-		"top_donators" => "Top 3 donators",
-		"top_none" => "There are no top donators",
+		"top_donators" => "3 principais doadores",
+		"top_none" => "Não há nenhum principal doador",
 	);
 ?>
