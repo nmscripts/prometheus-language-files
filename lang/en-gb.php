@@ -312,9 +312,23 @@
 		/**
 		 * New in 1.5.0.8
 		 */
-		"top_donators" => "Top 3 donators",
+		"top_donators" => "Top donators",
 		"top_none" => "There are no top donators",
 
+		/**
+		 * New in 1.5.0.9
+		 */
+		"step" => "Step",
+
+		/**
+		 * New in 1.5.1
+		 */
+		"permission_groups" => "Permission groups",
+		"add_permission" => "Add permission group",
+		"edit_permission" => "Edit permission group",
+		"permissions" => "Permissions",
+		"no_perm" => "I'm sorry Dave, I'm afraid I can't let you do that (Insufficient permisisons)",
+ 
 	);
 
 ?>

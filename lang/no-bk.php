@@ -316,6 +316,20 @@
 		 */
 		"top_donators" => "Topp 3 donators",
 		"top_none" => "Det er ingen topp donators",
+
+		/**
+		 * New in 1.5.0.9
+		 */
+		"step" => "Steg",
+
+		/**
+		 * New in 1.5.1
+		 */
+		"permission_groups" => "Tilatelses grupper",
+		"add_permission" => "Legg til tilatelses gruppe",
+		"edit_permission" => "Rediger tilatelses gruppe",
+		"permissions" => "Tilatelser",
+		"no_perm" => "Du har ikke tilgang til denne funksjonen",
 	);
 
 ?>
