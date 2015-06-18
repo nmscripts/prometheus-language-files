@@ -237,7 +237,7 @@
          /**
          * New in 1.4.9.2
          */
-        "updates" => "Updates",
+        "updates" => "Mises à jour",
 
       	/**
 		 * New in 1.4.9.3
@@ -325,16 +325,16 @@
 		/**
 		 * New in 1.5.1
 		 */
-		"permission_groups" => "Permission groups",
-		"add_permission" => "Add permission group",
-		"edit_permission" => "Edit permission group",
+		"permission_groups" => "Groupe de Permissions",
+		"add_permission" => "Ajouter groupe de permissions",
+		"edit_permission" => "Editer groupe de permissions",
 		"permissions" => "Permissions",
-		"no_perm" => "I'm sorry Dave, I'm afraid I can't let you do that (Insufficient permisisons)",
+		"no_perm" => "Je suis désolé Dave, je crains que de ne pouvoir vous laisser faire ça (permissisons insuffisantes)",
 
 		/**
 		 * New in 1.5.1.2
 		 */
-		"select_gateway" => "Select payment method",
+		"select_gateway" => "Sélectionnez une méthode de paiement",
 	);
 
 ?>
