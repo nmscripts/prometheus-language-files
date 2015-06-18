@@ -319,6 +319,10 @@
 		"permissions" => "Rechte",
 		"no_perm" => "Sorry, aber das darfst du leider nicht machen (nicht genügend Rechte)",
 
+		/**
+		 * New in 1.5.1.2
+		 */
+		"select_gateway" => "Select payment method",
 	);
 
 ?>

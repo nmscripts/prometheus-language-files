@@ -330,6 +330,11 @@
 		"edit_permission" => "Rediger tilatelses gruppe",
 		"permissions" => "Tilatelser",
 		"no_perm" => "Du har ikke tilgang til denne funksjonen",
+
+		/**
+		 * New in 1.5.1.2
+		 */
+		"select_gateway" => "Velg betalingsmetode",
 	);
 
 ?>

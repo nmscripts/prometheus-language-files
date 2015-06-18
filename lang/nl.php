@@ -332,6 +332,11 @@
 		"edit_permission" => "Edit permission group",
 		"permissions" => "Permissions",
 		"no_perm" => "I'm sorry Dave, I'm afraid I can't let you do that (Insufficient permisisons)",
+
+		/**
+		 * New in 1.5.1.2
+		 */
+		"select_gateway" => "Select payment method",
 	);
 
 ?>
