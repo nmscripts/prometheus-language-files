@@ -22,8 +22,8 @@
 		"sign_in" => "Přihlásit se",
 
 		// Header errors and messages
-		"not_setup" => "Nenastavili jste svůj panel správně! <a href='admin.php?a=gen&settings'>Klikněte zde</a> [Admin -> Obecné nastavení -> Nastavení]",
-		"header_sandbox" => "PayPal Sandbox je povolen. Používejte pouze pískoviště pro testování! Můžete ho zakázat <a href='admin.php?a=gen&settings'>zde</a>",
+		"not_setup" => "Nenastavili jste svůj panel správně! <a href='admin.php?a=gen&p=settings'>Klikněte zde</a> [Admin -> Obecné nastavení -> Nastavení]",
+		"header_sandbox" => "PayPal Sandbox je povolen. Používejte pouze pískoviště pro testování! Můžete ho zakázat <a href='admin.php?a=gen&p=paypal'>zde</a>",
 		"missing_action" => "Jeden nebo více balíků chybí akce!",
 		"unfinished_action" => "Máte nehotové akce na stránce "Profil", <a href='profile.php'>zde</a>",
 

@@ -22,8 +22,8 @@
 		"sign_in" => "Anmelden",
 
 		// Header errors and messages
-		"not_setup" => "You have not set up your panel properly! <a href='admin.php?a=gen&settings'>Click here</a> [Admin -> General Settings -> Settings]",
-		"header_sandbox" => "PayPal Sandbox is enabled. Only use sandbox for testing! You can disable it <a href='admin.php?a=gen&settings'>here</a>",
+		"not_setup" => "You have not set up your panel properly! <a href='admin.php?a=gen&p=settings'>Click here</a> [Admin -> General Settings -> Settings]",
+		"header_sandbox" => "PayPal Sandbox is enabled. Only use sandbox for testing! You can disable it <a href='admin.php?a=gen&p=paypal'>here</a>",
 		"missing_action" => "One or more packages is missing an action!",
 		"unfinished_action" => "You have an un-finished action in the 'Profile' page, <a href='profile.php'>here</a>",
 

@@ -34,8 +34,8 @@
 		"sign_in" => "Se Connecter",
 
 		// Header errors and messages
-		"not_setup" => "Vous n'avez pas configuré votre panneau correctement ! <a href='admin.php?a=gen&settings'>Cliquez ici</a> [Administration ->  Paramètres généraux -> Paramètres]",
-		"header_sandbox" => "PayPal Sandbox est activé. N'utilisez le sandbox que pour les tests ! Vous pouvez le désactiver <a href='admin.php?a=gen&settings'>ici</a>",
+		"not_setup" => "Vous n'avez pas configuré votre panneau correctement ! <a href='admin.php?a=gen&p=settings'>Cliquez ici</a> [Administration ->  Paramètres généraux -> Paramètres]",
+		"header_sandbox" => "PayPal Sandbox est activé. N'utilisez le sandbox que pour les tests ! Vous pouvez le désactiver <a href='admin.php?a=gen&p=paypal'>ici</a>",
 		"missing_action" => " Il manque une action dans un ou plusieurs pack(s)",
 		"unfinished_action" => "Vous avez une action inachevée sur la page 'Profil', <a href='profile.php'>ici</a>",
 

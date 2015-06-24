@@ -34,8 +34,8 @@
 		"sign_in" => "Logg inn",
 
 		// Header errors and messages
-		"not_setup" => "Du har ikke satt opp sysemet ordentlig! <a href='admin.php?a=gen&settings'>Klikk her</a> [Admin -> General Settings -> Settings]",
-		"header_sandbox" => "PayPal sandkasse modus er aktivert. Bare bruk sandkasse for testing! Du kan deaktivere det <a href='admin.php?a=gen&settings'>her</a>",
+		"not_setup" => "Du har ikke satt opp sysemet ordentlig! <a href='admin.php?a=gen&p=settings'>Klikk her</a> [Admin -> General Settings -> Settings]",
+		"header_sandbox" => "PayPal sandkasse modus er aktivert. Bare bruk sandkasse for testing! Du kan deaktivere det <a href='admin.php?a=gen&p=paypal'>her</a>",
 		"missing_action" => "En eller flere pakker mangler en aksjon!",
 		"unfinished_action" => "Du har en aksjon på 'Profil' siden som ikke er fullført, <a href='profile.php'>her</a>",
 

@@ -34,8 +34,8 @@
 		"sign_in" => "Login",
 
 		// Header errors and messages
-		"not_setup" => "Je heb je paneel niet goed opgezet! <a href='admin.php?a=gen&settings'>Klik hier</a> [Admin -> Generale Instellingen -> Instellingen]",
-		"header_sandbox" => "PayPal Sandbox is geactiveerd. Gebruik sandbox mode alleen voor het testen! Je kan <a href='admin.php?a=gen&settings'>Hier</a> uitzetten",
+		"not_setup" => "Je heb je paneel niet goed opgezet! <a href='admin.php?a=gen&p=settings'>Klik hier</a> [Admin -> Generale Instellingen -> Instellingen]",
+		"header_sandbox" => "PayPal Sandbox is geactiveerd. Gebruik sandbox mode alleen voor het testen! Je kan <a href='admin.php?a=gen&p=paypal'>Hier</a> uitzetten",
 		"missing_action" => "In één of meer packages ontbreekt een actie",
 		"unfinished_action" => "Je heb een onafgemaakte actie op het 'Profiel' pagina, <a href='profile.php'>klik Hier</a>",
 

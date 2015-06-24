@@ -34,8 +34,8 @@
         "sign_in" => "Log ind",
 
         // Header errors and messages    
-        "not_setup" => "Du har ikke sat dit panel up korrekt! <a href='admin.php?a=gen&settings'>Klik her</a> [Admin -> General Settings -> Settings]",
-        "header_sandbox" => "Paypal sandbox er slået til. Brug kun asndbox for testing! Du kan slå det fra <a href='admin.php?a=gen&settings'>her</a>",
+        "not_setup" => "Du har ikke sat dit panel up korrekt! <a href='admin.php?a=gen&p=settings'>Klik her</a> [Admin -> General Settings -> Settings]",
+        "header_sandbox" => "Paypal sandbox er slået til. Brug kun asndbox for testing! Du kan slå det fra <a href='admin.php?a=gen&p=paypal'>her</a>",
         "missing_action" => "En eller flere pakke mangler en handling!",
         "unfinished_action" => "Du har en ikke færdiggjort handling på 'Profil' siden, <a href='profile.php'>tryk her</a>",
 

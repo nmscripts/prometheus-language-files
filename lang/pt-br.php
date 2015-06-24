@@ -33,8 +33,8 @@
 		"sign_in" => "Fazer login",
 		
 		// Header errors and messages
-		"not_setup" => "Você não configurou o seu painel apropiadamante! <a href='admin.php?a=gen&settings'>Clique aqui</a> [Admin -> General Settings -> Settings]",
-		"header_sandbox" => "O modo Sandbox do PayPal está ativo. Somente use o Sandbox para testes! Você pode desabilitá-lo  <a href='admin.php?a=gen&settings'>aqui</a>",
+		"not_setup" => "Você não configurou o seu painel apropiadamante! <a href='admin.php?a=gen&p=settings'>Clique aqui</a> [Admin -> General Settings -> Settings]",
+		"header_sandbox" => "O modo Sandbox do PayPal está ativo. Somente use o Sandbox para testes! Você pode desabilitá-lo  <a href='admin.php?a=gen&p=paypal'>aqui</a>",
 		"missing_action" => "Um ou mais pacotes está com uma ação faltando!",
 		"unfinished_action" => "Você tem uma ação não terminada na página 'Perfil', <a href='profile.php'>aqui</a>",
 
