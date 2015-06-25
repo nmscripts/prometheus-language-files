@@ -13,7 +13,7 @@
 		// Navigation bar
 		"home" => "Home",
 		"store" => "Shop",
-		"buy_credits" => "E-Points kaufen",
+		"buy_credits" => "Credits kaufen",
 		"raffles" => "Verlosungen",
 		"profile" => "Profil",
 		"support" => "Support",
@@ -43,12 +43,12 @@
 		"powered_by" => "Powered by Steam",
 
 		// Store
-		"credits" => "E-Points",
+		"credits" => "Credits",
 		"featured_pkg" => "Meistgekauftes Paket",
 		"permanent" => "Permanent",
 		"non_permanent" => "Zeitbegrenzt",
 
-		"select_credit" => "E-Point Paket auswählen",
+		"select_credit" => "Credit Paket auswaehlen",
 		"select_raffle" => "Verlosungspaket auswaehlen",
 		"global_packages" => "Allgemeine Pakete",
 
@@ -88,7 +88,7 @@
 
 		"packages_not_available" => "Fuer diesen Server sind keine Pakete verfuegbar.",
 		"raffle_not_available" => "Im Moment sind keine Verlosungspakete verfuegbar.",
-		"credit_not_available" => "Im Moment sind keine E-Point Pakete verfuegbar.",
+		"credit_not_available" => "Im Moment sind keine Credit Pakete verfuegbar.",
 
 		// Buttons
 		"submit" => "Bestaetigen",
@@ -98,8 +98,8 @@
 		"perm_pkg" => "Permanente(s) Paket(e)",
 		"acc_info" => "Account Information",
 		"pkg_history" => "Paket Verlauf",
-		"acc_credits" => "E-Points",
-		"transfer_credits" => "E-Points ueberweisen",
+		"acc_credits" => "Credits",
+		"transfer_credits" => "Credits ueberweisen",
 		"package" => "Paket",
 
 		// Tables
@@ -140,7 +140,7 @@
 		"currencies" => "Waehrungen",
 		"categories" => "Kategorien",
 		"packages_and_actions" => "Pakete & Aktionen",
-		"credit_packages" => "E-Point Pakete",
+		"credit_packages" => "Credit Pakete",
 		"raffles" => "Verlosungen",
 		"theme_editor" => "Theme editor",
 		"documentation" => "Documentation",
@@ -185,22 +185,22 @@
 		 * New in 1.4.7.2
 		 */
 		"welcome_main" => "Willkommen",
-		"need_credits" => "Du brauchst mehr E-Points? <a href='store.php?credits'>Schau mal hier!</a>",
+		"need_credits" => "Du brauchst mehr Credits? <a href='store.php?credits'>Schau mal hier!</a>",
 		"no_history" => "Keinen Verlauf",
 		"amount" => "Anzahl",
 		"you_have_none" => "Du hast keine(n)",
 
-		"add_cre" => "E-Point Paket hinzufuegen",
-		"edit_cre" => "E-Point Paket bearbeiten",
+		"add_cre" => "Credit Paket hinzufuegen",
+		"edit_cre" => "Credit Paket bearbeiten",
 		"pack_title" => "Paket Titel",
 		"price" => "Preis",
 		"currency" => "Waehrung",
-		"sure_cre" => "Bist du sicher, dass du dieses E-Point Paket loeschen moechtest?",
+		"sure_cre" => "Bist du sicher, dass du dieses Credit Paket loeschen moechtest?",
 		"danger_cre" => "Alternativ, kannst du dieses Vredit Paket loeschen.",
 		"select_package" => "Paket auswaehlen:",
-		"choose_cre" => "E-Point Paket auswaehlen",
+		"choose_cre" => "Credit Paket auswaehlen",
 		"brief_desc" => "Kurzbeschreibung",
-		"amt_of_cre" => "Anzahl E-Points",
+		"amt_of_cre" => "Anzahl Credits",
 		"price_of_pkg" => "Paketpreis",
 		"no_support" => "Du hast keine Support Tickets",
 		"no_other_available" => "Kein anderes Paket verfuegbar",
@@ -239,7 +239,7 @@
 		"payment_success" => "Zahlung erfolgreich!",
 		"profile_updated" => "Dein Profil wurde aktualisiert.",
 		"payment_failed" => "Zahlung fehlgeschlagen!",
-		"check_credits" => "Bitte überprüfe ob du genug E-Points hast um dieses Paket zu kaufen!",
+		"check_credits" => "Bitte ueberpruefe ob du genug Credits hast um dieses Paket zu kaufen!",
 		"not_authorised" => "Du bist nicht berechtigt diesen Bereich zu sehen. Melde dich zuerst an!",
 		
 		/**
@@ -250,10 +250,10 @@
 		"no_graph_info_text" => "Graphinfo wird nicht angezeigt, weil noch keine Transaktionen vorhanden sind!",
 		"paymentwall_purchase" => "Mit Paymentwall kaufen",
 		"stripe_purchase" => "Mit Stripe kaunfen",
-		"payment_gateways" => "Zahlungsmöglichkeiten",
+		"payment_gateways" => "Zahlungsmoeglichkeiten",
 		"advanced" => "Erweitert",
-		"no_servers" => "Momentan sind keine Server verfügbar.",
-		"entries" => "Zugänge",
+		"no_servers" => "Momentan sind keine Server verfuegbar.",
+		"entries" => "Zugaenge",
 		"you_can_enter" => "Du kannst eintreten.",
 		"times_more" => "mal mehr",
 		"dashboard_creditsrevenue" => "This graph also compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
@@ -263,15 +263,15 @@
 		"not_compatible" => "Nicht kompatibel mit",
 
 		"packages" => "Pakete",
-		"upgradeable_text" => "Wenn sie das ausgewähle Paket besitzen, erhalten sie dieses vergünstigt.",
+		"upgradeable_text" => "Wenn sie das ausgewaehlte Paket besitzen, erhalten sie dieses verguenstigt.",
 		"upgradeable" => "Verbesserbar mit",
 
 		"assign_actions" => "Aktionen festlegen",
-		"actions_text" => "Lege fest welche Aktion das Paket ausführen soll, nachdem der Spieler es gekauft hat.",
+		"actions_text" => "Lege fest welche Aktion das Paket ausfuehren soll, nachdem der Spieler es gekauft hat.",
 		"actions" => "Aktionen",
 		"servers" => "Server",
 		"label_amount" => "Label Anahl",
-		"add_package" => "Paket hinzufügen",
+		"add_package" => "Paket hinzufuegen",
 		"edit_package" => "Paket bearbeiten",
 		"labels" => "Labels",
 		"title" => "Titel",
@@ -282,7 +282,7 @@
 		 * New in 1.5.0.2
 		 */
 		"hide" => "Paket verstecken",
-		"hide_text" => "Wenn du keins der unten ausgewählten Pakete besitzt, verstecke sie im Shop",
+		"hide_text" => "Wenn du keins der unten ausgewaehlten Pakete besitzt, verstecke sie im Shop",
 		
 		/**
 		 * New in 1.5.0.6
@@ -292,7 +292,7 @@
 		"blacklist_notext" => "Du musst eine korrekte Steam64 oder SteamID eingeben",
 		"blacklist_success" => "Du hast diese Person erfolgreich geblacklistet",
 		"blacklisted_you" => "Du bist von jeglichem Verkauf von Paketen in dieser Community ausgeschlossen",
-		"blacklisted_them" => "Diese Person ist von Verkaufen in dieser Community ausgeschlossen. Du kannst nichts für ihn kaufen",
+		"blacklisted_them" => "Diese Person ist von Verkaufen in dieser Community ausgeschlossen. Du kannst nichts fuer ihn kaufen",
 
 		"recent_donators" => "Letzte Donator",
 		"name" => "Name",
@@ -314,72 +314,72 @@
 		 * New in 1.5.1
 		 */
 		"permission_groups" => "Admin Gruppen",
-		"add_permission" => "Admin Gruppe hinzufügen",
+		"add_permission" => "Admin Gruppe hinzufuegen",
 		"edit_permission" => "Admin Gruppe bearbeiten",
 		"permissions" => "Rechte",
-		"no_perm" => "Sorry, aber das darfst du leider nicht machen (nicht genügend Rechte)",
+		"no_perm" => "Sorry, aber das darfst du leider nicht machen (nicht genuegend Rechte)",
 
 		/**
 		 * New in 1.5.1.2
 		 */
-		"select_gateway" => "Select payment method",
+		"select_gateway" => "Zahlungsmethode auswaehlen",
 
 		/**
 		 * New in 1.5.2
 		 */
-		"buy_disable" => "Disable packages",
-		"buy_disable_text" => "Disable these packages if you buy this package",
+		"buy_disable" => "Pakete deaktivieren",
+		"buy_disable_text" => "Deaktiviere diese Pakete wenn du dieses Paket kaufst",
 
-		"credits_doesntexist" => "This user does not exist on this system.",
-		"credits_yourself" => "You can't transfer credits to yourself.",
-		"credits_steamid" => "Try another SteamID",
-		"credits_transferringto" => "Transferring to:",
+		"credits_doesntexist" => "DieserBenutzer existiert in unserem System nicht.",
+		"credits_yourself" => "Du kannst Credits nicht an dich selbst senden.",
+		"credits_steamid" => "Versuche eine andere SteamID",
+		"credits_transferringto" => "Uebertragen an:",
 
-		"type" => "Type",
-		"gateway" => "Gateway",
-		"no_users" => "No users found",
+		"type" => "Typ",
+		"gateway" => "Zugang",
+		"no_users" => "Keine Benutzer gefunden",
 
-		"view_profile" => "View profile",
-		"view_blacklist" => "View blacklist",
+		"view_profile" => "Profil anschauen",
+		"view_blacklist" => "Blacklist anschauen",
 
-		"manage" => "Manage",
-		"users_search" => "Search for name, steam64 or steamid",
+		"manage" => "Verwalten",
+		"users_search" => "Nach Namen, Steam64 oder SteamID suchen",
 
-		"transaction" => "Transaction",
-		"delivered" => "Delivered",
-		"state" => "State",
-		"assign_package" => "Assign package",
-		"set_credits" => "Set credits",
-		"give_ticket" => "Give ticket",
-		"del_inactive_actions" => "Delete inactive actions",
+		"transaction" => "Transaktion",
+		"delivered" => "Ausgeliefert",
+		"state" => "Status",
+		"assign_package" => "Paket zuweisen",
+		"set_credits" => "Credits setzen",
+		"give_ticket" => "Ticket geben",
+		"del_inactive_actions" => "Inaktive Aktionoen loeschen",
 
-		"select_pkg" => "Select package",
-		"do_assign_actions" => "Assign actions",
-		"dont_assign_actions" => "Do not assign actions",
-		"clone_expiretime" => "Clone expiretime of latest package of same type",
-		"assign" => "Assign",
+		"select_pkg" => "Paket auswählen",
+		"do_assign_actions" => "Aktionen ausfuehren",
+		"dont_assign_actions" => "Aktionen nicht ausfuehren",
+		"clone_expiretime" => "verbleibende Zeit vom letzten Paket des gleichen Typs kopieren",
+		"assign" => "Zuweisen",
 
-		"set" => "Set", 
-		"disable" => "Disable",
-		"enable" => "Enable",
-		"inactive_everyone" => "Set inactive for everyone",
+		"set" => "Setzen", 
+		"disable" => "Deaktivieren",
+		"enable" => "Aktivieren",
+		"inactive_everyone" => "Für jeden inaktiv setzen",
 		"del" => "Del",
-		"edit" => "Edit",
+		"edit" => "Bearbeiten",
 
-		"sale_settings" => "Sale settings",
-		"sale_text" => "Choose what packages you want the sale to apply to.",
-		"message" => "Message",
-		"percentage" => "Percentage",
-		"end_date" => "End date",
+		"sale_settings" => "Sale Einstellungen",
+		"sale_text" => "Wähle die Pakete, welche im Sale angeboten werden sollen.",
+		"message" => "Nachricht",
+		"percentage" => "Prozent",
+		"end_date" => "End Datum",
 
 		"update" => "Update",
-		"automatic_updates" => "Automatic updates",
-		"dl_lua" => "Download latest lua",
-		"dl_web" => "Download latest web",
-		"no_write_perm" => "Your updates folder does not have write permissions! Automatic updates won\'t work unless you chmod it to 777. <br> You can however use this button to manually download the update",
-		"newest_version" => "Newest available version is:",
+		"automatic_updates" => "Automatische Updates",
+		"dl_lua" => "Aktuellste Lua Dateien downloaden",
+		"dl_web" => "Aktuellste Web Dateien downloaden",
+		"no_write_perm" => "Dein Updates Ornder hat keine Schreib-Rechte! Automatische Updates werden nicht funktionieren, bis du ihm die Rechte 777 vergeben hast! <br> Hier kannst du das Update manuell downloaden",
+		"newest_version" => "Die neueste Version:",
 
-		"test_message" => "Send test message to server",
+		"test_message" => "Test Nachricht an den Server senden",
 	);
 
 ?>
