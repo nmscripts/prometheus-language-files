@@ -315,20 +315,20 @@
 		/**
 		 * New in 1.5.0.9
 		 */
-		"step" => "Step",
+		"step" => "Passo",
 
 		/**
 		 * New in 1.5.1
 		 */
-		"permission_groups" => "Permission groups",
-		"add_permission" => "Add permission group",
-		"edit_permission" => "Edit permission group",
-		"permissions" => "Permissions",
-		"no_perm" => "I'm sorry Dave, I'm afraid I can't let you do that (Insufficient permisisons)",
+		"permission_groups" => "Grupos de Permissão",
+		"add_permission" => "Adicionar Grupos de Permissão",
+		"edit_permission" => "Editar Grupos de Permissão",
+		"permissions" => "Permissões",
+		"no_perm" => "Me desculpe Dave, eu receio que não posso deixar você fazer isso (Permissões insuficientes)",
 
 		/**
 		 * New in 1.5.1.2
 		 */
-		"select_gateway" => "Select payment method",
+		"select_gateway" => "Selecione um método de pagamento",
 	);
 ?>
