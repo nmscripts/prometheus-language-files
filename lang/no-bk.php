@@ -51,7 +51,7 @@
 		"no_news_articles" => "Ingen nyhets artikkeler.",
 
 		// Footer
-		"tos" => "Terms of Service",
+		"tos" => "Tjenestevilkår",
 		"powered_by" => "Drives av Steam",
 
 		// Store
@@ -335,6 +335,64 @@
 		 * New in 1.5.1.2
 		 */
 		"select_gateway" => "Velg betalingsmetode",
+
+
+		/**
+		 * New in 1.5.2
+		 */
+		"buy_disable" => "Deaktiver pakker",
+		"buy_disable_text" => "Deaktiver disse pakkene når du kjøper denne pakken",
+
+		"credits_doesntexist" => "Denne brukeren eksisterer ikke på systemet.",
+		"credits_yourself" => "Du kan ikke overføre credits til deg selv.",
+		"credits_steamid" => "Prøv en annen SteamID",
+		"credits_transferringto" => "Overfører til:",
+
+		"type" => "Type",
+		"gateway" => "Betalingsportal",
+		"no_users" => "Ingen brukere funnet",
+
+		"view_profile" => "Se profil",
+		"view_blacklist" => "Se svarteliste",
+
+		"manage" => "Rediger",
+		"users_search" => "Søk etter navn, steam64 eller Steam-ID",
+
+		"transaction" => "Transaksjon",
+		"delivered" => "Levert",
+		"state" => "Status",
+		"assign_package" => "Gi pakke",
+		"set_credits" => "Sett credits",
+		"give_ticket" => "Gi bilett",
+		"del_inactive_actions" => "Slett inaktive aksjoner",
+
+		"select_pkg" => "Velg pakke",
+		"do_assign_actions" => "Gi aksjoner",
+		"dont_assign_actions" => "Ikke gi aksjoner",
+		"clone_expiretime" => "Klon utløpelsesdato fra siste pakke av samme type",
+		"assign" => "Gi",
+
+		"set" => "Sett", 
+		"disable" => "Slå av",
+		"enable" => "Slå på",
+		"inactive_everyone" => "Sett inaktiv for alle",
+		"del" => "Slett",
+		"edit" => "Rediger",
+
+		"sale_settings" => "Salg innstillinger",
+		"sale_text" => "Velg hvilken pakker du vil at salget skal gjelde for.",
+		"message" => "Melding",
+		"percentage" => "Prosent",
+		"end_date" => "Slutt dato",
+
+		"update" => "Oppdater",
+		"automatic_updates" => "Automatiske oppdatering",
+		"dl_lua" => "Last ned nyeste lua",
+		"dl_web" => "Last ned nyeste web",
+		"no_write_perm" => "Din 'updates' mappe har ikke riktig tilganger! Automatiske oppdateringer vil ikke funke uten chmod 777. <br> Men du kan forøvrig bruke disse knappene til å laste ned siste oppdatering:",
+		"newest_version" => "Nyeste tilgjengelige oppdatering er:",
+
+		"test_message" => "Send test melding til server",
 	);
 
 ?>

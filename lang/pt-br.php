@@ -330,5 +330,62 @@
 		 * New in 1.5.1.2
 		 */
 		"select_gateway" => "Selecione um método de pagamento",
+
+		/**
+		 * New in 1.5.2
+		 */
+		"buy_disable" => "Disable packages",
+		"buy_disable_text" => "Disable these packages if you buy this package",
+
+		"credits_doesntexist" => "This user does not exist on this system.",
+		"credits_yourself" => "You can't transfer credits to yourself.",
+		"credits_steamid" => "Try another SteamID",
+		"credits_transferringto" => "Transferring to:",
+
+		"type" => "Type",
+		"gateway" => "Gateway",
+		"no_users" => "No users found",
+
+		"view_profile" => "View profile",
+		"view_blacklist" => "View blacklist",
+
+		"manage" => "Manage",
+		"users_search" => "Search for name, steam64 or steamid",
+
+		"transaction" => "Transaction",
+		"delivered" => "Delivered",
+		"state" => "State",
+		"assign_package" => "Assign package",
+		"set_credits" => "Set credits",
+		"give_ticket" => "Give ticket",
+		"del_inactive_actions" => "Delete inactive actions",
+
+		"select_pkg" => "Select package",
+		"do_assign_actions" => "Assign actions",
+		"dont_assign_actions" => "Do not assign actions",
+		"clone_expiretime" => "Clone expiretime of latest package of same type",
+		"assign" => "Assign",
+
+		"set" => "Set", 
+		"disable" => "Disable",
+		"enable" => "Enable",
+		"inactive_everyone" => "Set inactive for everyone",
+		"del" => "Del",
+		"edit" => "Edit",
+
+		"sale_settings" => "Sale settings",
+		"sale_text" => "Choose what packages you want the sale to apply to.",
+		"message" => "Message",
+		"percentage" => "Percentage",
+		"end_date" => "End date",
+
+		"update" => "Update",
+		"automatic_updates" => "Automatic updates",
+		"dl_lua" => "Download latest lua",
+		"dl_web" => "Download latest web",
+		"no_write_perm" => "Your updates folder does not have write permissions! Automatic updates won\'t work unless you chmod it to 777. <br> You can however use this button to manually download the update",
+		"newest_version" => "Newest available version is:",
+
+		"test_message" => "Send test message to server",
 	);
 ?>
