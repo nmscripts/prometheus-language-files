@@ -314,7 +314,7 @@
 		/**
 		 * New in 1.5.0.8
 		 */
-		"top_donators" => "Top 3 des donateurs",
+		"top_donators" => "Les meilleurs donateurs",
 		"top_none" => "Il n'y a aucun donateur",
 
 		/**
