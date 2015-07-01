@@ -391,6 +391,12 @@
         "newest_version" => "Newest available version is:",
 
         "test_message" => "Send test message to server",
+
+       /**
+         * New in 1.5.2.2
+         */
+        
+        "find_more" => "Find out more!",
     );
 
 ?>

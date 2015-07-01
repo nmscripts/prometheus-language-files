@@ -380,6 +380,12 @@
 		"newest_version" => "Die neueste Version:",
 
 		"test_message" => "Test Nachricht an den Server senden",
+		
+		/**
+		 * New in 1.5.2.2
+		 */
+		
+		"find_more" => "Find out more!",
 	);
 
 ?>

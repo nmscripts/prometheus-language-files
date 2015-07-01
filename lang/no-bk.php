@@ -393,6 +393,12 @@
 		"newest_version" => "Nyeste tilgjengelige oppdatering er:",
 
 		"test_message" => "Send test melding til server",
+
+		/**
+		 * New in 1.5.2.2
+		 */
+		
+		"find_more" => "Finn ut mer!",
 	);
 
 ?>
