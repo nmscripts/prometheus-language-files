@@ -294,7 +294,7 @@
 		 * New in 1.5.0.2
 		 */
 		"hide" => "Cacher ce pack",
-		"hide_text" => "If you dont own one of the packages selected below, hide this package from the store",
+		"hide_text" => "Si vous ne possédez pas l'un des packs sélectionnés ci-dessous, cela cache ce package du magasin",
 		
 		/**
 		 * New in 1.5.0.6
@@ -320,7 +320,7 @@
 		/**
 		 * New in 1.5.0.9
 		 */
-		"step" => "Step",
+		"step" => "Étape",
 
 		/**
 		 * New in 1.5.1
@@ -397,7 +397,7 @@
 		 * New in 1.5.2.2
 		 */
 		
-		"find_more" => "Find out more!",
+		"find_more" => "En savoir plus !",
 	);
 
 ?>
