@@ -385,7 +385,7 @@
 		 * New in 1.5.2.2
 		 */
 		
-		"find_more" => "Find out more!",
+		"find_more" => "Hier gibt es genauere Infos!",
 	);
 
 ?>
