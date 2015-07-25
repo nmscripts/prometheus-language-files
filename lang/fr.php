@@ -398,6 +398,14 @@
 		 */
 		
 		"find_more" => "En savoir plus !",
+
+		/**
+		 * New in 1.5.3
+		 */
+		
+		"duplicate" => "Duplicate",
+		"other" => "Other",
+		"someone_else" => "However, you can still buy it for someone else",
 	);
 
 ?>

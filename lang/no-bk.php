@@ -399,6 +399,14 @@
 		 */
 		
 		"find_more" => "Finn ut mer!",
+
+		/**
+		 * New in 1.5.3
+		 */
+		
+		"duplicate" => "Dupliser pakke",
+		"other" => "Annet",
+		"someone_else" => "Uansett, du kan fortsatt kjøpe den for noen andre",
 	);
 
 ?>
