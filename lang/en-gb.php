@@ -327,7 +327,7 @@
 		"add_permission" => "Add permission group",
 		"edit_permission" => "Edit permission group",
 		"permissions" => "Permissions",
-		"no_perm" => "I'm sorry Dave, I'm afraid I can't let you do that (Insufficient permisisons)",
+		"no_perm" => "I'm sorry Dave, I'm afraid I can't let you do that (Insufficient permissions)",
 
 		/**
 		 * New in 1.5.1.2
