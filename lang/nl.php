@@ -322,92 +322,92 @@
 		/**
 		 * New in 1.5.0.9
 		 */
-		"step" => "Step",
+		"step" => "Stap",
 
 		/**
 		 * New in 1.5.1
 		 */
-		"permission_groups" => "Permission groups",
-		"add_permission" => "Add permission group",
-		"edit_permission" => "Edit permission group",
-		"permissions" => "Permissions",
-		"no_perm" => "I'm sorry Dave, I'm afraid I can't let you do that (Insufficient permisisons)",
+		"permission_groups" => "Permissie groep",
+		"add_permission" => "Voeg een Permissie groep toe",
+		"edit_permission" => "Weizig Permissie groep",
+		"permissions" => "Permissies",
+		"no_perm" => "Het spijt me Dave, ik ben bang dat ik kan je niet laten doen (onvoldoende rechten)",
 
 		/**
 		 * New in 1.5.1.2
 		 */
-		"select_gateway" => "Select payment method",
+		"select_gateway" => "Kies betaalmethode",
 
 		/**
 		 * New in 1.5.2
 		 */
-		"buy_disable" => "Disable packages",
+		"buy_disable" => "Pakket uitschakelen",
 		"buy_disable_text" => "Disable these packages if you buy this package",
 
-		"credits_doesntexist" => "This user does not exist on this system.",
-		"credits_yourself" => "You can't transfer credits to yourself.",
-		"credits_steamid" => "Try another SteamID",
-		"credits_transferringto" => "Transferring to:",
+		"credits_doesntexist" => "Deze gebruiker bestaat niet op dit systeem.",
+		"credits_yourself" => "Je kunt niet credits overdragen aan jezelf.",
+		"credits_steamid" => "Probeer een ander SteamID",
+		"credits_transferringto" => "Overdragen naar:",
 
 		"type" => "Type",
-		"gateway" => "Gateway",
-		"no_users" => "No users found",
+		"gateway" => "Methode",
+		"no_users" => "Geen gebruikers gevonden",
 
-		"view_profile" => "View profile",
-		"view_blacklist" => "View blacklist",
+		"view_profile" => "Bekijk profiel",
+		"view_blacklist" => "Bekijk blacklist",
 
-		"manage" => "Manage",
-		"users_search" => "Search for name, steam64 or steamid",
+		"manage" => "Beheren",
+		"users_search" => "Zoeken naar naam, steam64 of SteamID",
 
-		"transaction" => "Transaction",
-		"delivered" => "Delivered",
-		"state" => "State",
-		"assign_package" => "Assign package",
+		"transaction" => "transactie",
+		"delivered" => "geleverd",
+		"state" => "Status",
+		"assign_package" => "pakket toewijzen",
 		"set_credits" => "Set credits",
-		"give_ticket" => "Give ticket",
-		"del_inactive_actions" => "Delete inactive actions",
+		"give_ticket" => "Geef ticket",
+		"del_inactive_actions" => "Verwijder inactieve acties",
 
-		"select_pkg" => "Select package",
-		"do_assign_actions" => "Assign actions",
-		"dont_assign_actions" => "Do not assign actions",
-		"clone_expiretime" => "Clone expiretime of latest package of same type",
-		"assign" => "Assign",
+		"select_pkg" => "Selecteer pakket",
+		"do_assign_actions" => "acties toewijzen",
+		"dont_assign_actions" => "Geen acties toekennen",
+		"clone_expiretime" => "Kloon verstrijken tijd van het laatste pakket van hetzelfde type",
+		"assign" => "toewijzen",
 
 		"set" => "Set", 
-		"disable" => "Disable",
-		"enable" => "Enable",
-		"inactive_everyone" => "Set inactive for everyone",
+		"disable" => "Inactief",
+		"enable" => "Actief",
+		"inactive_everyone" => "Stel inactief voor iedereen",
 		"del" => "Del",
-		"edit" => "Edit",
+		"edit" => "Bewerk",
 
-		"sale_settings" => "Sale settings",
-		"sale_text" => "Choose what packages you want the sale to apply to.",
-		"message" => "Message",
-		"percentage" => "Percentage",
-		"end_date" => "End date",
+		"sale_settings" => "verkoop instellingen",
+		"sale_text" => "Kies de pakketen waar de verkoop op toepast.",
+		"message" => "bericht",
+		"percentage" => "percentage",
+		"end_date" => "einddatum",
 
 		"update" => "Update",
-		"automatic_updates" => "Automatic updates",
-		"dl_lua" => "Download latest lua",
-		"dl_web" => "Download latest web",
-		"no_write_perm" => "Your updates folder does not have write permissions! Automatic updates won\'t work unless you chmod it to 777. <br> You can however use this button to manually download the update",
-		"newest_version" => "Newest available version is:",
+		"automatic_updates" => "automatische updates",
+		"dl_lua" => "Download laatste lua",
+		"dl_web" => "Download laatste web",
+		"no_write_perm" => "Uw map updates heeft geen schrijfrechten! Automatische updates werk niet, tenzij je het chmod naar 777 veranderd. <br> U kunt echter gebruik maken van deze knop om de update handmatig te downloaden",
+		"newest_version" => "Nieuwste beschikbare versie is:",
 
-		"test_message" => "Send test message to server",
+		"test_message" => "Stuur testbericht naar de server",
 
 		/**
 		 * New in 1.5.2.2
 		 */
 		
-		"find_more" => "Find out more!",
+		"find_more" => "meer te weten komen!",
 
 		/**
 		 * New in 1.5.3
 		 */
 		
-		"duplicate" => "Duplicate",
-		"other" => "Other",
-		"someone_else" => "However, you can still buy it for someone else",
+		"duplicate" => "duplicaat",
+		"other" => "ander",
+		"someone_else" => "Echter, kunt u nog steeds kopen voor iemand anders",
 	);
 
 ?>
