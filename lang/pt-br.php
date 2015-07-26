@@ -398,8 +398,8 @@
 		 * New in 1.5.3
 		 */
 		
-		"duplicate" => "Duplicate",
-		"other" => "Other",
-		"someone_else" => "However, you can still buy it for someone else",
+		"duplicate" => "Clonar",
+		"other" => "Outro",
+		"someone_else" => "Entretanto, você ainda pode comprar isto para outra pessoa",
 	);
 ?>
