@@ -404,6 +404,48 @@
 		"duplicate" => "Duplicate",
 		"other" => "Other",
 		"someone_else" => "However, you can still buy it for someone else",
+
+		/**
+		 * New in 1.5.4 -- Do not replace $1, $2, $3 etc, they get replaced with numbers and stuff automatically, so keep them there!
+		 */
+		
+		"here" => "here", // This is $1 in 'job_already_created' because it's wrapped in a link
+		"job_already_created" => "You have already created a custom job. If you want to proceed straight to checkout click $1. Otherwise you can create a new one",
+		
+		"general_info" => "General information",
+		"preferences" => "Preferences",
+
+		"job_name" => "Job name",
+		"chat_cmd" => "Chat command to become this job",
+		"job_desc" => "Job description",
+		"job_colour" => "Job colour",
+
+		"weapons" => "Weapons",
+		"models" => "Models",
+		"model" => "Model",
+		
+		"job_costs" => "Costs $1 or $2 credits",
+
+		"friends" => "Friends",
+		"friends_max" => "<h6>Friends - $1 max</h6>",
+		"friends_add" => "For every friend you add it adds $1 or $2 credits to the final price",
+		"friends_not" => "You are not allowed to add any friends to this package",
+
+		"salary" => "Salary",
+		"salary_static" => "Your salary will be $1",
+		"salary_base" => "The base salary is $1. For every number you up it by it adds $2 or $3 credits to the final price",
+		"salary_max" => "<h6>Salary - $1 max times to scale</h6>",
+		"salary_current" => "Your current salary is: $1",
+
+		"license" => "License",
+		"license_included" => "You get a license included in the job",
+		"license_include" => "Include license - Costs $1 or $2 credits",
+		"license_no" => "You do not get a license",
+
+		"payment_confirmation" => "Payment confirmation",
+		"job_total" => "Your current total is $1 or $2 credits",
+		"job_proceed" => "Proceed to checkout",
+
 	);
 
 ?>

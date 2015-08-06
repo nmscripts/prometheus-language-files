@@ -407,6 +407,49 @@
 		"duplicate" => "Dupliser pakke",
 		"other" => "Annet",
 		"someone_else" => "Uansett, du kan fortsatt kjøpe den for noen andre",
+
+		/**
+		 * New in 1.5.4 -- Do not replace $1, $2, $3 etc, they get replaced with numbers and stuff automatically, so keep them there!
+		 */
+		
+		"custom_job" => "Egendefinert jobb",
+
+		"here" => "her", // This is $1 in 'job_already_created' because it's wrapped in a link
+		"job_already_created" => "Du har allerede laget en egendefinert jobb. Hvis du vil dra rett til checkout klikk $1. Hvis ikke så kan du lage en ny nå",
+		
+		"general_info" => "Generell informasjon",
+		"preferences" => "Preferanser",
+
+		"job_name" => "Jobb navn",
+		"chat_cmd" => "Chat kommando for å bli denne jobben",
+		"job_desc" => "Jobb beskrivelse",
+		"job_colour" => "Jobb farge",
+
+		"weapons" => "Våpen",
+		"models" => "Modeller",
+		"model" => "Modell",
+		
+		"job_costs" => "Koster $1 eller $2 credits",
+
+		"friends" => "Venner",
+		"friends_max" => "<h6>Venner - maks $1</h6>",
+		"friends_add" => "For hver venn du legger blir det lagt til $1 eller $2 credits til den endelige prisen",
+		"friends_not" => "Du har ikke lov til å legge til noen venner til denne pakka",
+
+		"salary" => "Lønn",
+		"salary_static" => "Din lønn vil være $1",
+		"salary_base" => "Lønns basisen er $1. For hvert nummer blir det lagt til $2 eller $3 credits til den endelige prisen",
+		"salary_max" => "<h6>Lønn - kan skaleres maks $1 ganger</h6>",
+		"salary_current" => "Din foreløpige lønn er: $1",
+
+		"license" => "Lisens",
+		"license_included" => "Du får en lisens inkludert i denne jobben",
+		"license_include" => "Inkluder lisens - Koster $1 eller $2 credits",
+		"license_no" => "Du får ikke en lisens",
+
+		"payment_confirmation" => "Betalingskonfirmasjon",
+		"job_total" => "Din totale sum er $1 eller $2 credits",
+		"job_proceed" => "Fortsett til betalingsportalen",
 	);
 
 ?>
