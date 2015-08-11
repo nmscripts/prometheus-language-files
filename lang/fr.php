@@ -403,50 +403,50 @@
 		 * New in 1.5.3
 		 */
 		
-		"duplicate" => "Duplicate",
-		"other" => "Other",
-		"someone_else" => "However, you can still buy it for someone else",
+		"duplicate" => "Dupliquer",
+		"other" => "Autre",
+		"someone_else" => "Cependant, vous pouvez toujours l'acheter pour quelqu'un d'autre",
 
 		/**
 		 * New in 1.5.4 -- Do not replace $1, $2, $3 etc, they get replaced with numbers and stuff automatically, so keep them there!
 		 */
 		
-		"here" => "here", // This is $1 in 'job_already_created' because it's wrapped in a link
-		"job_already_created" => "You have already created a custom job. If you want to proceed straight to checkout click $1. Otherwise you can create a new one",
+		"here" => "ici", // This is $1 in 'job_already_created' because it's wrapped in a link
+		"job_already_created" => "Vous avez déjà créé un travail personnalisé. Si vous souhaitez procéder directement au paiement cliquez sur $1. Sinon, vous pouvez en créer un nouveau",
 		
-		"general_info" => "General information",
-		"preferences" => "Preferences",
+		"general_info" => "Informations générales",
+		"preferences" => "Préferences",
 
-		"job_name" => "Job name",
-		"chat_cmd" => "Chat command to become this job",
-		"job_desc" => "Job description",
-		"job_colour" => "Job colour",
+		"job_name" => "Nom du travail",
+		"chat_cmd" => "Commande dans le chat pour devenir ce travail",
+		"job_desc" => "Description de l'emploi",
+		"job_colour" => "Couleur du travail",
 
-		"weapons" => "Weapons",
-		"models" => "Models",
-		"model" => "Model",
+		"weapons" => "Armes",
+		"models" => "Modèles",
+		"model" => "Modèle",
 		
-		"job_costs" => "Costs $1 or $2 credits",
+		"job_costs" => "Coûte $1 ou $2 crédits",
 
-		"friends" => "Friends",
-		"friends_max" => "<h6>Friends - $1 max</h6>",
-		"friends_add" => "For every friend you add it adds $1 or $2 credits to the final price",
-		"friends_not" => "You are not allowed to add any friends to this package",
+		"friends" => "Amis",
+		"friends_max" => "<h6>Amis - $1 max</h6>",
+		"friends_add" => "Pour chaque ami que vous ajoutre, cela ajoutera $1 ou $2 crédits au prix final",
+		"friends_not" => "Vous n'êtes pas autorisé à ajouter des amis à ce pack",
 
-		"salary" => "Salary",
-		"salary_static" => "Your salary will be $1",
-		"salary_base" => "The base salary is $1. For every number you up it by it adds $2 or $3 credits to the final price",
-		"salary_max" => "<h6>Salary - $1 max times to scale</h6>",
-		"salary_current" => "Your current salary is: $1",
+		"salary" => "Salaire",
+		"salary_static" => "Votre salaire sera de $1",
+		"salary_base" => "Le salaire de base est de $1. Pour chaque nombre que vous augmentez cela ajoutera $2 ou $3 crédits au prix final",
+		"salary_max" => "<h6>Salaire - $1 fois le max à l'échelle</h6>",
+		"salary_current" => "Votre salaire actuel est de: $1",
 
-		"license" => "License",
-		"license_included" => "You get a license included in the job",
-		"license_include" => "Include license - Costs $1 or $2 credits",
-		"license_no" => "You do not get a license",
+		"license" => "Permis",
+		"license_included" => "Vous obtenez un permis de port d'arme inclus dans le travail",
+		"license_include" => "Permis inclus - Coûte $1 ou $2 crédits",
+		"license_no" => "Vous ne recevez pas de permis",
 
-		"payment_confirmation" => "Payment confirmation",
-		"job_total" => "Your current total is $1 or $2 credits",
-		"job_proceed" => "Proceed to checkout",
+		"payment_confirmation" => "Confirmation de paiement",
+		"job_total" => "Votre total actuel est de $1 ou $2 crédits",
+		"job_proceed" => "Passer la commande",
 	);
 
 ?>
