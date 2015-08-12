@@ -72,8 +72,8 @@
 		"raffle_reached_max" => "Vous avez atteint le montant maximum d'entrées de tombola. L'entrée à la tombola vous est donc refusée.",
 
 		// Support
-		"create_ticket" => "Créer billet",
-		"ticket_closed" => "Ce billet est fermé.",
+		"create_ticket" => "Créer un ticket",
+		"ticket_closed" => "Ce ticket est fermé.",
 		"reply" => "Répondre",
 		"create" => "Créer",
 
