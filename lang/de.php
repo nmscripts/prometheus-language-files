@@ -435,6 +435,20 @@
 		"payment_confirmation" => "Zahlungsbestätigung",
 		"job_total" => "Momentane Kosten: $1 oder $2 Credits",
 		"job_proceed" => "Zur Kasse",
+
+		/**
+		 * New in 1.5.5
+		 */
+		
+		"job_total_nocredits" => "Your current total is $1",
+		"job_total_onlycredits" => "Your current total is $1 credits",
+		
+		"earned_total" => "TOTAL EARNED",
+		"earned_week" => "EARNED THIS WEEK",
+		"earned_month" => "EARNED THIS MONTH",
+
+		"real_transaction" => "Count as a real transaction",
+		"not_real_transaction" => "Do not count as a real transaction (Will not add money to any stats)",
 	);
 
 ?>

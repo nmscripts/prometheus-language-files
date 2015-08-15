@@ -450,6 +450,20 @@
 		"payment_confirmation" => "Betalingskonfirmasjon",
 		"job_total" => "Din totale sum er $1 eller $2 credits",
 		"job_proceed" => "Fortsett til betalingsportalen",
+
+		/**
+		 * New in 1.5.5
+		 */
+		
+		"job_total_nocredits" => "Din totale sum er $1",
+		"job_total_onlycredits" => "Din totale sum er $1 credits",
+		
+		"earned_total" => "TJENT TOTALT",
+		"earned_week" => "TJENT DENNE UKA",
+		"earned_month" => "TJENT DENNE MÅNEDEN",
+
+		"real_transaction" => "Tell som ordentlig betaling",
+		"not_real_transaction" => "Ikke tell som ordentlig betaling (Vil ikke legge til penger til statistikken)",
 	);
 
 ?>
