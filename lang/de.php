@@ -440,15 +440,15 @@
 		 * New in 1.5.5
 		 */
 		
-		"job_total_nocredits" => "Your current total is $1",
-		"job_total_onlycredits" => "Your current total is $1 credits",
+		"job_total_nocredits" => "Momentane Kosten: $1",
+		"job_total_onlycredits" => "Momentane Kosten: $1 Credits",
 		
-		"earned_total" => "TOTAL EARNED",
-		"earned_week" => "EARNED THIS WEEK",
-		"earned_month" => "EARNED THIS MONTH",
+		"earned_total" => "GESAMTER GEWINN",
+		"earned_week" => "GEWINN DIESER WOCHE",
+		"earned_month" => "GEWINN DIESES MONATS",
 
-		"real_transaction" => "Count as a real transaction",
-		"not_real_transaction" => "Do not count as a real transaction (Will not add money to any stats)",
+		"real_transaction" => "Als reelle Transaktion behandeln",
+		"not_real_transaction" => "Nicht als reelle Transaktion behandeln(Das Geld wird nicht zu irgendwelchen Stats hinzugefuegt)",
 	);
 
 ?>
