@@ -454,37 +454,37 @@
 		 * New in 1.6
 		 */
 
-		"active_everyone" => "Set active for everyone",
-		"buy_others_disabled" => "Buying for others is disabled on this system",
-		"job_skip_prize" => "Skip - Only click this if you do not want to claim this raffle prize",
+		"active_everyone" => "Fuer jeden aktivieren",
+		"buy_others_disabled" => "Die Möglichkeit etwas für andere kaufen ist deaktiviert",
+		"job_skip_prize" => "Ueberspringen - Nur wenn du diesen Verlosungspreis nicht in Anspruch nehmen moechtest",
 
-		"move_packages" => "Click $1 to move packages around",
+		"move_packages" => "Klicke $1 um Pakete zu bewegen",
 
-		"add" => "Add",
-		"edit" => "Edit",
+		"add" => "Hinzufuegen",
+		"edit" => "Bearbeiten",
 
 		// Theme
-		"theme" => "Theme",
-		"danger_theme" => "Don't delete this theme unless you are not currently using it!",
-		"sure_theme" => "Are you sure you want to delete this theme?",
-		"theme_name" => "Theme name",
+		"theme" => "Thema",
+		"danger_theme" => "Loesche dieses Thema nur, wenn du es aktuell nicht benutzt!",
+		"sure_theme" => "Bist du sicher, dass du dieses Thema loeschen moechtest?",
+		"theme_name" => "Themen Name",
 		
-		"edit_theme" => "Edit theme",
-		"add_theme" => "Add theme",
-		"select_theme" => "Select theme",
+		"edit_theme" => "Thema bearbeiten",
+		"add_theme" => "Thema hinzufuegen",
+		"select_theme" => "Thema hinzufuegen",
 
 		// Imprint page
-		"imprint" => "Imprint",
-		"enable_imprint" => "Enable imprint",
-		"company_name" => "Company name",
-		"street_address" => "Street address",
-		"post_address" => "Post address",
-		"country" => "Country",
-		"trade_register" => "Trade register",
-		"company_id" => "Company ID",
+		"imprint" => "Impressun",
+		"enable_imprint" => "Impressum aktivieren",
+		"company_name" => "Name des Unternehmens",
+		"street_address" => "Strasse",
+		"post_address" => "Postleitzahl, Stadt",
+		"country" => "Land",
+		"trade_register" => "Handelsregister",
+		"company_id" => "Unternehmens ID",
 		"company_ceo" => "CEO",
-		"contact_email" => "Contact email",
-		"contact_phone" => "Contact phone",
+		"contact_email" => "Kontakt EMail",
+		"contact_phone" => "Kontakt Telefon",
 	);
 
 ?>
