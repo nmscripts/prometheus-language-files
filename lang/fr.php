@@ -461,6 +461,42 @@
 
 		"real_transaction" => "Compter comme une réelle transaction",
 		"not_real_transaction" => "Ne pas compter comme une réelle transaction (pas de modif. dans les stats.)",
+		
+		/**
+		 * New in 1.6
+		 */
+
+		"active_everyone" => "Set active for everyone",
+		"buy_others_disabled" => "Buying for others is disabled on this system",
+		"job_skip_prize" => "Skip - Only click this if you do not want to claim this raffle prize",
+
+		"move_packages" => "Click $1 to move packages around",
+
+		"add" => "Add",
+		"edit" => "Edit",
+
+		// Theme
+		"theme" => "Theme",
+		"danger_theme" => "Don't delete this theme unless you are not currently using it!",
+		"sure_theme" => "Are you sure you want to delete this theme?",
+		"theme_name" => "Theme name",
+		
+		"edit_theme" => "Edit theme",
+		"add_theme" => "Add theme",
+		"select_theme" => "Select theme",
+
+		// Imprint page
+		"imprint" => "Imprint",
+		"enable_imprint" => "Enable imprint",
+		"company_name" => "Company name",
+		"street_address" => "Street address",
+		"post_address" => "Post address",
+		"country" => "Country",
+		"trade_register" => "Trade register",
+		"company_id" => "Company ID",
+		"company_ceo" => "CEO",
+		"contact_email" => "Contact email",
+		"contact_phone" => "Contact phone",
 	);
 
 ?>

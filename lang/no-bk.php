@@ -154,7 +154,7 @@
 		"packages_and_actions" => "Pakker & aksjoner",
 		"credit_packages" => "Credit pakker",
 		"raffles" => "Loddtrekninger",
-		"theme_editor" => "Theme editor",
+		"theme_editor" => "Tema editor",
 		"documentation" => "Dokumentasjon",
 
 		// General Settings
@@ -464,6 +464,42 @@
 
 		"real_transaction" => "Tell som ordentlig betaling",
 		"not_real_transaction" => "Ikke tell som ordentlig betaling (Vil ikke legge til penger til statistikken)",
+		
+		/**
+		 * New in 1.6
+		 */
+
+		"active_everyone" => "Sett aktiv for alle",
+		"buy_others_disabled" => "Å kjøpe for andre er skrudd av på dette systemet",
+		"job_skip_prize" => "Skip - Bare klikk denne knappen om du ikke vil ha raffle premien din",
+
+		"move_packages" => "Klikk $1 for å flytte pakker rundt",
+
+		"add" => "Legg til",
+		"edit" => "Rediger",
+
+		// Theme
+		"theme" => "Tema",
+		"danger_theme" => "Ikke slett dette temaet om du bruker det akkurat nå!",
+		"sure_theme" => "Er du sikker på at du vil slette dette temaet?",
+		"theme_name" => "Tema navn",
+
+		"edit_theme" => "Rediger tema",
+		"add_theme" => "Legg til tema",
+		"select_theme" => "Velg tema",
+
+		// Imprint page
+		"imprint" => "Forlag",
+		"enable_imprint" => "Skru på forlag",
+		"company_name" => "Firma navn",
+		"street_address" => "Gate adresse",
+		"post_address" => "Post addresse",
+		"country" => "Land",
+		"trade_register" => "Handelsregister",
+		"company_id" => "Firma ID",
+		"company_ceo" => "CEO",
+		"contact_email" => "Kontakt email",
+		"contact_phone" => "Kontakt tlf",
 	);
 
 ?>
