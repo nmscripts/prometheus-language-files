@@ -406,91 +406,91 @@
 		 * New in 1.5.4 -- Do not replace $1, $2, $3 etc, they get replaced with numbers and stuff automatically, so keep them there!
 		 */
 		
-		"here" => "here", // This is $1 in 'job_already_created' because it's wrapped in a link
-		"job_already_created" => "You have already created a custom job. If you want to proceed straight to checkout click $1. Otherwise you can create a new one",
+		"here" => "aqui", // This is $1 in 'job_already_created' because it's wrapped in a link
+		"job_already_created" => "Você já criou um emprego customizado. Se você quiser ir direto para o checkout clique $1. Ao invés, você pode criar um novo",
 		
-		"general_info" => "General information",
-		"preferences" => "Preferences",
+		"general_info" => "Informação geral",
+		"preferences" => "Preferências",
 
-		"job_name" => "Job name",
-		"chat_cmd" => "Chat command to become this job",
-		"job_desc" => "Job description",
-		"job_colour" => "Job colour",
+		"job_name" => "Nome do emprego",
+		"chat_cmd" => "Comando do chat para entrar nesse emprego",
+		"job_desc" => "Descrição do emprego",
+		"job_colour" => "Cor do emprego",
 
-		"weapons" => "Weapons",
-		"models" => "Models",
-		"model" => "Model",
+		"weapons" => "Armas",
+		"models" => "Modelos",
+		"model" => "Modelo",
 		
-		"job_costs" => "Costs $1 or $2 credits",
+		"job_costs" => "Custa $1 ou $2 créditos",
 
-		"friends" => "Friends",
-		"friends_max" => "<h6>Friends - $1 max</h6>",
-		"friends_add" => "For every friend you add it adds $1 or $2 credits to the final price",
-		"friends_not" => "You are not allowed to add any friends to this package",
+		"friends" => "Amigos",
+		"friends_max" => "<h6>Amigos - $1 no máximo</h6>",
+		"friends_add" => "Para cada amigo que você adiciona $1 ou $2 créditos são adicionados ao preço final",
+		"friends_not" => "Você não tem permissão para adicionar amigos a este pacote",
 
-		"salary" => "Salary",
-		"salary_static" => "Your salary will be $1",
-		"salary_base" => "The base salary is $1. For every number you up it by it adds $2 or $3 credits to the final price",
-		"salary_max" => "<h6>Salary - $1 max times to scale</h6>",
-		"salary_current" => "Your current salary is: $1",
+		"salary" => "Salário",
+		"salary_static" => "Seu salário será $1",
+		"salary_base" => "O salário base é $1. Para cada número que aumenta $2 ou $3 créditos são adicionados ao preço final",
+		"salary_max" => "<h6>Salário - $1 máximo de vezes de aumento</h6>",
+		"salary_current" => "Seu salário atual é: $1",
 
-		"license" => "License",
-		"license_included" => "You get a license included in the job",
-		"license_include" => "Include license - Costs $1 or $2 credits",
-		"license_no" => "You do not get a license",
+		"license" => "Licença",
+		"license_included" => "Você recebe uma licença automaticamente com o trabalho",
+		"license_include" => "Incluir licença - Custa $1 ou $2 créditos",
+		"license_no" => "Você não recebe uma licença",
 
-		"payment_confirmation" => "Payment confirmation",
-		"job_total" => "Your current total is $1 or $2 credits",
-		"job_proceed" => "Proceed to checkout",
+		"payment_confirmation" => "Confirmação de pagamento",
+		"job_total" => "Seu total atual é de $1 ou $2 crédito(s)",
+		"job_proceed" => "Proceder para o pagamento",
 
 		/**
 		 * New in 1.5.5
 		 */
 		
-		"job_total_nocredits" => "Your current total is $1",
-		"job_total_onlycredits" => "Your current total is $1 credits",
+		"job_total_nocredits" => "Seu total atual é de $1",
+		"job_total_onlycredits" => "Seu total atual é de $1 crédito(s)",
 		
-		"earned_total" => "TOTAL EARNED",
-		"earned_week" => "EARNED THIS WEEK",
-		"earned_month" => "EARNED THIS MONTH",
+		"earned_total" => "TOTAL GANHO",
+		"earned_week" => "GANHO ESSA SEMANA",
+		"earned_month" => "GANHO ESSE MÊS",
 
-		"real_transaction" => "Count as a real transaction",
-		"not_real_transaction" => "Do not count as a real transaction (Will not add money to any stats)",
+		"real_transaction" => "Conta como uma transação real",
+		"not_real_transaction" => "Não conta como uma transação real (Não irá adicionar dinheiro para qualquer status)",
 		
 		/**
 		 * New in 1.6
 		 */
 
-		"active_everyone" => "Set active for everyone",
-		"buy_others_disabled" => "Buying for others is disabled on this system",
-		"job_skip_prize" => "Skip - Only click this if you do not want to claim this raffle prize",
+		"active_everyone" => "Definir ativo para todos",
+		"buy_others_disabled" => "Comprar para outros está desabilitado neste sistema",
+		"job_skip_prize" => "Pular - Somente clique nisso se você não quiser assumir o prêmio deste sorteio",
 
-		"move_packages" => "Click $1 to move packages around",
+		"move_packages" => "Clique $1 para mover pacotes",
 
-		"add" => "Add",
-		"edit" => "Edit",
+		"add" => "Adicionar",
+		"edit" => "Editar",
 
 		// Theme
-		"theme" => "Theme",
-		"danger_theme" => "Don't delete this theme unless you are not currently using it!",
-		"sure_theme" => "Are you sure you want to delete this theme?",
-		"theme_name" => "Theme name",
+		"theme" => "Tema",
+		"danger_theme" => "Não delete esse tema a não ser que você não esteja utilizando-o atualmente",
+		"sure_theme" => "Você tem certeza que quer deletar este tema?",
+		"theme_name" => "Nome do tema",
 		
-		"edit_theme" => "Edit theme",
-		"add_theme" => "Add theme",
-		"select_theme" => "Select theme",
+		"edit_theme" => "Editar tema",
+		"add_theme" => "Adicionar tema",
+		"select_theme" => "Selecionar tema",
 
 		// Imprint page
-		"imprint" => "Imprint",
-		"enable_imprint" => "Enable imprint",
-		"company_name" => "Company name",
-		"street_address" => "Street address",
-		"post_address" => "Post address",
-		"country" => "Country",
-		"trade_register" => "Trade register",
-		"company_id" => "Company ID",
+		"imprint" => "Informações da empresa",
+		"enable_imprint" => "Habilitar informações da empresa",
+		"company_name" => "Nome da companhia",
+		"street_address" => "Logradouro",
+		"post_address" => "Endereço postal",
+		"country" => "País",
+		"trade_register" => "Registro comercial",
+		"company_id" => "ID da companhia",
 		"company_ceo" => "CEO",
-		"contact_email" => "Contact email",
-		"contact_phone" => "Contact phone",
+		"contact_email" => "Email de contato",
+		"contact_phone" => "Telefone de contato",
 	);
 ?>
