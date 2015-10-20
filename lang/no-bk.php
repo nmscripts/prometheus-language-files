@@ -500,6 +500,31 @@
 		"company_ceo" => "CEO",
 		"contact_email" => "Kontakt email",
 		"contact_phone" => "Kontakt tlf",
+
+		/**
+		 * New in 1.6.1
+		 */
+		"game" => "Spill",
+		"server_ip" => "Server IP",
+		"server_port" => "Server port",
+		"server_rcon" => "Server RCon",
+
+		"edit_raffle" => "Rediger trekning",
+		"add_raffle" => "Legg til trekning",
+		"select_raffle" => "Velg trekning:",
+
+		"package_cantbuy" => "Du kan ikke kjøpe denne pakken uten å eie en av de følgende: $1",
+		"package_they_cantbuy" => "Du kan ikke kjøpe denne pakken for denne person uten at de eier en av de følgende: $1",
+
+		"hide" => "Hvis du ikke eier noen av disse pakkene, kan du ikke få denne",
+		"hide_text" => "Hvis du ikke eier noen av pakkene nedenfor kan du ikke kjøpe denne",
+
+		"your_spendings" => "Ditt forbruk de siste 5 månedene",
+		"spendings_currency" => "Dette forbruket er vist i nettsidens hovedvaluta [$1]. Denne grafen sammenlikner penger brukt med credits brukt. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Penger = <font color='#c10000'><b>Red</b></font>)",
+	
+		"spent_total" => "TOTALT BRUKT",
+		"spent_week" => "BRUKT DENNE UKA",
+		"spent_month" => "BRUKT DENNE MÅNEDEN",
 	);
 
 ?>

@@ -485,6 +485,31 @@
 		"company_ceo" => "CEO",
 		"contact_email" => "Kontakt EMail",
 		"contact_phone" => "Kontakt Telefon",
+
+		/**
+		 * New in 1.6.1
+		 */
+		"game" => "Game",
+		"server_ip" => "Server IP",
+		"server_port" => "Server port",
+		"server_rcon" => "Server RCon",
+
+		"edit_raffle" => "Edit raffle",
+		"add_raffle" => "Add raffle",
+		"select_raffle" => "Select raffle:",
+
+		"package_cantbuy" => "You can't buy this package without owning one of the following: $1",
+		"package_they_cantbuy" => "They can't buy this package without owning one of the following: $1",
+
+		"hide" => "If you don't own any of these packages, you can't get this one",
+		"hide_text" => "If you dont own one of the packages selected below, then this package can't be bought",
+
+		"your_spendings" => "Your spendings the last 5 months",
+		"spendings_currency" => "These spendings are shown in this websites main currency [$1]. This graph compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+	
+		"spent_total" => "TOTAL SPENT",
+		"spent_week" => "SPENT THIS WEEK",
+		"spent_month" => "SPENT THIS MONTH",
 	);
 
 ?>
