@@ -472,8 +472,8 @@
 
 		"move_packages" => "Click $1 to move packages around",
 
-		"add" => "Add",
-		"edit" => "Edit",
+		"add" => "Ajouter",
+		"edit" => "Modifier",
 
 		// Theme
 		"theme" => "Theme",
@@ -481,27 +481,27 @@
 		"sure_theme" => "Are you sure you want to delete this theme?",
 		"theme_name" => "Theme name",
 		
-		"edit_theme" => "Edit theme",
-		"add_theme" => "Add theme",
-		"select_theme" => "Select theme",
+		"edit_theme" => "Modifier le thème",
+		"add_theme" => "Ajouter un thème",
+		"select_theme" => "Choisir un thème",
 
 		// Imprint page
 		"imprint" => "Imprint",
 		"enable_imprint" => "Enable imprint",
-		"company_name" => "Company name",
-		"street_address" => "Street address",
-		"post_address" => "Post address",
-		"country" => "Country",
+		"company_name" => "Nom de l'entreprise",
+		"street_address" => "Adresse",
+		"post_address" => "Adresse Postale",
+		"country" => "Pays",
 		"trade_register" => "Trade register",
 		"company_id" => "Company ID",
 		"company_ceo" => "CEO",
-		"contact_email" => "Contact email",
-		"contact_phone" => "Contact phone",
+		"contact_email" => "Courrier électronique",
+		"contact_phone" => "Numéro de téléphone",
 
 		/**
 		 * New in 1.6.1
 		 */
-		"game" => "Game",
+		"game" => "Jeu",
 		"server_ip" => "Server IP",
 		"server_port" => "Server port",
 		"server_rcon" => "Server RCon",
@@ -510,18 +510,18 @@
 		"add_raffle" => "Add raffle",
 		"select_raffle" => "Select raffle:",
 
-		"package_cantbuy" => "You can't buy this package without owning one of the following: $1",
-		"package_they_cantbuy" => "They can't buy this package without owning one of the following: $1",
+		"package_cantbuy" => "Vous ne pouvez pas acheter ce paquet sans posséder l'un des suivants: $1",
+		"package_they_cantbuy" => "Ils ne peuvent pas acheter ce paquet sans posséder l'un des suivants: $1",
 
-		"hide" => "If you don't own any of these packages, you can't get this one",
-		"hide_text" => "If you dont own one of the packages selected below, then this package can't be bought",
+		"hide" => "Si vous ne possédez pas un de ces paquets, vous ne pouvez pas obtenir celui-ci",
+		"hide_text" => "Si vous ne possédez pas l'un des paquets sélectionnés ci-dessous, alors ce paquet ne peut pas être acheté",
 
-		"your_spendings" => "Your spendings the last 5 months",
+		"your_spendings" => "Vos dépenses des 5 derniers mois",
 		"spendings_currency" => "These spendings are shown in this websites main currency [$1]. This graph compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
 	
-		"spent_total" => "TOTAL SPENT",
-		"spent_week" => "SPENT THIS WEEK",
-		"spent_month" => "SPENT THIS MONTH",
+		"spent_total" => "TOTAL DÉPENSÉ",
+		"spent_week" => "DÉPENSE CETTE SEMAINE",
+		"spent_month" => "DÉPENSE CE MOIS",
 	);
 
 ?>
