@@ -466,62 +466,62 @@
 		 * New in 1.6
 		 */
 
-		"active_everyone" => "Set active for everyone",
-		"buy_others_disabled" => "Buying for others is disabled on this system",
-		"job_skip_prize" => "Skip - Only click this if you do not want to claim this raffle prize",
+		"active_everyone" => "Ensemble actif pour tout le monde",
+		"buy_others_disabled" => "Acheter pour les autres est désactivée sur ce système",
+		"job_skip_prize" => "Sauter - Seulement cliquez sur ce si vous ne voulez pas réclamer ce prix de tombola",
 
-		"move_packages" => "Click $1 to move packages around",
+		"move_packages" => "Cliquez $1 pour déplacer autour de paquets",
 
-		"add" => "Add",
-		"edit" => "Edit",
+		"add" => "Ajouter",
+		"edit" => "Modifier",
 
 		// Theme
-		"theme" => "Theme",
-		"danger_theme" => "Don't delete this theme unless you are not currently using it!",
-		"sure_theme" => "Are you sure you want to delete this theme?",
-		"theme_name" => "Theme name",
+		"theme" => "Thème",
+		"danger_theme" => "Ne supprimez pas ce thème à moins que vous ne l'utilisez pas pour le moment!",
+		"sure_theme" => "Êtes-vous sûr de vouloir supprimer ce thème?",
+		"theme_name" => "Nom de thème",
 		
-		"edit_theme" => "Edit theme",
-		"add_theme" => "Add theme",
-		"select_theme" => "Select theme",
+		"edit_theme" => "Modifier un thème",
+		"add_theme" => "Ajouter un thème",
+		"select_theme" => "Sélectionnez un thème",
 
 		// Imprint page
 		"imprint" => "Imprint",
-		"enable_imprint" => "Enable imprint",
-		"company_name" => "Company name",
-		"street_address" => "Street address",
-		"post_address" => "Post address",
-		"country" => "Country",
-		"trade_register" => "Trade register",
-		"company_id" => "Company ID",
-		"company_ceo" => "CEO",
-		"contact_email" => "Contact email",
-		"contact_phone" => "Contact phone",
+		"enable_imprint" => "Activer imprint",
+		"company_name" => "Nom de l'entreprise",
+		"street_address" => "Adresse de la rue",
+		"post_address" => "Adresse poste",
+		"country" => "Pays",
+		"trade_register" => "Registre du commerce",
+		"company_id" => "L'entreprise ID",
+		"company_ceo" => "PDG",
+		"contact_email" => "Email du contact",
+		"contact_phone" => "Contact téléphonique",
 
 		/**
 		 * New in 1.6.1
 		 */
-		"game" => "Game",
+		"game" => "Jeu",
 		"server_ip" => "Server IP",
-		"server_port" => "Server port",
+		"server_port" => "Port de serveur",
 		"server_rcon" => "Server RCon",
 
-		"edit_raffle" => "Edit raffle",
-		"add_raffle" => "Add raffle",
-		"select_raffle" => "Select raffle:",
+		"edit_raffle" => "Modifier tombola",
+		"add_raffle" => "Ajouter tombola",
+		"select_raffle" => "Sélectionnez tombola:",
 
-		"package_cantbuy" => "You can't buy this package without owning one of the following: $1",
-		"package_they_cantbuy" => "They can't buy this package without owning one of the following: $1",
+		"package_cantbuy" => "Vous ne peut pas acheter ce paquet sans posséder l'un de suivants: $1",
+		"package_they_cantbuy" => "Il ne peut pas acheter ce paquet sans posséder l'un des suivants: $1",
 
-		"hide" => "If you don't own any of these packages, you can't get this one",
-		"hide_text" => "If you dont own one of the packages selected below, then this package can't be bought",
+		"hide" => "Si vous ne possédez pas un de ces paquets, vous ne pouvez pas obtenir celui-ci",
+		"hide_text" => "Si vous ne possédez pas l'un des forfaits sélectionnés ci-dessous, alors ce package ne peut pas être acheté",
 
-		"your_spendings" => "Your spendings the last 5 months",
-		"spendings_currency" => "These spendings are shown in this websites main currency [$1]. This graph compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+		"your_spendings" => "Vos dépenses dans le passé 5 mois",
+		"spendings_currency" => "Ces dépenses sont présentés dans ce sites principale monnaie [$1]. Ce graphique compare crédits dépensés pour l'argent dépensé. Bien que les crédits sont acquises avec de l'argent. (Crédits = <font color='#9c9c9c'><b>Gris</b></font>, Argent = <font color='#c10000'><b>Rouge</b></font>)",
 	
-		"spent_total" => "TOTAL SPENT",
-		"spent_week" => "SPENT THIS WEEK",
-		"spent_month" => "SPENT THIS MONTH",
+		"spent_total" => "TOTAL DÉPENSÉ",
+		"spent_week" => "DÉPENSÉ CETTE SEMAINE",
+		"spent_month" => "DÉPENSÉ CETTE MOIS",
 	);
 
 ?>
