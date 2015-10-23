@@ -508,7 +508,7 @@
 		"package_cantbuy" => "Você não pode comprar este pacote sem possuir um dos seguintes: $1",
 		"package_they_cantbuy" => "Eles não podem comprar este pacote sem possuir um dos seguintes: $1",
 
-		"hide" => "Se você não possui qualquer um destes pacotes, você não pode comprar este.",
+		"hide" => "Se você não possui qualquer um destes pacotes, você não pode comprar este",
 		"hide_text" => "Se você não possui um dos pacotes selecionados abaixo, então este pacote não pode ser comprado",
 
 		"your_spendings" => "Seus gastos nos últimos 5 meses",
