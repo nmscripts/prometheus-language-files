@@ -496,26 +496,26 @@
 		/**
 		 * New in 1.6.1
 		 */
-		"game" => "Game",
-		"server_ip" => "Server IP",
-		"server_port" => "Server port",
-		"server_rcon" => "Server RCon",
+		"game" => "Jogo",
+		"server_ip" => "IP do servidor",
+		"server_port" => "Porta do servidor",
+		"server_rcon" => "RCon do servidor",
 
-		"edit_raffle" => "Edit raffle",
-		"add_raffle" => "Add raffle",
-		"select_raffle" => "Select raffle:",
+		"edit_raffle" => "Editar sorteio",
+		"add_raffle" => "Adicionar sorteio",
+		"select_raffle" => "Selecionar sorteio:",
 
-		"package_cantbuy" => "You can't buy this package without owning one of the following: $1",
-		"package_they_cantbuy" => "They can't buy this package without owning one of the following: $1",
+		"package_cantbuy" => "Você não pode comprar este pacote sem possuir um dos seguintes: $1",
+		"package_they_cantbuy" => "Eles não podem comprar este pacote sem possuir um dos seguintes: $1",
 
-		"hide" => "If you don't own any of these packages, you can't get this one",
-		"hide_text" => "If you dont own one of the packages selected below, then this package can't be bought",
+		"hide" => "Se você não possui qualquer um destes pacotes, você não pode comprar este.",
+		"hide_text" => "Se você não possui um dos pacotes selecionados abaixo, então este pacote não pode ser comprado",
 
-		"your_spendings" => "Your spendings the last 5 months",
-		"spendings_currency" => "These spendings are shown in this websites main currency [$1]. This graph compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+		"your_spendings" => "Seus gastos nos últimos 5 meses",
+		"spendings_currency" => "Estes gastos são mostrados na moeda principal deste website [$1]. Este gráfico compara créditos gastos com dinheiro gasto. Embora créditos sejam aquiridos com dinheiro. (Créditos = <font color='#9c9c9c'><b>Cinza</b></font>, Dinheiro = <font color='#c10000'><b>Vermelho</b></font>)",
 	
-		"spent_total" => "TOTAL SPENT",
-		"spent_week" => "SPENT THIS WEEK",
-		"spent_month" => "SPENT THIS MONTH",
+		"spent_total" => "TOTAL GASTO",
+		"spent_week" => "GASTO ESTA SEMANA",
+		"spent_month" => "GASTO ESTE MÊS",
 	);
 ?>
