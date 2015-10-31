@@ -353,7 +353,7 @@
 		"give_ticket" => "Ticket geben",
 		"del_inactive_actions" => "Inaktive Aktionoen loeschen",
 
-		"select_pkg" => "Paket auswählen",
+		"select_pkg" => "Paket auswaehlen",
 		"do_assign_actions" => "Aktionen ausfuehren",
 		"dont_assign_actions" => "Aktionen nicht ausfuehren",
 		"clone_expiretime" => "verbleibende Zeit vom letzten Paket des gleichen Typs kopieren",
@@ -362,12 +362,12 @@
 		"set" => "Setzen", 
 		"disable" => "Deaktivieren",
 		"enable" => "Aktivieren",
-		"inactive_everyone" => "Für jeden inaktiv setzen",
+		"inactive_everyone" => "Fuer jeden inaktiv setzen",
 		"del" => "Del",
 		"edit" => "Bearbeiten",
 
 		"sale_settings" => "Sale Einstellungen",
-		"sale_text" => "Wähle die Pakete, welche im Sale angeboten werden sollen.",
+		"sale_text" => "Waehle die Pakete, welche im Sale angeboten werden sollen.",
 		"message" => "Nachricht",
 		"percentage" => "Prozent",
 		"end_date" => "End Datum",
@@ -400,7 +400,7 @@
 		 */
 		
 		"here" => "hier", // This is $1 in 'job_already_created' because it's wrapped in a link
-		"job_already_created" => "Du hast bereits einen eigenen Job erstellt. Wenn du direkt bezahlen möchtest klicke $1. Ansonsten kannst du einen neuen Job erstellen.",
+		"job_already_created" => "Du hast bereits einen eigenen Job erstellt. Wenn du direkt bezahlen moechtest klicke $1. Ansonsten kannst du einen neuen Job erstellen.",
 		
 		"general_info" => "Generelle Information",
 		"preferences" => "Praeferenzen",
@@ -418,7 +418,7 @@
 
 		"friends" => "Freunde",
 		"friends_max" => "<h6>Freunde - $1 max</h6>",
-		"friends_add" => "Fuer jeden Freund den du hinzufügst, kostet es $1 oder $2 Credits mehr",
+		"friends_add" => "Fuer jeden Freund den du hinzufuegst, kostet es $1 oder $2 Credits mehr",
 		"friends_not" => "Du darfst keine Freunde zu diesem Paket hinzufuegen",
 
 		"salary" => "Gehalt",
@@ -432,7 +432,7 @@
 		"license_include" => "Lizenz - Kostet $1 oder $2 Credits",
 		"license_no" => "Du bekommst keine Lizenz",
 
-		"payment_confirmation" => "Zahlungsbestätigung",
+		"payment_confirmation" => "Zahlungsbestaetigung",
 		"job_total" => "Momentane Kosten: $1 oder $2 Credits",
 		"job_proceed" => "Zur Kasse",
 
@@ -455,7 +455,7 @@
 		 */
 
 		"active_everyone" => "Fuer jeden aktivieren",
-		"buy_others_disabled" => "Die Möglichkeit etwas für andere kaufen ist deaktiviert",
+		"buy_others_disabled" => "Die Moeglichkeit etwas fuer andere kaufen ist deaktiviert",
 		"job_skip_prize" => "Ueberspringen - Nur wenn du diesen Verlosungspreis nicht in Anspruch nehmen moechtest",
 
 		"move_packages" => "Klicke $1 um Pakete zu bewegen",
@@ -495,17 +495,17 @@
 		"server_rcon" => "Server RCon",
 
 		"edit_raffle" => "Verlosung bearbeiten",
-		"add_raffle" => "Verlosung hinzufügen",
-		"select_raffle" => "Verlosung auswählen:",
+		"add_raffle" => "Verlosung hinzufuegen",
+		"select_raffle" => "Verlosung auswaehlen:",
 
 		"package_cantbuy" => "Du kannst dieses Paket nicht kaufen ohne eines der folgenden Pakete zu besitzen: $1",
 		"package_they_cantbuy" => "Dieses Paket kann nicht gekauft werden ohne eines der folgenden Pakete zu besitzen: $1",
 
 		"hide" => "Wenn du keines dieser Pakete besitzt, kannst du dieses nicht bekommen",
-		"hide_text" => "Wenn du keines der unten ausgewählten Pakete besitzt, kann dieses Paket nicht gekauft werden",
+		"hide_text" => "Wenn du keines der unten ausgewaehlten Pakete besitzt, kann dieses Paket nicht gekauft werden",
 
 		"your_spendings" => "Deine Spenden der letzten 5 Monate",
-		"spendings_currency" => "Die Spenden werden in der Website Haupt Währung [$1] angezeigt. Dieser Graph vergleicht Credit Spenden mit Geld Spenden. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Geld = <font color='#c10000'><b>Red</b></font>)",
+		"spendings_currency" => "Die Spenden werden in der Website Haupt Waehrung [$1] angezeigt. Dieser Graph vergleicht Credit Spenden mit Geld Spenden. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Geld = <font color='#c10000'><b>Red</b></font>)",
 	
 		"spent_total" => "INSGESAMT GESPENDET",
 		"spent_week" => "DIESE WOCHE GESPENDET",
