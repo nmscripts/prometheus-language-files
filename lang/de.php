@@ -489,27 +489,27 @@
 		/**
 		 * New in 1.6.1
 		 */
-		"game" => "Game",
+		"game" => "Spiel",
 		"server_ip" => "Server IP",
 		"server_port" => "Server port",
 		"server_rcon" => "Server RCon",
 
-		"edit_raffle" => "Edit raffle",
-		"add_raffle" => "Add raffle",
-		"select_raffle" => "Select raffle:",
+		"edit_raffle" => "Verlosung bearbeiten",
+		"add_raffle" => "Verlosung hinzufügen",
+		"select_raffle" => "Verlosung auswählen:",
 
-		"package_cantbuy" => "You can't buy this package without owning one of the following: $1",
-		"package_they_cantbuy" => "They can't buy this package without owning one of the following: $1",
+		"package_cantbuy" => "Du kannst dieses Paket nicht kaufen ohne eines der folgenden Pakete zu besitzen: $1",
+		"package_they_cantbuy" => "Dieses Paket kann nicht gekauft werden ohne eines der folgenden Pakete zu besitzen: $1",
 
-		"hide" => "If you don't own any of these packages, you can't get this one",
-		"hide_text" => "If you dont own one of the packages selected below, then this package can't be bought",
+		"hide" => "Wenn du keines dieser Pakete besitzt, kannst du dieses nicht bekommen",
+		"hide_text" => "Wenn du keines der unten ausgewählten Pakete besitzt, kann dieses Paket nicht gekauft werden",
 
-		"your_spendings" => "Your spendings the last 5 months",
-		"spendings_currency" => "These spendings are shown in this websites main currency [$1]. This graph compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+		"your_spendings" => "Deine Spenden der letzten 5 Monate",
+		"spendings_currency" => "Die Spenden werden in der Website Haupt Währung [$1] angezeigt. Dieser Graph vergleicht Credit Spenden mit Geld Spenden. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Geld = <font color='#c10000'><b>Red</b></font>)",
 	
-		"spent_total" => "TOTAL SPENT",
-		"spent_week" => "SPENT THIS WEEK",
-		"spent_month" => "SPENT THIS MONTH",
+		"spent_total" => "INSGESAMT GESPENDET",
+		"spent_week" => "DIESE WOCHE GESPENDET",
+		"spent_month" => "DIESEN MONATE GESPENDET",
 	);
 
 ?>
