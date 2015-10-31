@@ -413,117 +413,117 @@
 		 * New in 1.5.4 -- Do not replace $1, $2, $3 etc, they get replaced with numbers and stuff automatically, so keep them there!
 		 */
 		
-		"here" => "here", // This is $1 in 'job_already_created' because it's wrapped in a link
-		"job_already_created" => "You have already created a custom job. If you want to proceed straight to checkout click $1. Otherwise you can create a new one",
+		"here" => "hier", // This is $1 in 'job_already_created' because it's wrapped in a link
+		"job_already_created" => "Je heb al een custom baan gemaakt!. Als je door wilt gaan naar betalen klik dan $1. Anders kan je een nieuwe maken.",
 		
-		"general_info" => "General information",
-		"preferences" => "Preferences",
+		"general_info" => "Generale Informatie",
+		"preferences" => "Voorkeuren",
 
-		"job_name" => "Job name",
-		"chat_cmd" => "Chat command to become this job",
-		"job_desc" => "Job description",
-		"job_colour" => "Job colour",
+		"job_name" => "Baan naam",
+		"chat_cmd" => "Chat command om deze baan te worden",
+		"job_desc" => "Baan beschrijfing",
+		"job_colour" => "Baan kleur",
 
-		"weapons" => "Weapons",
-		"models" => "Models",
+		"weapons" => "Wapens",
+		"models" => "Modellen",
 		"model" => "Model",
 		
-		"job_costs" => "Costs $1 or $2 credits",
+		"job_costs" => "Kost $1 of $2 kredits",
 
-		"friends" => "Friends",
-		"friends_max" => "<h6>Friends - $1 max</h6>",
-		"friends_add" => "For every friend you add it adds $1 or $2 credits to the final price",
-		"friends_not" => "You are not allowed to add any friends to this package",
+		"friends" => "Frienden",
+		"friends_max" => "<h6>Frienden - $1 max</h6>",
+		"friends_add" => "Voor elke fried die je toevoegt $1 of $2 kredits op het totalen pris",
+		"friends_not" => "Je kan geen extra vrieden toevoegen bij dit pakket",
 
-		"salary" => "Salary",
-		"salary_static" => "Your salary will be $1",
-		"salary_base" => "The base salary is $1. For every number you up it by it adds $2 or $3 credits to the final price",
-		"salary_max" => "<h6>Salary - $1 max times to scale</h6>",
-		"salary_current" => "Your current salary is: $1",
+		"salary" => "Salaris",
+		"salary_static" => "Je salaris zal: $1 zijn",
+		"salary_base" => "De basis salaris is: $1. Voor elk nummer dat je toevoegt voeg je $2 of $3 kredits bij het totale prijs",
+		"salary_max" => "<h6>Salaris: - $1 max times to scale</h6>",
+		"salary_current" => "Je salaris is: $1",
 
-		"license" => "License",
-		"license_included" => "You get a license included in the job",
-		"license_include" => "Include license - Costs $1 or $2 credits",
-		"license_no" => "You do not get a license",
+		"license" => "Licentie",
+		"license_included" => "Je kan een license inclusief bij deze baan krijgen",
+		"license_include" => "Voeg eenLicentie toe - Kost $1 of $2 kredits",
+		"license_no" => "Je heb geen Licentie",
 
-		"payment_confirmation" => "Payment confirmation",
-		"job_total" => "Your current total is $1 or $2 credits",
-		"job_proceed" => "Proceed to checkout",
+		"payment_confirmation" => "Betalings bevestiging",
+		"job_total" => "Uw huidige totaal is $ 1 of $ 2 kredieten",
+		"job_proceed" => "Ga naar de kassa",
 
 		/**
 		 * New in 1.5.5
 		 */
 		
-		"job_total_nocredits" => "Your current total is $1",
-		"job_total_onlycredits" => "Your current total is $1 credits",
+		"job_total_nocredits" => "Uw huidige totaal is $ 1",
+		"job_total_onlycredits" => "Uw huidige totaal is $ 1 credits",
 		
-		"earned_total" => "TOTAL EARNED",
-		"earned_week" => "EARNED THIS WEEK",
-		"earned_month" => "EARNED THIS MONTH",
+		"earned_total" => "TOTAAL VERDIENDE",
+		"earned_week" => "VERDIENDE DEZE WEEK",
+		"earned_month" => "VERDIENDE DEZE MAAND",
 
-		"real_transaction" => "Count as a real transaction",
-		"not_real_transaction" => "Do not count as a real transaction (Will not add money to any stats)",
+		"real_transaction" => "Tellen als een echte transactie",
+		"not_real_transaction" =>  "Niet mee tellen als een echte transactie (Zal geen geld toe te voegen aan elke stats)",
 		
 		/**
 		 * New in 1.6
 		 */
 
-		"active_everyone" => "Set active for everyone",
-		"buy_others_disabled" => "Buying for others is disabled on this system",
-		"job_skip_prize" => "Skip - Only click this if you do not want to claim this raffle prize",
+		"active_everyone" => "Stel actief voor iedereen",
+		"buy_others_disabled" => "Kopen voor anderen is uitgeschakeld op dit systeem",
+		"job_skip_prize" => "Skip - Alleen op deze als je niet wilt dat deze loterij prijs te claimen",
 
-		"move_packages" => "Click $1 to move packages around",
+		"move_packages" => "Klik op $1 om pakketten te verplaatsen aroun",
 
-		"add" => "Add",
-		"edit" => "Edit",
+		"add" => "toevoegen",
+		"edit" => "Bewerk",
 
 		// Theme
-		"theme" => "Theme",
-		"danger_theme" => "Don't delete this theme unless you are not currently using it!",
-		"sure_theme" => "Are you sure you want to delete this theme?",
-		"theme_name" => "Theme name",
+		"theme" => "Thema",
+		"danger_theme" => "Gebruik dit thema niet verwijderen, tenzij u momenteel niet gebruikt!",
+		"sure_theme" => "Bent u zeker dat u dit thema wilt verwijderen?",
+		"theme_name" => "Thema naam",
 		
-		"edit_theme" => "Edit theme",
-		"add_theme" => "Add theme",
-		"select_theme" => "Select theme",
+		"edit_theme" => "thema bewerken",
+		"add_theme" => "thema toe te voegen",
+		"select_theme" => "thema selecteren",
 
 		// Imprint page
-		"imprint" => "Imprint",
-		"enable_imprint" => "Enable imprint",
-		"company_name" => "Company name",
-		"street_address" => "Street address",
-		"post_address" => "Post address",
-		"country" => "Country",
-		"trade_register" => "Trade register",
-		"company_id" => "Company ID",
+		"imprint" => "afdruk",
+		"enable_imprint" => "inschakelen opdruk",
+		"company_name" => "Bedrijfsnaam",
+		"street_address" => "straatnaam",
+		"post_address" => "postcode",
+		"country" => "land",
+		"trade_register" => "handelsregister (KVK)",
+		"company_id" => "bedrijf ID",
 		"company_ceo" => "CEO",
 		"contact_email" => "Contact email",
-		"contact_phone" => "Contact phone",
+		"contact_phone" => "Contact telefoon",
 
 		/**
 		 * New in 1.6.1
 		 */
-		"game" => "Game",
-		"server_ip" => "Server IP",
+		"game" => "spel",
+		"server_ip" => "server IP",
 		"server_port" => "Server port",
 		"server_rcon" => "Server RCon",
 
-		"edit_raffle" => "Edit raffle",
-		"add_raffle" => "Add raffle",
-		"select_raffle" => "Select raffle:",
+		"edit_raffle" => "loterij bewerken",
+		"add_raffle" => "loterij toevoegen",
+		"select_raffle" => "Selecteer loterij:",
 
-		"package_cantbuy" => "You can't buy this package without owning one of the following: $1",
-		"package_they_cantbuy" => "They can't buy this package without owning one of the following: $1",
+		"package_cantbuy" => "U kunt dit pakket niet kopen zonder het bezit van één van de volgende: $1",
+		"package_they_cantbuy" => "Zij kunnen dit pakket niet kopen zonder het bezit van één van de volgende: $1",
 
-		"hide" => "If you don't own any of these packages, you can't get this one",
-		"hide_text" => "If you dont own one of the packages selected below, then this package can't be bought",
+		"hide" => "Als u niet een van deze pakketten bezitten, kunt u deze niet krijgen",
+		"hide_text" => "Als je niet zelf een van de onderstaande geselecteerde pakketten, dan is dit pakket kan niet worden gekocht",
 
-		"your_spendings" => "Your spendings the last 5 months",
-		"spendings_currency" => "These spendings are shown in this websites main currency [$1]. This graph compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+		"your_spendings" => "Uw bestedingen de afgelopen 5 maanden",
+		"spendings_currency" => "Deze bestedingen zijn in deze websites belangrijkste valuta [$1]. Deze grafiek vergelijkt kredieten uitgegeven om geld besteed. Hoewel credits worden verworven met geld. Credits = <font color='#9c9c9c'><b>Gray</b></font>, Geld = <font color='#c10000'><b>Red</b></font>)",
 	
-		"spent_total" => "TOTAL SPENT",
-		"spent_week" => "SPENT THIS WEEK",
-		"spent_month" => "SPENT THIS MONTH",
+		"spent_total" => "TOTAAL UITGEGEVEN",
+		"spent_week" => "UITGEGEVEN DEZEZ WEEK",
+		"spent_month" => "UITGEGEVEN DEZE MAAND",
 	);
 
 ?>
