@@ -447,17 +447,17 @@
 		"license_no" => "Je heb geen Licentie",
 
 		"payment_confirmation" => "Betalings bevestiging",
-		"job_total" => "Uw huidige totaal is $ 1 of $ 2 kredieten",
+		"job_total" => "Uw huidige totaal is $1 of $2 kredieten",
 		"job_proceed" => "Ga naar de kassa",
 
 		/**
 		 * New in 1.5.5
 		 */
 		
-		"job_total_nocredits" => "Uw huidige totaal is $ 1",
-		"job_total_onlycredits" => "Uw huidige totaal is $ 1 credits",
+		"job_total_nocredits" => "Uw huidige totaal is $1",
+		"job_total_onlycredits" => "Uw huidige totaal is $1 credits",
 		
-		"earned_total" => "TOTAAL VERDIENDE",
+		"earned_total" => "TOTAAL VERDIEND",
 		"earned_week" => "VERDIENDE DEZE WEEK",
 		"earned_month" => "VERDIENDE DEZE MAAND",
 
