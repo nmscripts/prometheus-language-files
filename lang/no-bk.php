@@ -525,6 +525,16 @@
 		"spent_total" => "TOTALT BRUKT",
 		"spent_week" => "BRUKT DENNE UKA",
 		"spent_month" => "BRUKT DENNE MÅNEDEN",
+
+		/**
+		 * New in 1.6.1.5
+		 */
+		"advent_calendar" => "Advent kalender",
+		"advent" => "Advent",
+		"day" => "Dag",
+		"advent_opened" => "Du har åpnet dag $1 og fått $2!",
+		"advent_nopkg" => "Denne dagen har ingen pakker tilknyttet seg, kontakt en administrator om dette",
+		"advent_text" => "Få en gratis pakke hver eneste dag fra den første desember, til den 24!(Julaften)",
 	);
 
 ?>
