@@ -514,12 +514,12 @@
 		/**
 		 * New in 1.6.1.5
 		 */
-		"advent_calendar" => "Advent calendar",
+		"advent_calendar" => "Adventskalender",
 		"advent" => "Advent",
-		"day" => "Day",
-		"advent_opened" => "You have opened day $1 and received $2!",
-		"advent_nopkg" => "This day has no package assigned to it, please contact your community's administrator about this",
-		"advent_text" => "Get one free package every single day starting from the 1st of December to the Christmas Eve, the 24th!",
+		"day" => "Tag",
+		"advent_opened" => "Du hast heute $1 geöffnet und $2 erhalten!",
+		"advent_nopkg" => "Für heute ist kein Geschenk eingetragen. Bitte den Owner darüber informieren!",
+		"advent_text" => "Bekomme jeden Tag ein kostenloses Geschenk vom 1. Dezember bis zum 24. Dezember!",
 	);
 
 ?>
