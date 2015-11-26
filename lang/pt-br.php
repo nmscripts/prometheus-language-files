@@ -521,11 +521,11 @@
 		/**
 		 * New in 1.6.1.5
 		 */
-		"advent_calendar" => "Advent calendar",
-		"advent" => "Advent",
-		"day" => "Day",
-		"advent_opened" => "You have opened day $1 and received $2!",
-		"advent_nopkg" => "This day has no package assigned to it, please contact your community's administrator about this",
-		"advent_text" => "Get one free package every single day starting from the 1st of December to the Christmas Eve, the 24th!",
+		"advent_calendar" => "Calendário de adventos",
+		"advent" => "Advento",
+		"day" => "Dia",
+		"advent_opened" => "Você abriu o dia $1 e recebeu $2!",
+		"advent_nopkg" => "Este dia não nenhum pacote designado a ele, por favor entre em contato com o administrador da sua comunidade sobre isto",
+		"advent_text" => "Ganhe um pacote grátis todo dia a partir do dia 1 de Dezembro até a véspera do Natal, dia 24!",
 	);
 ?>
