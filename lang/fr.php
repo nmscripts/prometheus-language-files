@@ -8,7 +8,7 @@
 	 * When I push a Prometheus update there will be a new section at the bottom of the en-gb language file each time there's an update.
 	 * If the new values are not set it will fallback to the default ones.
 	 *
-	 * French translation courtesy of Hikage, Scozor and Yellow.
+	 * French translation courtesy of Hikage, Scozor, Yellow and TristanP13.
 	 */
 	
     /**
@@ -466,26 +466,27 @@
 		 * New in 1.6
 		 */
 
-		"active_everyone" => "Set active for everyone",
-		"buy_others_disabled" => "Buying for others is disabled on this system",
-		"job_skip_prize" => "Skip - Only click this if you do not want to claim this raffle prize",
+		"active_everyone" => "Ensemble actif pour tout le monde",
+		"buy_others_disabled" => "Acheter pour les autres est désactivée sur ce système",
+		"job_skip_prize" => "Passer - Seulement cliquez sur ce si vous ne voulez pas réclamer ce prix de tombola",
 
-		"move_packages" => "Click $1 to move packages around",
+		"move_packages" => "Cliquez $1 pour déplacer autour de packs",
 
 		"add" => "Add",
 		"edit" => "Edit",
 
 		// Theme
 		"theme" => "Theme",
-		"danger_theme" => "Don't delete this theme unless you are not currently using it!",
-		"sure_theme" => "Are you sure you want to delete this theme?",
-		"theme_name" => "Theme name",
+		"danger_theme" => "Ne supprimez pas ce theme à moins que vous ne l'utilisez pas pour le moment!",
+		"sure_theme" => "Êtes-vous sûr de vouloir supprimer ce theme?",
+		"theme_name" => "Nom de theme",
 		
 		"edit_theme" => "Edit theme",
 		"add_theme" => "Add theme",
 		"select_theme" => "Select theme",
 
 		// Imprint page
+		// Haven't had a chance to update this yet, must be done at some point
 		"imprint" => "Imprint",
 		"enable_imprint" => "Enable imprint",
 		"company_name" => "Company name",
@@ -501,27 +502,27 @@
 		/**
 		 * New in 1.6.1
 		 */
-		"game" => "Game",
+		"game" => "Jeu",
 		"server_ip" => "Server IP",
 		"server_port" => "Server port",
 		"server_rcon" => "Server RCon",
 
-		"edit_raffle" => "Edit raffle",
-		"add_raffle" => "Add raffle",
-		"select_raffle" => "Select raffle:",
+		"edit_raffle" => "Modifier tombola",
+		"add_raffle" => "Ajouter tombola",
+		"select_raffle" => "Selectez tombola:",
 
-		"package_cantbuy" => "You can't buy this package without owning one of the following: $1",
-		"package_they_cantbuy" => "They can't buy this package without owning one of the following: $1",
+		"package_cantbuy" => "Vous ne pouvez pas acheter ca pack sans posséder l'un des suivants: $1",
+		"package_they_cantbuy" => "Ils ne peuvent pas acheter ca pack sans posséder l'un des suivants: $1",
 
-		"hide" => "If you don't own any of these packages, you can't get this one",
-		"hide_text" => "If you dont own one of the packages selected below, then this package can't be bought",
+		"hide" => "Si vous ne possédez pas un de ces packs, vous ne pouvez pas obtenir celui-ci",
+		"hide_text" => "Si vous ne possédez pas l'un des packs sélectionnés ci-dessous, alors ce package ne peut pas être acheté",
 
-		"your_spendings" => "Your spendings the last 5 months",
-		"spendings_currency" => "These spendings are shown in this websites main currency [$1]. This graph compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+		"your_spendings" => "Vos dépenses sont les 5 derniers mois",
+		"spendings_currency" => "Ces dépenses sont présentés dans ce sites principale monnaie [$1]. Ce graphique compare crédits dépensés pour l'argent dépensé. Bien que les crédits sont aquired avec de l'argent. (Crédits = <font color='#9c9c9c'><b>Gris</b></font>, Argent = <font color='#c10000'><b>Red</b></font>)",
 	
-		"spent_total" => "TOTAL SPENT",
-		"spent_week" => "SPENT THIS WEEK",
-		"spent_month" => "SPENT THIS MONTH",
+		"spent_total" => "TOTAL DÉPENSÉ",
+		"spent_week" => "DÉPENSÉ CETTE SEMAINE",
+		"spent_month" => "DÉPENSÉ CETTE MOIS",
 	);
 
 ?>
