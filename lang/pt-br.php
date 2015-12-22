@@ -527,5 +527,15 @@
 		"advent_opened" => "Você abriu o dia $1 e recebeu $2!",
 		"advent_nopkg" => "Este dia não nenhum pacote designado a ele, por favor entre em contato com o administrador da sua comunidade sobre isto",
 		"advent_text" => "Ganhe um pacote grátis todo dia a partir do dia 1 de Dezembro até a véspera do Natal, dia 24!",
+
+		/**
+		 * New in 1.6.2
+		 */
+		"coupons" => "Coupons",
+		"add_cou" => "Add coupon",
+		"edit_cou" => "Edit coupon",
+		"select_cou" => "Select coupon",
+		"sure_cou" => "Are you sure you want to delete this coupon?",
+		"coupon_text" => "If you have a coupon code you can add it here :)",
 	);
 ?>

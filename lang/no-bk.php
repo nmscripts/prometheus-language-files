@@ -535,6 +535,16 @@
 		"advent_opened" => "Du har åpnet dag $1 og fått $2!",
 		"advent_nopkg" => "Denne dagen har ingen pakker tilknyttet seg, kontakt en administrator om dette",
 		"advent_text" => "Få en gratis pakke hver eneste dag fra den første desember, til den 24!(Julaften)",
+
+		/**
+		 * New in 1.6.2
+		 */
+		"coupons" => "Kuponger",
+		"add_cou" => "Legg til kupong",
+		"edit_cou" => "Rediger kupong",
+		"select_cou" => "Velg kupong",
+		"sure_cou" => "Er du sikker på at du vil slette denne kupongen?",
+		"coupon_text" => "Hvis du har en kupongkode så kan du bruke den her :)",
 	);
 
 ?>

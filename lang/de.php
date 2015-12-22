@@ -520,6 +520,16 @@
 		"advent_opened" => "Du hast heute $1 geöffnet und $2 erhalten!",
 		"advent_nopkg" => "Für heute ist kein Geschenk eingetragen. Bitte den Owner darüber informieren!",
 		"advent_text" => "Bekomme jeden Tag ein kostenloses Geschenk vom 1. Dezember bis zum 24. Dezember!",
+
+		/**
+		 * New in 1.6.2
+		 */
+		"coupons" => "Coupons",
+		"add_cou" => "Add coupon",
+		"edit_cou" => "Edit coupon",
+		"select_cou" => "Select coupon",
+		"sure_cou" => "Are you sure you want to delete this coupon?",
+		"coupon_text" => "If you have a coupon code you can add it here :)",
 	);
 
 ?>
