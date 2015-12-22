@@ -8,7 +8,7 @@
 	 * When I push a Prometheus update there will be a new section at the bottom of the en-gb language file each time there's an update.
 	 * If the new values are not set it will fallback to the default ones.
 	 *
-	 * French translation courtesy of Hikage, Scozor and Yellow.
+	 * French translation courtesy of Hikage, Scozor, Yellow and Tristan.
 	 */
 	
     /**
@@ -510,10 +510,10 @@
 		"add_raffle" => "Ajouter tombola",
 		"select_raffle" => "Sélectionnez tombola:",
 
-		"package_cantbuy" => "Vous ne peut pas acheter ce paquet sans posséder l'un de suivants: $1",
-		"package_they_cantbuy" => "Il ne peut pas acheter ce paquet sans posséder l'un des suivants: $1",
+		"package_cantbuy" => "Vous ne peut pas acheter ce pack sans posséder l'un de suivants: $1",
+		"package_they_cantbuy" => "Il ne peut pas acheter ce pack sans posséder l'un des suivants: $1",
 
-		"hide" => "Si vous ne possédez pas un de ces paquets, vous ne pouvez pas obtenir celui-ci",
+		"hide" => "Si vous ne possédez pas un de ces pack, vous ne pouvez pas obtenir celui-ci",
 		"hide_text" => "Si vous ne possédez pas l'un des forfaits sélectionnés ci-dessous, alors ce package ne peut pas être acheté",
 
 		"your_spendings" => "Vos dépenses dans le passé 5 mois",
@@ -526,6 +526,7 @@
 		/**
 		 * New in 1.6.1.5
 		 */
+<<<<<<< HEAD
 		"advent_calendar" => "Advent calendar",
 		"advent" => "Advent",
 		"day" => "Day",
@@ -542,6 +543,14 @@
 		"select_cou" => "Select coupon",
 		"sure_cou" => "Are you sure you want to delete this coupon?",
 		"coupon_text" => "If you have a coupon code you can add it here :)",
+=======
+		"advent_calendar" => "Calendrier de l'Avent",
+		"advent" => "L'Avent",
+		"day" => "Jour",
+		"advent_opened" => "Vous avez ouvert le jour $1 et $2 reçu!",
+		"advent_nopkg" => "Cette journée a aucun pack qui lui est attribué, s'il vous plaît contactez l'administrateur de votre communauté à ce sujet",
+		"advent_text" => "Obtenez un forfait gratuit chaque jour à partir de 1er Décembre à la veille de Noël, le 24!",
+>>>>>>> e0506019599f5e3de092d82d73d8af09d889dc82
 	);
 
 ?>
