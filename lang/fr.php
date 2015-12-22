@@ -526,13 +526,13 @@
 		/**
 		 * New in 1.6.1.5
 		 */
-<<<<<<< HEAD
-		"advent_calendar" => "Advent calendar",
-		"advent" => "Advent",
-		"day" => "Day",
-		"advent_opened" => "You have opened day $1 and received $2!",
-		"advent_nopkg" => "This day has no package assigned to it, please contact your community's administrator about this",
-		"advent_text" => "Get one free package every single day starting from the 1st of December to the Christmas Eve, the 24th!",
+
+		"advent_calendar" => "Calendrier de l'Avent",
+		"advent" => "L'Avent",
+		"day" => "Jour",
+		"advent_opened" => "Vous avez ouvert le jour $1 et $2 reçu!",
+		"advent_nopkg" => "Cette journée a aucun pack qui lui est attribué, s'il vous plaît contactez l'administrateur de votre communauté à ce sujet",
+		"advent_text" => "Obtenez un forfait gratuit chaque jour à partir de 1er Décembre à la veille de Noël, le 24!",
 
 		/**
 		 * New in 1.6.2
@@ -543,14 +543,6 @@
 		"select_cou" => "Select coupon",
 		"sure_cou" => "Are you sure you want to delete this coupon?",
 		"coupon_text" => "If you have a coupon code you can add it here :)",
-=======
-		"advent_calendar" => "Calendrier de l'Avent",
-		"advent" => "L'Avent",
-		"day" => "Jour",
-		"advent_opened" => "Vous avez ouvert le jour $1 et $2 reçu!",
-		"advent_nopkg" => "Cette journée a aucun pack qui lui est attribué, s'il vous plaît contactez l'administrateur de votre communauté à ce sujet",
-		"advent_text" => "Obtenez un forfait gratuit chaque jour à partir de 1er Décembre à la veille de Noël, le 24!",
->>>>>>> e0506019599f5e3de092d82d73d8af09d889dc82
 	);
 
 ?>
