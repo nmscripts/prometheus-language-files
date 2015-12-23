@@ -521,7 +521,7 @@
 	
 		"spent_total" => "TOTAL DÉPENSÉ",
 		"spent_week" => "DÉPENSÉ CETTE SEMAINE",
-		"spent_month" => "DÉPENSÉ CETTE MOIS",
+		"spent_month" => "DÉPENSÉ CE MOIS",
 
 		/**
 		 * New in 1.6.1.5
@@ -538,11 +538,11 @@
 		 * New in 1.6.2
 		 */
 		"coupons" => "Coupons",
-		"add_cou" => "Add coupon",
-		"edit_cou" => "Edit coupon",
-		"select_cou" => "Select coupon",
-		"sure_cou" => "Are you sure you want to delete this coupon?",
-		"coupon_text" => "If you have a coupon code you can add it here :)",
+		"add_cou" => "Ajouter coupon",
+		"edit_cou" => "Editer coupon",
+		"select_cou" => "Selectionner coupon",
+		"sure_cou" => "Etes vous sûr de vouloir supprimer ce coupon ?",
+		"coupon_text" => "Si vous avez un code de promotion, vous pouvez le rajouter ici :)",
 	);
 
 ?>
