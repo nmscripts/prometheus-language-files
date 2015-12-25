@@ -531,11 +531,11 @@
 		/**
 		 * New in 1.6.2
 		 */
-		"coupons" => "Coupons",
-		"add_cou" => "Add coupon",
-		"edit_cou" => "Edit coupon",
-		"select_cou" => "Select coupon",
-		"sure_cou" => "Are you sure you want to delete this coupon?",
-		"coupon_text" => "If you have a coupon code you can add it here :)",
+		"coupons" => "Cupons",
+		"add_cou" => "Adicionar cupom",
+		"edit_cou" => "Editar cupom",
+		"select_cou" => "Selecionar cupom",
+		"sure_cou" => "Você tem certeza que quer deletar este cupom?",
+		"coupon_text" => "Se você tem um cupom, você pode o adicionar aqui :)",
 	);
 ?>
