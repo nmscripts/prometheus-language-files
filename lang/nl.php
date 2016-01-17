@@ -528,22 +528,22 @@
 		/**
 		 * New in 1.6.1.5
 		 */
-		"advent_calendar" => "Advent calendar",
+		"advent_calendar" => "Adventskalender",
 		"advent" => "Advent",
-		"day" => "Day",
-		"advent_opened" => "You have opened day $1 and received $2!",
-		"advent_nopkg" => "This day has no package assigned to it, please contact your community's administrator about this",
-		"advent_text" => "Get one free package every single day starting from the 1st of December to the Christmas Eve, the 24th!",
+		"day" => "Dag",
+		"advent_opened" => "Je hebt dag $1 geopend en gekregen $2!",
+		"advent_nopkg" => "Deze dag heeft geen pakket toegewezen, neem dan contact op met de beheerder van uw gemeenschap over dit",
+		"advent_text" => "Krijgen een gratis pakket elke dag vanaf 1 december naar de kerstavond, de 24ste!",
 
 		/**
 		 * New in 1.6.2
 		 */
 		"coupons" => "Coupons",
-		"add_cou" => "Add coupon",
-		"edit_cou" => "Edit coupon",
-		"select_cou" => "Select coupon",
-		"sure_cou" => "Are you sure you want to delete this coupon?",
-		"coupon_text" => "If you have a coupon code you can add it here :)",
+		"add_cou" => "Coupon Toevoegen",
+		"edit_cou" => "Coupon Bewerken",
+		"select_cou" => "Coupon Selecteren",
+		"sure_cou" => "Weet je zeker dat je deze coupon verwijderen?",
+		"coupon_text" => "Als u een coupon code heeft kun je deze hier toevoegen =)",
 	);
 
 ?>
