@@ -16,27 +16,27 @@
 		"buy_credits" => "Credits kaufen",
 		"raffles" => "Verlosungen",
 		"profile" => "Profil",
-		"support" => "Support",
+		"support" => "Hilfe",
 		"admin" => "Admin",
 		"sign_out" => "Abmelden",
 		"sign_in" => "Anmelden",
 
 		// Header errors and messages
-		"not_setup" => "You have not set up your panel properly! <a href='admin.php?a=gen&p=settings'>Click here</a> [Admin -> General Settings -> Settings]",
-		"header_sandbox" => "PayPal Sandbox is enabled. Only use sandbox for testing! You can disable it <a href='admin.php?a=gen&p=paypal'>here</a>",
-		"missing_action" => "One or more packages is missing an action!",
-		"unfinished_action" => "You have an un-finished action in the 'Profile' page, <a href='profile.php'>here</a>",
+		"not_setup" => "Das Interface ist nicht richtig Eingestellt! <a href='admin.php?a=gen&p=settings'>Klicke hier</a> [Admin -> General Settings -> Settings]",
+		"header_sandbox" => "PayPal Sandbox ist ativiert. Benutze dies nur zum Tester! Deaktiviere es <a href='admin.php?a=gen&p=paypal'>hier</a>",
+		"missing_action" => "Ein oder Mehrere Angebote fehlen!",
+		"unfinished_action" => "Du hast eine nicht fertige Einstellung, <a href='profile.php'>hier</a>",
 
 		// Frontpage
 		"welcome" => "Willkommen - Anmelden",
-		"welcome_text" => "Bitte melde dich mit Steam an um dem Server zu spenden.",
+		"welcome_text" => "Bitte melde dich mit Steam an um an den Server zu spenden.",
 
 		// News
-		"news" => "News",
+		"news" => "Neuigkeiten",
 		"by" => "Von",
-		"no_news" => "Keine News",
-		"no_news_text" => "Es gibt momentan keine News",
-		"no_news_articles" => "Keine neuen News Artikel",
+		"no_news" => "Keine Neuigkeiten",
+		"no_news_text" => "Es gibt momentan keine Neuigkeiten",
+		"no_news_articles" => "Keine Neuigkeiten",
 
 		// Footer
 		"tos" => "Nutzungsbedingungen",
@@ -524,12 +524,12 @@
 		/**
 		 * New in 1.6.2
 		 */
-		"coupons" => "Coupons",
-		"add_cou" => "Add coupon",
-		"edit_cou" => "Edit coupon",
-		"select_cou" => "Select coupon",
-		"sure_cou" => "Are you sure you want to delete this coupon?",
-		"coupon_text" => "If you have a coupon code you can add it here :)",
+		"coupons" => "Gutscheine",
+		"add_cou" => "Gutschein Hinzufügen",
+		"edit_cou" => "Gutschein Bearbeiten",
+		"select_cou" => "Gutschein auswaehlen",
+		"sure_cou" => "Bist du sicher, dass du diesen Gutschein löschen willst?",
+		"coupon_text" => "Wenn du einen Gutschein-Code hast, füge ihn hier ein :)",
 	);
 
 ?>
