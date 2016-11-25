@@ -266,7 +266,7 @@
 		"entries" => "entries",
 		"you_can_enter" => "You can enter",
 		"times_more" => "time(s) more",
-		"dashboard_creditsrevenue" => "This graph also compares credits spent to money spent. Although credits are aquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
+		"dashboard_creditsrevenue" => "This graph also compares credits spent to money spent. Although credits are acquired with money. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Money = <font color='#c10000'><b>Red</b></font>)",
 		"pkg_discounted" => "This package is discounted because you own",
 
 		"compatible_text" => "If you own this package, you can't get the packages selected below",
