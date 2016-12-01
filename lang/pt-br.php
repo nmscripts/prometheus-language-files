@@ -193,7 +193,7 @@
 		 * New in 1.4.7.2
 		 */
 		"welcome_main" => "Bem Vindo",
-		"need_credits" => "Precisa de mais créditos? <a href='store.php?credits'>Clique aqui!</a>",
+		"need_credits" => "Precisa de mais créditos? <a href='store.php?page=credits'>Clique aqui!</a>",
 		"no_history" => "Nenhum histórico",
 		"amount" => "Quantidade",
 		"you_have_none" => "Você tem nenhum!",

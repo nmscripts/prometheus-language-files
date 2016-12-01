@@ -199,7 +199,7 @@
 		 * New in 1.4.7.2
 		 */
 		"welcome_main" => "Welkom",
-		"need_credits" => "Heb je meer credits nodig?? <a href='store.php?credits'>Klik hier!</a>",
+		"need_credits" => "Heb je meer credits nodig?? <a href='store.php?page=credits'>Klik hier!</a>",
 		"no_history" => "Geen Geschidenis",
 		"amount" => "Hoeveelheid",
 		"you_have_none" => "Jij heb er geen!",

@@ -196,7 +196,7 @@
          * New in 1.4.7.2
          */
         "welcome_main" => "Velkommen!",
-        "need_credits" => "Mangler flere credits? <a href='store.php?credits'>Klik her!</a>",
+        "need_credits" => "Mangler flere credits? <a href='store.php?page=credits'>Klik her!</a>",
         "no_history" => "Ingen historie",
         "amount" => "Antal",
         "you_have_none" => "Du har ingen!",
