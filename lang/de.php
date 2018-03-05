@@ -351,7 +351,7 @@
 		"assign_package" => "Paket zuweisen",
 		"set_credits" => "Credits setzen",
 		"give_ticket" => "Ticket geben",
-		"del_inactive_actions" => "Inaktive Aktionoen loeschen",
+		"del_inactive_actions" => "Inaktive Aktionen loeschen",
 
 		"select_pkg" => "Paket auswaehlen",
 		"do_assign_actions" => "Aktionen ausfuehren",
@@ -509,7 +509,7 @@
 	
 		"spent_total" => "INSGESAMT GESPENDET",
 		"spent_week" => "DIESE WOCHE GESPENDET",
-		"spent_month" => "DIESEN MONATE GESPENDET",
+		"spent_month" => "DIESEN MONAT GESPENDET",
 
 		/**
 		 * New in 1.6.1.5
@@ -518,7 +518,7 @@
 		"advent" => "Advent",
 		"day" => "Tag",
 		"advent_opened" => "Du hast heute $1 geöffnet und $2 erhalten!",
-		"advent_nopkg" => "Für heute ist kein Geschenk eingetragen. Bitte den Owner darüber informieren!",
+		"advent_nopkg" => "Für heute ist kein Geschenk eingetragen. Bitte den Support darüber informieren!",
 		"advent_text" => "Bekomme jeden Tag ein kostenloses Geschenk vom 1. Dezember bis zum 24. Dezember!",
 
 		/**
