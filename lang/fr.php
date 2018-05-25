@@ -30,8 +30,8 @@
 		"profile" => "Profil",
 		"support" => "Support",
 		"admin" => "Administration",
-		"sign_out" => "Se Déconnecter",
-		"sign_in" => "Se Connecter",
+		"sign_out" => "Se déconnecter",
+		"sign_in" => "Se connecter",
 
 		// Header errors and messages
 		"not_setup" => "Vous n'avez pas configuré votre panneau correctement ! <a href='admin.php?a=gen&p=settings'>Cliquez ici</a> [Administration ->  Paramètres généraux -> Paramètres]",
@@ -44,10 +44,10 @@
 		"welcome_text" => "Connectez-vous par le biais de Steam pour utiliser notre portail de dons simplifié.",
 
 		// News
-		"news" => "Nouvelles",
+		"news" => "Actualités",
 		"by" => "Par",
-		"no_news" => "Pas de nouvelles",
-		"no_news_text" => "Il n'y a pas de nouvelles.",
+		"no_news" => "Pas d'actualités",
+		"no_news_text" => "Il n'y a pas d'actualités.",
 		"no_news_articles" => "Pas de nouveaux articles.",
 
 		// Footer
@@ -62,11 +62,11 @@
 
 		"select_credit" => "Selectionner Pack de Crédit",
 		"select_raffle" => "Selectionner Pack de Tombola",
-		"global_packages" => "Pack Globaux",
+		"global_packages" => "Pack globaux",
 
 		// Raffles
 		"raffle_ticket" => "Acheter un ticket",
-		"raffle_ended" => "La tombola a pris fin, le gagnant est: ",
+		"raffle_ended" => "La tombola a pris fin, le gagnant est : ",
 		"raffle_not_compatible" => "Ce pack n'est pas compatible avec celui que vous possédez. L'entrée à la tombola vous est donc refusée.",
 		"raffle_already_own" => "Vous possédez déjà ce pack. L'entrée à la tombola vous est donc refusée.",
 		"raffle_reached_max" => "Vous avez atteint le montant maximum d'entrées de tombola. L'entrée à la tombola vous est donc refusée.",
@@ -78,7 +78,7 @@
 		"create" => "Créer",
 
 		// Terms of Service
-		"tos_edited" => "Les CGU ont été édité. Veuillez accepter les <a href='tos.php'>conditions générales d'utilisation</a> avant d'acheter un paquet !",
+		"tos_edited" => "Les CGU ont été éditées. Veuillez accepter les <a href='tos.php'>conditions générales d'utilisation</a> avant d'acheter un paquet !",
 		"tos_must_accept" => "Vous devez accepter les CGU avant d'acheter !",
 		"tos_accept" => "Accepter",
 
