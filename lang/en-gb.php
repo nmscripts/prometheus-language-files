@@ -534,7 +534,18 @@
 		"select_cou" => "Select coupon",
 		"sure_cou" => "Are you sure you want to delete this coupon?",
 		"coupon_text" => "If you have a coupon code you can add it here :)",
+		
+		/**
+		 * New in 1.6.3.23
+		 */
+		"privacy" => "Privacy Policy",
+       		"enable_privacy" => "Enable Privacy Policy",
 
+		/**
+		 * New in 1.6.3.25
+		 */
+		"link_expire" => "Link expiration time",
+		"link_expire_text" => "If you own any of the selected packages, and they have not expired, this package adds their expire time to this one and deactivates the other ones",
 	);
 
 	$curfile = __FILE__;
