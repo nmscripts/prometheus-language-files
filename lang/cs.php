@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	
 	/**
 	 * Language array
@@ -25,7 +25,7 @@
 		"not_setup" => "Nenastavili jste svůj panel správně! <a href='admin.php?a=gen&p=settings'>Klikněte zde</a> [Admin -> Obecné nastavení -> Nastavení]",
 		"header_sandbox" => "PayPal Sandbox je povolen. Používejte pouze pískoviště pro testování! Můžete ho zakázat <a href='admin.php?a=gen&p=paypal'>zde</a>",
 		"missing_action" => "Jeden nebo více balíků chybí akce!",
-		"unfinished_action" => "Máte nehotové akce na stránce "Profil", <a href='profile.php'>zde</a>",
+		"unfinished_action" => "Máte nehotové akce na stránce \"Profil\", <a href='profile.php'>zde</a>",
 
 		// Frontpage
 		"welcome" => "Vítejte - Přihlašte se",
