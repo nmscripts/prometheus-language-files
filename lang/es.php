@@ -8,7 +8,7 @@
 	 * When I push a Prometheus update there will be a new section at the bottom of the en-gb language file each time there's an update.
 	 * If the new values are not set it will fallback to the default ones.
 	 *
-	 * Spanish translation courtesy of Skymax00
+	 * Spanish translation courtesy of Skymax00 and Rockztame
 	 */
 	
 	/**
@@ -537,6 +537,38 @@
 		"sure_cou" => "Seguro que quieres eliminar este cupón?",
 		"coupon_text" => "Si tienes un cupón, puedes agregarlo aquí",
 
+				/**
+		 * New in 1.6.3.23 - Added in 1.7._
+		 */
+		"privacy" => "Política de privacidad",
+        "enable_privacy" => "Habilitar política de privacidad",
+
+		/**
+		 * New in 1.6.3.25 - Added in 1.7._
+		 */
+		"link_expire" => "Tiempo de caducidad del enlace",
+		"link_expire_text" => "Si posee alguno de los paquetes seleccionados y no han caducado, este paquete agrega su tiempo de caducidad a este y desactiva los otros",
+
+		/**
+		 * New in 1.6.4 - Added in 1.7._
+		 */
+		"advent_opened_both" => "¡Abriste el día $ 1 y recibiste $ 2 y $ 3 créditos!",
+		"advent_opened_credits" => "¡Has abierto el día $ 1 y has recibido $ 2 créditos!",
+		"advent_opened_nothing" => "Usted ha abierto el día $ 1, lamentablemente no recibió nada :(",
+		
+		/**
+		* 1.7._
+		*/
+		
+		"hightolow" => "Precio (Caro - Barata)",
+		"lowtohigh" => "Perico(Barata - Caro)",
+		"categories_store" => "Categoría",
+		"sort_by" => "Ordenar Por",
+		"search_by" => "Buscar",
+		"category_all" => "Todo",
+		"id_search" => "ID(Primero)",
+		"search_one" => "Buscar por título, descripción, etiqueta",
+		
 	);
 
 ?>

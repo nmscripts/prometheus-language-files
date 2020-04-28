@@ -534,18 +534,38 @@
 		"select_cou" => "Select coupon",
 		"sure_cou" => "Are you sure you want to delete this coupon?",
 		"coupon_text" => "If you have a coupon code you can add it here :)",
-		
+
 		/**
 		 * New in 1.6.3.23
 		 */
 		"privacy" => "Privacy Policy",
-       		"enable_privacy" => "Enable Privacy Policy",
+        "enable_privacy" => "Enable Privacy Policy",
 
 		/**
 		 * New in 1.6.3.25
 		 */
 		"link_expire" => "Link expiration time",
 		"link_expire_text" => "If you own any of the selected packages, and they have not expired, this package adds their expire time to this one and deactivates the other ones",
+
+		/**
+		 * New in 1.6.4
+		 */
+		"advent_opened_both" => "You have opened day $1 and received $2 and $3 credits!",
+		"advent_opened_credits" => "You have opened day $1 and received $2 credits!",
+		"advent_opened_nothing" => "You have opened day $1 unfortunately received nothing :(",
+		
+		/**
+		* New not in update 
+		*/
+		
+		"hightolow" => "Price(High To Low)",
+		"lowtohigh" => "Price(Low to High)",
+		"categories_store" => "Categories",
+		"sort_by" => "Sort By",
+		"search_by" => "Search",
+		"category_all" => "All",
+		"id_search" => "ID (Default)",
+		"search_one" => "Search(Title, Description, Labels)",
 	);
 
 	$curfile = __FILE__;

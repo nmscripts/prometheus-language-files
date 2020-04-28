@@ -21,7 +21,7 @@
     $dir = 'ltr';
 	
 	$lang = array(
-
+		
 		// Navigation bar
 		"home" => "Accueil",
 		"store" => "Magasin",
@@ -38,7 +38,7 @@
 		"header_sandbox" => "PayPal Sandbox est activé. N'utilisez le sandbox que pour les tests ! Vous pouvez le désactiver <a href='admin.php?a=gen&p=paypal'>ici</a>",
 		"missing_action" => " Il manque une action dans un ou plusieurs pack(s)",
 		"unfinished_action" => "Vous avez une action inachevée sur la page 'Profil', <a href='profile.php'>ici</a>",
-
+		"short" => "Contact téléphonique",
 		// Frontpage
 		"welcome" => "Bienvenue - Inscrivez-vous",
 		"welcome_text" => "Connectez-vous par le biais de Steam pour utiliser notre portail de dons simplifié.",
@@ -459,7 +459,7 @@
 		"earned_week" => "OBTENU CETTE SEMAINE",
 		"earned_month" => "OBTENU CE MOIS",
 
-		"real_transaction" => "Compter comme une réelle transaction",
+		/*"real_transaction" => "Compter comme une réelle transaction", */
 		"not_real_transaction" => "Ne pas compter comme une réelle transaction (pas de modif. dans les stats.)",
 		
 		/**
@@ -497,10 +497,11 @@
 		"company_ceo" => "PDG",
 		"contact_email" => "Email du contact",
 		"contact_phone" => "Contact téléphonique",
-
+		
 		/**
 		 * New in 1.6.1
 		 */
+		
 		"game" => "Jeu",
 		"server_ip" => "Server IP",
 		"server_port" => "Port de serveur",
@@ -526,7 +527,7 @@
 		/**
 		 * New in 1.6.1.5
 		 */
-
+		"search_one" => "Rechercher (titre, description, étiquettes)",
 		"advent_calendar" => "Calendrier de l'Avent",
 		"advent" => "L'Avent",
 		"day" => "Jour",
@@ -543,6 +544,15 @@
 		"select_cou" => "Selectionner coupon",
 		"sure_cou" => "Etes vous sûr de vouloir supprimer ce coupon ?",
 		"coupon_text" => "Si vous avez un code de promotion, vous pouvez le rajouter ici :)",
+	    "hightolow" => "Prix (Ordre décroissant)",
+		"lowtohigh" => "Prix (Ordre croissant)",
+		"categories_store" => "Catégories",
+		"sort_by" => "Trier par",
+		"search_by" => "Rechercher",
+		"category_all" => "Tout",
+		"id_search" => "ID (Par défaut)",
+		
 	);
 
+	
 ?>
