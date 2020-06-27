@@ -59,7 +59,6 @@
         "non_permanent" => "Non Permanent",
 
         "select_credit" => "Select Credit Package",
-        "select_raffle" => "Select Raffle Package",
         "global_packages" => "Global Packages",
 
         // Raffles
@@ -151,7 +150,6 @@
         "categories" => "Categories",
         "packages_and_actions" => "Packages & actions",
         "credit_packages" => "Credit packages",
-        "raffles" => "Raffles",
         "theme_editor" => "Theme editor",
         "documentation" => "Documentation",
 
@@ -279,7 +277,6 @@
         "assign_actions" => "Assign actions",
         "actions_text" => "Assign what actions you want this package to perform after it has been purchased by a player.",
         "actions" => "Actions",
-        "servers" => "Servers",
         "label_amount" => "Label amount",
         "add_package" => "Add package",
         "edit_package" => "Edit package",
@@ -465,7 +462,6 @@
         "move_packages" => "Click $1 to move packages around",
 
         "add" => "Add",
-        "edit" => "Edit",
 
         // Theme
         "theme" => "Theme",
