@@ -551,7 +551,7 @@ $lang = array(
     "advent_opened_nothing" => "You have opened day $1 unfortunately received nothing :(",
 
     /**
-     * New in 1.7.5
+     * New in 1.7.6
      */
     "hightolow" => "Price (High To Low)",
     "lowtohigh" => "Price (Low to High)",

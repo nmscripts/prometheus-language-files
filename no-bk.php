@@ -537,7 +537,7 @@ $lang = array(
     "coupon_text" => "Hvis du har en kupongkode så kan du bruke den her :)",
 
     /**
-     * New in 1.7.5
+     * New in 1.7.6
      */
     "hightolow" => "Pris (Høy til lav)",
     "lowtohigh" => "Price (Lav til høy)",
