@@ -33,7 +33,7 @@
         "sign_out" => "Log ud",
         "sign_in" => "Log ind",
   
-        // Header errors and messages    
+        // Header errors and messages
         "not_setup" => "Du har ikke sat dit panel up korrekt! <a href='admin.php?a=gen&p=settings'>Klik her</a> [Admin -> General Settings -> Settings]",
         "header_sandbox" => "Paypal sandbox er slået til. Brug kun asndbox for testing! Du kan slå det fra <a href='admin.php?a=gen&p=paypal'>her</a>",
         "missing_action" => "En eller flere pakke mangler en handling!",
@@ -542,5 +542,3 @@
         "sure_cou" => "Er du sikker på at du vil slette denne rabatkode?",
         "coupon_text" => "Hvis du har en rabatkode kan du tilføje den her :)",
     );
-  
-?>
